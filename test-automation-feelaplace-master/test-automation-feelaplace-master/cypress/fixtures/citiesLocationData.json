@@ -1,0 +1,8342 @@
+[
+    {
+      "CityId": 4536,
+      "CityName": "Agra"
+    },
+    {
+      "CityId": 707,
+      "CityName": "New Delhi"
+    },
+    {
+      "CityId": 3378,
+      "CityName": "Jaipur"
+    },
+    {
+      "CityId": 4460,
+      "CityName": "Hyderabad"
+    },
+    {
+      "CityId": 48326,
+      "CityName": "Pavagadh"
+    },
+    {
+      "CityId": 3915,
+      "CityName": "Mahabalipuram"
+    },
+    {
+      "CityId": 2707,
+      "CityName": "Mumbai"
+    },
+    {
+      "CityId": 2499,
+      "CityName": "Aurangabad"
+    },
+    {
+      "CityId": 3323,
+      "CityName": "Bharatpur"
+    },
+    {
+      "CityId": 3482,
+      "CityName": "Rajsamand"
+    },
+    {
+      "CityId": 5219,
+      "CityName": "Almora"
+    },
+    {
+      "CityId": 5022,
+      "CityName": "Noida"
+    },
+    {
+      "CityId": 3297,
+      "CityName": "Alwar"
+    },
+    {
+      "CityId": 5252,
+      "CityName": "Haridwar"
+    },
+    {
+      "CityId": 5292,
+      "CityName": "Ramnagar"
+    },
+    {
+      "CityId": 48421,
+      "CityName": "Sasaram"
+    },
+    {
+      "CityId": 48339,
+      "CityName": "Mysuru"
+    },
+    {
+      "CityId": 2995,
+      "CityName": "Bhubaneswar"
+    },
+    {
+      "CityId": 1119,
+      "CityName": "Faridabad"
+    },
+    {
+      "CityId": 1197,
+      "CityName": "Thanesar"
+    },
+    {
+      "CityId": 1833,
+      "CityName": "Vijayapura"
+    },
+    {
+      "CityId": 1535,
+      "CityName": "Badami"
+    },
+    {
+      "CityId": 1536,
+      "CityName": "Bagalkot"
+    },
+    {
+      "CityId": 4505,
+      "CityName": "Warangal"
+    },
+    {
+      "CityId": 48330,
+      "CityName": "Garhgaon"
+    },
+    {
+      "CityId": 48476,
+      "CityName": "Sivasagar"
+    },
+    {
+      "CityId": 4401,
+      "CityName": "Vellore"
+    },
+    {
+      "CityId": 2715,
+      "CityName": "Nagpur"
+    },
+    {
+      "CityId": 5283,
+      "CityName": "Nainital"
+    },
+    {
+      "CityId": 1181,
+      "CityName": "Rohtak"
+    },
+    {
+      "CityId": 1558,
+      "CityName": "Bengaluru"
+    },
+    {
+      "CityId": 48855,
+      "CityName": "Thirumayam"
+    },
+    {
+      "CityId": 3703,
+      "CityName": "Dindigul"
+    },
+    {
+      "CityId": 48354,
+      "CityName": "Gingee"
+    },
+    {
+      "CityId": 48355,
+      "CityName": "Deeg"
+    },
+    {
+      "CityId": 4830,
+      "CityName": "Jhansi"
+    },
+    {
+      "CityId": 3414,
+      "CityName": "Kumbhalgarh"
+    },
+    {
+      "CityId": 5619,
+      "CityName": "Murshidabad"
+    },
+    {
+      "CityId": 1320,
+      "CityName": "Leh"
+    },
+    {
+      "CityId": 48356,
+      "CityName": "Kalinjar"
+    },
+    {
+      "CityId": 2763,
+      "CityName": "Pune"
+    },
+    {
+      "CityId": 4760,
+      "CityName": "Ghazipur"
+    },
+    {
+      "CityId": 1232,
+      "CityName": "Kangra"
+    },
+    {
+      "CityId": 48754,
+      "CityName": "Bekal"
+    },
+    {
+      "CityId": 1930,
+      "CityName": "Kochi"
+    },
+    {
+      "CityId": 1003,
+      "CityName": "Patan"
+    },
+    {
+      "CityId": 5211,
+      "CityName": "Varanasi"
+    },
+    {
+      "CityId": 3659,
+      "CityName": "Chennai"
+    },
+    {
+      "CityId": 1492,
+      "CityName": "Ranchi"
+    },
+    {
+      "CityId": 1041,
+      "CityName": "Surat"
+    },
+    {
+      "CityId": 2045,
+      "CityName": "Thiruvananthapuram"
+    },
+    {
+      "CityId": 2050,
+      "CityName": "Thrissur"
+    },
+    {
+      "CityId": 41391,
+      "CityName": "Dubai"
+    },
+    {
+      "CityId": 17726,
+      "CityName": "Paris"
+    },
+    {
+      "CityId": 3532,
+      "CityName": "Udaipur"
+    },
+    {
+      "CityId": 3387,
+      "CityName": "Jodhpur"
+    },
+    {
+      "CityId": 2412,
+      "CityName": "Sanchi"
+    },
+    {
+      "CityId": 48319,
+      "CityName": "Hampi"
+    },
+    {
+      "CityId": 48779,
+      "CityName": "Daulatabad"
+    },
+    {
+      "CityId": 48338,
+      "CityName": "Alibaug"
+    },
+    {
+      "CityId": 2268,
+      "CityName": "Khajuraho"
+    },
+    {
+      "CityId": 2214,
+      "CityName": "Gwalior"
+    },
+    {
+      "CityId": 2164,
+      "CityName": "Chanderi"
+    },
+    {
+      "CityId": 3064,
+      "CityName": "Konark"
+    },
+    {
+      "CityId": 4147,
+      "CityName": "Pudukottai"
+    },
+    {
+      "CityId": 48837,
+      "CityName": "Madiyanallur"
+    },
+    {
+      "CityId": 48821,
+      "CityName": "Kodumbalur"
+    },
+    {
+      "CityId": 749,
+      "CityName": "Panaji"
+    },
+    {
+      "CityId": 371,
+      "CityName": "Guwahati"
+    },
+    {
+      "CityId": 49306,
+      "CityName": "Kondapur"
+    },
+    {
+      "CityId": 3346,
+      "CityName": "Chittorgarh"
+    },
+    {
+      "CityId": 48747,
+      "CityName": "Kalibangan"
+    },
+    {
+      "CityId": 5722,
+      "CityName": "Tamluk"
+    },
+    {
+      "CityId": 48357,
+      "CityName": "Nalanda"
+    },
+    {
+      "CityId": 480,
+      "CityName": "Bodh Gaya"
+    },
+    {
+      "CityId": 592,
+      "CityName": "Vaishali"
+    },
+    {
+      "CityId": 2610,
+      "CityName": "Junnar"
+    },
+    {
+      "CityId": 48749,
+      "CityName": "Awantipora"
+    },
+    {
+      "CityId": 48360,
+      "CityName": "Dholavira"
+    },
+    {
+      "CityId": 48348,
+      "CityName": "Saragwala"
+    },
+    {
+      "CityId": 48345,
+      "CityName": "Amaravati"
+    },
+    {
+      "CityId": 5583,
+      "CityName": "Kolkata"
+    },
+    {
+      "CityId": 287,
+      "CityName": "Visakhapatnam"
+    },
+    {
+      "CityId": 612,
+      "CityName": "Bhilai"
+    },
+    {
+      "CityId": 48343,
+      "CityName": "Darjeeling"
+    },
+    {
+      "CityId": 4546,
+      "CityName": "Allahabad"
+    },
+    {
+      "CityId": 5214,
+      "CityName": "Vrindavan"
+    },
+    {
+      "CityId": 3295,
+      "CityName": "Ajmer"
+    },
+    {
+      "CityId": 3438,
+      "CityName": "Mount Abu"
+    },
+    {
+      "CityId": 3383,
+      "CityName": "Jhalawar"
+    },
+    {
+      "CityId": 48374,
+      "CityName": "Gagron"
+    },
+    {
+      "CityId": 3337,
+      "CityName": "Bundi"
+    },
+    {
+      "CityId": 42219,
+      "CityName": "London"
+    },
+    {
+      "CityId": 48551,
+      "CityName": "Middlesex"
+    },
+    {
+      "CityId": 49005,
+      "CityName": "Brooklyn"
+    },
+    {
+      "CityId": 48019,
+      "CityName": "New York City"
+    },
+    {
+      "CityId": 2771,
+      "CityName": "Raigad"
+    },
+    {
+      "CityId": 2672,
+      "CityName": "Lonavala"
+    },
+    {
+      "CityId": 48862,
+      "CityName": "Windsor"
+    },
+    {
+      "CityId": 48802,
+      "CityName": "Richmond"
+    },
+    {
+      "CityId": 48834,
+      "CityName": "Wisley"
+    },
+    {
+      "CityId": 48732,
+      "CityName": "Amesbury"
+    },
+    {
+      "CityId": 50274,
+      "CityName": "Amesbury"
+    },
+    {
+      "CityId": 48475,
+      "CityName": "Mandu"
+    },
+    {
+      "CityId": 4933,
+      "CityName": "Lucknow"
+    },
+    {
+      "CityId": 48772,
+      "CityName": "Bargaon"
+    },
+    {
+      "CityId": 2821,
+      "CityName": "Solapur"
+    },
+    {
+      "CityId": 43236,
+      "CityName": "San Diego"
+    },
+    {
+      "CityId": 43239,
+      "CityName": "San Francisco"
+    },
+    {
+      "CityId": 44039,
+      "CityName": "Savannah"
+    },
+    {
+      "CityId": 45584,
+      "CityName": "Paradise"
+    },
+    {
+      "CityId": 46113,
+      "CityName": "Philadelphia"
+    },
+    {
+      "CityId": 47855,
+      "CityName": "Albany"
+    },
+    {
+      "CityId": 48760,
+      "CityName": "Chandragiri"
+    },
+    {
+      "CityId": 49448,
+      "CityName": "Dublin"
+    },
+    {
+      "CityId": 50044,
+      "CityName": "Samseong-dong"
+    },
+    {
+      "CityId": 30178,
+      "CityName": "Amsterdam"
+    },
+    {
+      "CityId": 932,
+      "CityName": "Kevadiya"
+    },
+    {
+      "CityId": 48731,
+      "CityName": "Philadelphia"
+    },
+    {
+      "CityId": 48765,
+      "CityName": "Oxford"
+    },
+    {
+      "CityId": 48854,
+      "CityName": "Bath"
+    },
+    {
+      "CityId": 48423,
+      "CityName": "Modhera"
+    },
+    {
+      "CityId": 42802,
+      "CityName": "Alameda"
+    },
+    {
+      "CityId": 44173,
+      "CityName": "Chicago"
+    },
+    {
+      "CityId": 48788,
+      "CityName": "Kirby Misperton"
+    },
+    {
+      "CityId": 14805,
+      "CityName": "Prague"
+    },
+    {
+      "CityId": 37541,
+      "CityName": "Singapore"
+    },
+    {
+      "CityId": 22855,
+      "CityName": "Rome"
+    },
+    {
+      "CityId": 48842,
+      "CityName": "Vatican City"
+    },
+    {
+      "CityId": 21039,
+      "CityName": "Budapest"
+    },
+    {
+      "CityId": 20758,
+      "CityName": "Jocotenango"
+    },
+    {
+      "CityId": 24106,
+      "CityName": "Kingston"
+    },
+    {
+      "CityId": 48800,
+      "CityName": "Lacovia"
+    },
+    {
+      "CityId": 48789,
+      "CityName": "Soufriere"
+    },
+    {
+      "CityId": 48815,
+      "CityName": "Castries"
+    },
+    {
+      "CityId": 48830,
+      "CityName": "Castries"
+    },
+    {
+      "CityId": 51042,
+      "CityName": "-"
+    },
+    {
+      "CityId": 48827,
+      "CityName": "Welchman Hall"
+    },
+    {
+      "CityId": 48322,
+      "CityName": "Bridgetown"
+    },
+    {
+      "CityId": 48427,
+      "CityName": "Bathsheba"
+    },
+    {
+      "CityId": 48428,
+      "CityName": "Saint Peter Parish"
+    },
+    {
+      "CityId": 48792,
+      "CityName": "Saint George"
+    },
+    {
+      "CityId": 48750,
+      "CityName": "Farley Hill"
+    },
+    {
+      "CityId": 48695,
+      "CityName": "Saint Peter Parish"
+    },
+    {
+      "CityId": 48817,
+      "CityName": "St. Andrew"
+    },
+    {
+      "CityId": 48432,
+      "CityName": "Antigua"
+    },
+    {
+      "CityId": 48844,
+      "CityName": "Saint John's"
+    },
+    {
+      "CityId": 49715,
+      "CityName": "Budapest"
+    },
+    {
+      "CityId": 43541,
+      "CityName": "Stamford"
+    },
+    {
+      "CityId": 48804,
+      "CityName": "Kuala Lumpur"
+    },
+    {
+      "CityId": 26922,
+      "CityName": "Johor Bahru"
+    },
+    {
+      "CityId": 48752,
+      "CityName": "Gombak"
+    },
+    {
+      "CityId": 26991,
+      "CityName": "George Town"
+    },
+    {
+      "CityId": 48767,
+      "CityName": "Cobh"
+    },
+    {
+      "CityId": 48863,
+      "CityName": "Midleton"
+    },
+    {
+      "CityId": 48773,
+      "CityName": "Cork"
+    },
+    {
+      "CityId": 48757,
+      "CityName": "Bunratty"
+    },
+    {
+      "CityId": 48770,
+      "CityName": "Kilmurry"
+    },
+    {
+      "CityId": 48781,
+      "CityName": "Kinvarra"
+    },
+    {
+      "CityId": 48812,
+      "CityName": "Lullymore"
+    },
+    {
+      "CityId": 48442,
+      "CityName": "Limerick"
+    },
+    {
+      "CityId": 49887,
+      "CityName": "Limerick"
+    },
+    {
+      "CityId": 48443,
+      "CityName": "Wicklow"
+    },
+    {
+      "CityId": 48444,
+      "CityName": "Magelang"
+    },
+    {
+      "CityId": 48829,
+      "CityName": "Yogyakarta"
+    },
+    {
+      "CityId": 21497,
+      "CityName": "Jakarta"
+    },
+    {
+      "CityId": 48861,
+      "CityName": "Jakarta"
+    },
+    {
+      "CityId": 48698,
+      "CityName": "Bandung"
+    },
+    {
+      "CityId": 48848,
+      "CityName": "Bogor"
+    },
+    {
+      "CityId": 43094,
+      "CityName": "Mill Valley"
+    },
+    {
+      "CityId": 45577,
+      "CityName": "Las Vegas"
+    },
+    {
+      "CityId": 48899,
+      "CityName": "Las Vegas"
+    },
+    {
+      "CityId": 45572,
+      "CityName": "Boulder City"
+    },
+    {
+      "CityId": 48872,
+      "CityName": "San Diego"
+    },
+    {
+      "CityId": 48728,
+      "CityName": "San Diego"
+    },
+    {
+      "CityId": 42875,
+      "CityName": "Carlsbad"
+    },
+    {
+      "CityId": 43070,
+      "CityName": "Los Angeles"
+    },
+    {
+      "CityId": 48774,
+      "CityName": "Barcelona"
+    },
+    {
+      "CityId": 48775,
+      "CityName": "Benidorm"
+    },
+    {
+      "CityId": 48865,
+      "CityName": "València"
+    },
+    {
+      "CityId": 48769,
+      "CityName": "Córdoba"
+    },
+    {
+      "CityId": 48743,
+      "CityName": "Seville"
+    },
+    {
+      "CityId": 48776,
+      "CityName": "Palma"
+    },
+    {
+      "CityId": 48864,
+      "CityName": "Puerto de la Cruz"
+    },
+    {
+      "CityId": 48841,
+      "CityName": "Costa Adeje"
+    },
+    {
+      "CityId": 48733,
+      "CityName": "Madrid"
+    },
+    {
+      "CityId": 50200,
+      "CityName": ""
+    },
+    {
+      "CityId": 48742,
+      "CityName": "Addo"
+    },
+    {
+      "CityId": 48819,
+      "CityName": "Cape Town"
+    },
+    {
+      "CityId": 48803,
+      "CityName": "Mbombela"
+    },
+    {
+      "CityId": 38059,
+      "CityName": "Pretoria"
+    },
+    {
+      "CityId": 48814,
+      "CityName": "Marrakech"
+    },
+    {
+      "CityId": 48801,
+      "CityName": "Aït Benhaddou"
+    },
+    {
+      "CityId": 48466,
+      "CityName": "Tunisia"
+    },
+    {
+      "CityId": 48783,
+      "CityName": "El Djem"
+    },
+    {
+      "CityId": 48469,
+      "CityName": "Damaraland"
+    },
+    {
+      "CityId": 48847,
+      "CityName": "Swakopmund"
+    },
+    {
+      "CityId": 48866,
+      "CityName": "Nakuru"
+    },
+    {
+      "CityId": 48867,
+      "CityName": "Naivasha"
+    },
+    {
+      "CityId": 48859,
+      "CityName": "Western Zimbabwe"
+    },
+    {
+      "CityId": 48823,
+      "CityName": "Harare"
+    },
+    {
+      "CityId": 3269,
+      "CityName": "Rupnagar"
+    },
+    {
+      "CityId": 48350,
+      "CityName": "Ratnagiri"
+    },
+    {
+      "CityId": 48756,
+      "CityName": "Bulawayo"
+    },
+    {
+      "CityId": 10672,
+      "CityName": "Montreal"
+    },
+    {
+      "CityId": 10519,
+      "CityName": "Toronto"
+    },
+    {
+      "CityId": 48483,
+      "CityName": "Vancouver"
+    },
+    {
+      "CityId": 48697,
+      "CityName": "Richmond"
+    },
+    {
+      "CityId": 10107,
+      "CityName": "Calgary"
+    },
+    {
+      "CityId": 48484,
+      "CityName": "Sao Paulo"
+    },
+    {
+      "CityId": 48836,
+      "CityName": "São Cristóvão"
+    },
+    {
+      "CityId": 48485,
+      "CityName": "Rio de Janeiro"
+    },
+    {
+      "CityId": 48785,
+      "CityName": "Cambará do Sul"
+    },
+    {
+      "CityId": 48487,
+      "CityName": "Petropolis"
+    },
+    {
+      "CityId": 48488,
+      "CityName": "Brumadinho"
+    },
+    {
+      "CityId": 9373,
+      "CityName": "Curitiba"
+    },
+    {
+      "CityId": 48489,
+      "CityName": "Niteroi"
+    },
+    {
+      "CityId": 48490,
+      "CityName": "Candangolandia"
+    },
+    {
+      "CityId": 48811,
+      "CityName": "El Calafate"
+    },
+    {
+      "CityId": 50879,
+      "CityName": "Washington DC"
+    },
+    {
+      "CityId": 39383,
+      "CityName": "Luzern"
+    },
+    {
+      "CityId": 48786,
+      "CityName": "Lucerne"
+    },
+    {
+      "CityId": 48494,
+      "CityName": "Veytaux"
+    },
+    {
+      "CityId": 39596,
+      "CityName": "Zurich"
+    },
+    {
+      "CityId": 37568,
+      "CityName": "Bratislava"
+    },
+    {
+      "CityId": 48780,
+      "CityName": "Bratislava"
+    },
+    {
+      "CityId": 48787,
+      "CityName": "Bratislava"
+    },
+    {
+      "CityId": 48843,
+      "CityName": "Žehra"
+    },
+    {
+      "CityId": 48820,
+      "CityName": "Bardejov"
+    },
+    {
+      "CityId": 37581,
+      "CityName": "Kosice"
+    },
+    {
+      "CityId": 37641,
+      "CityName": "Bojnice"
+    },
+    {
+      "CityId": 37634,
+      "CityName": "Stropkov"
+    },
+    {
+      "CityId": 25085,
+      "CityName": "Tokyo"
+    },
+    {
+      "CityId": 25014,
+      "CityName": "Shizuoka"
+    },
+    {
+      "CityId": 48798,
+      "CityName": "Kyoto"
+    },
+    {
+      "CityId": 48826,
+      "CityName": "Osaka"
+    },
+    {
+      "CityId": 24447,
+      "CityName": "Himeji"
+    },
+    {
+      "CityId": 48825,
+      "CityName": "Okinawa"
+    },
+    {
+      "CityId": 48796,
+      "CityName": "Hiroshima"
+    },
+    {
+      "CityId": 24144,
+      "CityName": "Nagoya"
+    },
+    {
+      "CityId": 48500,
+      "CityName": "Puerto Iguazu"
+    },
+    {
+      "CityId": 48505,
+      "CityName": "Buenos Aires"
+    },
+    {
+      "CityId": 48807,
+      "CityName": "San Martín de los Andes"
+    },
+    {
+      "CityId": 48506,
+      "CityName": "Rosario"
+    },
+    {
+      "CityId": 48813,
+      "CityName": "Machu Picchu"
+    },
+    {
+      "CityId": 48818,
+      "CityName": "Machu Picchu"
+    },
+    {
+      "CityId": 48507,
+      "CityName": "Callao"
+    },
+    {
+      "CityId": 48808,
+      "CityName": "Lima"
+    },
+    {
+      "CityId": 48870,
+      "CityName": "Trujillo"
+    },
+    {
+      "CityId": 32009,
+      "CityName": "Arequipa"
+    },
+    {
+      "CityId": 32069,
+      "CityName": "Nazca"
+    },
+    {
+      "CityId": 48851,
+      "CityName": "Cartagena"
+    },
+    {
+      "CityId": 48513,
+      "CityName": "Cali"
+    },
+    {
+      "CityId": 12688,
+      "CityName": "Bogota"
+    },
+    {
+      "CityId": 12601,
+      "CityName": "Medellin"
+    },
+    {
+      "CityId": 12666,
+      "CityName": "Barranquilla"
+    },
+    {
+      "CityId": 13358,
+      "CityName": "Pereira"
+    },
+    {
+      "CityId": 48544,
+      "CityName": "Hong Kong"
+    },
+    {
+      "CityId": 25751,
+      "CityName": "Seoul"
+    },
+    {
+      "CityId": 48822,
+      "CityName": "Chuncheon"
+    },
+    {
+      "CityId": 25645,
+      "CityName": "Incheon"
+    },
+    {
+      "CityId": 25646,
+      "CityName": "Kanghwa"
+    },
+    {
+      "CityId": 48793,
+      "CityName": "Goyang-si"
+    },
+    {
+      "CityId": 48838,
+      "CityName": "Gwacheon-si"
+    },
+    {
+      "CityId": 12304,
+      "CityName": "Shanghai"
+    },
+    {
+      "CityId": 11190,
+      "CityName": "Beijing"
+    },
+    {
+      "CityId": 48753,
+      "CityName": "Beijing"
+    },
+    {
+      "CityId": 44918,
+      "CityName": "Boston"
+    },
+    {
+      "CityId": 44925,
+      "CityName": "Cambridge"
+    },
+    {
+      "CityId": 46248,
+      "CityName": "Nashville"
+    },
+    {
+      "CityId": 43730,
+      "CityName": "Key West"
+    },
+    {
+      "CityId": 44685,
+      "CityName": "New Orleans"
+    },
+    {
+      "CityId": 48557,
+      "CityName": "Honolulu County"
+    },
+    {
+      "CityId": 48725,
+      "CityName": "Kenansville"
+    },
+    {
+      "CityId": 48023,
+      "CityName": "Niagara Falls"
+    },
+    {
+      "CityId": 46052,
+      "CityName": "Langhorne"
+    },
+    {
+      "CityId": 48561,
+      "CityName": "Bucks"
+    },
+    {
+      "CityId": 6600,
+      "CityName": "Brisbane"
+    },
+    {
+      "CityId": 6627,
+      "CityName": "Gold Coast"
+    },
+    {
+      "CityId": 6672,
+      "CityName": "Sunshine Coast"
+    },
+    {
+      "CityId": 49974,
+      "CityName": "Currumbin"
+    },
+    {
+      "CityId": 48403,
+      "CityName": "Surfers Paradise"
+    },
+    {
+      "CityId": 6609,
+      "CityName": "Cairns"
+    },
+    {
+      "CityId": 6662,
+      "CityName": "Port Douglas"
+    },
+    {
+      "CityId": 6631,
+      "CityName": "Hervey Bay"
+    },
+    {
+      "CityId": 48395,
+      "CityName": "Fraser Island"
+    },
+    {
+      "CityId": 48402,
+      "CityName": "Rainbow Beach"
+    },
+    {
+      "CityId": 48404,
+      "CityName": "Whitsundays"
+    },
+    {
+      "CityId": 48401,
+      "CityName": "QLD Other"
+    },
+    {
+      "CityId": 6677,
+      "CityName": "Townsville"
+    },
+    {
+      "CityId": 48567,
+      "CityName": "Palm Cove"
+    },
+    {
+      "CityId": 48399,
+      "CityName": "Moreton Island"
+    },
+    {
+      "CityId": 48393,
+      "CityName": "Cape Tribulation"
+    },
+    {
+      "CityId": 6688,
+      "CityName": "Hobart"
+    },
+    {
+      "CityId": 6690,
+      "CityName": "Launceston"
+    },
+    {
+      "CityId": 46468,
+      "CityName": "Port Arthur"
+    },
+    {
+      "CityId": 48568,
+      "CityName": "Cradle Coast"
+    },
+    {
+      "CityId": 48315,
+      "CityName": "Sydney"
+    },
+    {
+      "CityId": 50509,
+      "CityName": "Doonside"
+    },
+    {
+      "CityId": 50108,
+      "CityName": "Milsons Point"
+    },
+    {
+      "CityId": 50570,
+      "CityName": "Somersby"
+    },
+    {
+      "CityId": 48380,
+      "CityName": "Byron Bay"
+    },
+    {
+      "CityId": 48391,
+      "CityName": "Snowy Mountains"
+    },
+    {
+      "CityId": 48388,
+      "CityName": "NSW Other"
+    },
+    {
+      "CityId": 48390,
+      "CityName": "Port Stephens"
+    },
+    {
+      "CityId": 6712,
+      "CityName": "Blue Mountains"
+    },
+    {
+      "CityId": 21962,
+      "CityName": "Newcastle"
+    },
+    {
+      "CityId": 48389,
+      "CityName": "Port Macquarie"
+    },
+    {
+      "CityId": 48416,
+      "CityName": "Adelaide"
+    },
+    {
+      "CityId": 48585,
+      "CityName": "Margaret River"
+    },
+    {
+      "CityId": 48574,
+      "CityName": "Flinders Ranges"
+    },
+    {
+      "CityId": 48578,
+      "CityName": "Darwin"
+    },
+    {
+      "CityId": 48579,
+      "CityName": "Ayers Rock"
+    },
+    {
+      "CityId": 48415,
+      "CityName": "Alice Springs"
+    },
+    {
+      "CityId": 6571,
+      "CityName": "Melbourne"
+    },
+    {
+      "CityId": 49938,
+      "CityName": "Docklands"
+    },
+    {
+      "CityId": 48407,
+      "CityName": "Mornington"
+    },
+    {
+      "CityId": 49712,
+      "CityName": "Newhaven"
+    },
+    {
+      "CityId": 48406,
+      "CityName": "Great Ocean Road"
+    },
+    {
+      "CityId": 48582,
+      "CityName": "Canberra"
+    },
+    {
+      "CityId": 48418,
+      "CityName": "Perth"
+    },
+    {
+      "CityId": 48583,
+      "CityName": "Broome"
+    },
+    {
+      "CityId": 48586,
+      "CityName": "Rottnest Island"
+    },
+    {
+      "CityId": 48587,
+      "CityName": "Kimberley"
+    },
+    {
+      "CityId": 41545,
+      "CityName": "Exmouth"
+    },
+    {
+      "CityId": 48589,
+      "CityName": "Bay of Islands"
+    },
+    {
+      "CityId": 30484,
+      "CityName": "Auckland"
+    },
+    {
+      "CityId": 48590,
+      "CityName": "Rotorua"
+    },
+    {
+      "CityId": 30587,
+      "CityName": "Wellington"
+    },
+    {
+      "CityId": 48591,
+      "CityName": "Hawkes Bay"
+    },
+    {
+      "CityId": 30567,
+      "CityName": "Taupo"
+    },
+    {
+      "CityId": 48592,
+      "CityName": "The Coromandel"
+    },
+    {
+      "CityId": 48593,
+      "CityName": "Bay of Plenty"
+    },
+    {
+      "CityId": 48596,
+      "CityName": "Waitomo"
+    },
+    {
+      "CityId": 30560,
+      "CityName": "Matamata"
+    },
+    {
+      "CityId": 30541,
+      "CityName": "Queenstown"
+    },
+    {
+      "CityId": 48600,
+      "CityName": "Milford Sound"
+    },
+    {
+      "CityId": 48606,
+      "CityName": "Mt Cook"
+    },
+    {
+      "CityId": 48601,
+      "CityName": "Stewart Island"
+    },
+    {
+      "CityId": 48602,
+      "CityName": "Doubtful Sound"
+    },
+    {
+      "CityId": 48603,
+      "CityName": "West Coast"
+    },
+    {
+      "CityId": 48604,
+      "CityName": "Hanmer Springs"
+    },
+    {
+      "CityId": 30508,
+      "CityName": "Christchurch"
+    },
+    {
+      "CityId": 30511,
+      "CityName": "Kaikoura"
+    },
+    {
+      "CityId": 42573,
+      "CityName": "Marlborough"
+    },
+    {
+      "CityId": 48605,
+      "CityName": "Te Anau"
+    },
+    {
+      "CityId": 30540,
+      "CityName": "Dunedin"
+    },
+    {
+      "CityId": 30542,
+      "CityName": "Wanaka"
+    },
+    {
+      "CityId": 30531,
+      "CityName": "Nelson"
+    },
+    {
+      "CityId": 48609,
+      "CityName": "Tekapo"
+    },
+    {
+      "CityId": 48610,
+      "CityName": "Akaroa"
+    },
+    {
+      "CityId": 661,
+      "CityName": "Kota"
+    },
+    {
+      "CityId": 43885,
+      "CityName": "Tampa"
+    },
+    {
+      "CityId": 46647,
+      "CityName": "Arlington"
+    },
+    {
+      "CityId": 48762,
+      "CityName": "Le Val"
+    },
+    {
+      "CityId": 48809,
+      "CityName": "Leeds"
+    },
+    {
+      "CityId": 48874,
+      "CityName": "Canterbury"
+    },
+    {
+      "CityId": 48659,
+      "CityName": "Algueirão-Mem Martins"
+    },
+    {
+      "CityId": 49338,
+      "CityName": "Amsterdam"
+    },
+    {
+      "CityId": 49339,
+      "CityName": "Athina"
+    },
+    {
+      "CityId": 48660,
+      "CityName": "Bath and North East Somerset"
+    },
+    {
+      "CityId": 48664,
+      "CityName": "Cambridgeshire"
+    },
+    {
+      "CityId": 49344,
+      "CityName": "Cape Town"
+    },
+    {
+      "CityId": 49345,
+      "CityName": "Cardiff"
+    },
+    {
+      "CityId": 48667,
+      "CityName": "Corfu"
+    },
+    {
+      "CityId": 49350,
+      "CityName": "Edinburgh"
+    },
+    {
+      "CityId": 49351,
+      "CityName": "Funchal"
+    },
+    {
+      "CityId": 48670,
+      "CityName": "Glasgow City"
+    },
+    {
+      "CityId": 48671,
+      "CityName": "Għajnsielem"
+    },
+    {
+      "CityId": 50869,
+      "CityName": "Hlavní město Praha"
+    },
+    {
+      "CityId": 49355,
+      "CityName": "Johannesburg"
+    },
+    {
+      "CityId": 48675,
+      "CityName": "Kraków"
+    },
+    {
+      "CityId": 48677,
+      "CityName": "København"
+    },
+    {
+      "CityId": 49353,
+      "CityName": "Helsinki"
+    },
+    {
+      "CityId": 49361,
+      "CityName": "Málaga"
+    },
+    {
+      "CityId": 51064,
+      "CityName": "Washington"
+    },
+    {
+      "CityId": 49362,
+      "CityName": "Medina"
+    },
+    {
+      "CityId": 49363,
+      "CityName": "Miraflores"
+    },
+    {
+      "CityId": 48681,
+      "CityName": "Oxfordshire"
+    },
+    {
+      "CityId": 49368,
+      "CityName": "Porto"
+    },
+    {
+      "CityId": 48683,
+      "CityName": "Reykjavík"
+    },
+    {
+      "CityId": 49376,
+      "CityName": "Toronto"
+    },
+    {
+      "CityId": 49379,
+      "CityName": "Warszawa"
+    },
+    {
+      "CityId": 49381,
+      "CityName": "York"
+    },
+    {
+      "CityId": 48763,
+      "CityName": "Chhat"
+    },
+    {
+      "CityId": 4861,
+      "CityName": "Kanpur"
+    },
+    {
+      "CityId": 2229,
+      "CityName": "Indore"
+    },
+    {
+      "CityId": 2724,
+      "CityName": "Nashik"
+    },
+    {
+      "CityId": 48018,
+      "CityName": "New Windsor"
+    },
+    {
+      "CityId": 48015,
+      "CityName": "New Paltz"
+    },
+    {
+      "CityId": 48729,
+      "CityName": "Newport"
+    },
+    {
+      "CityId": 48996,
+      "CityName": "Queens"
+    },
+    {
+      "CityId": 48894,
+      "CityName": "Boston"
+    },
+    {
+      "CityId": 46488,
+      "CityName": "San Antonio"
+    },
+    {
+      "CityId": 48702,
+      "CityName": "North Tonawanda"
+    },
+    {
+      "CityId": 48709,
+      "CityName": "Prayagraj"
+    },
+    {
+      "CityId": 48711,
+      "CityName": "Ogdensburg"
+    },
+    {
+      "CityId": 48458,
+      "CityName": "Madrid"
+    },
+    {
+      "CityId": 48722,
+      "CityName": "München"
+    },
+    {
+      "CityId": 7570,
+      "CityName": "Brussels"
+    },
+    {
+      "CityId": 19036,
+      "CityName": "Frankfurt"
+    },
+    {
+      "CityId": 48751,
+      "CityName": "Felton"
+    },
+    {
+      "CityId": 48666,
+      "CityName": "Córdoba"
+    },
+    {
+      "CityId": 48735,
+      "CityName": "St. Augustine"
+    },
+    {
+      "CityId": 46875,
+      "CityName": "Seattle"
+    },
+    {
+      "CityId": 49102,
+      "CityName": "Abercrombie"
+    },
+    {
+      "CityId": 49316,
+      "CityName": "Beverly, WV"
+    },
+    {
+      "CityId": 48183,
+      "CityName": "Bismarck"
+    },
+    {
+      "CityId": 48303,
+      "CityName": "Charles Town"
+    },
+    {
+      "CityId": 48951,
+      "CityName": "Cooperstown"
+    },
+    {
+      "CityId": 48281,
+      "CityName": "Charleston"
+    },
+    {
+      "CityId": 42812,
+      "CityName": "Anaheim"
+    },
+    {
+      "CityId": 43606,
+      "CityName": "Boca Raton"
+    },
+    {
+      "CityId": 49315,
+      "CityName": "Victor Valley"
+    },
+    {
+      "CityId": 43610,
+      "CityName": "Bradenton"
+    },
+    {
+      "CityId": 42828,
+      "CityName": "Avalon"
+    },
+    {
+      "CityId": 43618,
+      "CityName": "Cape Coral"
+    },
+    {
+      "CityId": 42832,
+      "CityName": "Bakersfield"
+    },
+    {
+      "CityId": 49577,
+      "CityName": "Clewiston"
+    },
+    {
+      "CityId": 42845,
+      "CityName": "Benicia"
+    },
+    {
+      "CityId": 43633,
+      "CityName": "Coral Gables"
+    },
+    {
+      "CityId": 42846,
+      "CityName": "Berkeley"
+    },
+    {
+      "CityId": 43769,
+      "CityName": "Miami"
+    },
+    {
+      "CityId": 43634,
+      "CityName": "Coral Springs"
+    },
+    {
+      "CityId": 43645,
+      "CityName": "Dania Beach"
+    },
+    {
+      "CityId": 43646,
+      "CityName": "Davie"
+    },
+    {
+      "CityId": 42847,
+      "CityName": "Beverly Hills"
+    },
+    {
+      "CityId": 42854,
+      "CityName": "Brea"
+    },
+    {
+      "CityId": 42858,
+      "CityName": "Buena Park"
+    },
+    {
+      "CityId": 43655,
+      "CityName": "Delray Beach"
+    },
+    {
+      "CityId": 46117,
+      "CityName": "Pittsburgh"
+    },
+    {
+      "CityId": 43673,
+      "CityName": "Fernandina Beach"
+    },
+    {
+      "CityId": 42891,
+      "CityName": "Chico"
+    },
+    {
+      "CityId": 42892,
+      "CityName": "Chino"
+    },
+    {
+      "CityId": 42899,
+      "CityName": "Claremont"
+    },
+    {
+      "CityId": 42905,
+      "CityName": "Colton"
+    },
+    {
+      "CityId": 48021,
+      "CityName": "Newburgh"
+    },
+    {
+      "CityId": 48032,
+      "CityName": "Nyack"
+    },
+    {
+      "CityId": 48043,
+      "CityName": "Oswego"
+    },
+    {
+      "CityId": 48044,
+      "CityName": "Owego"
+    },
+    {
+      "CityId": 48045,
+      "CityName": "Oyster Bay"
+    },
+    {
+      "CityId": 48049,
+      "CityName": "Peekskill"
+    },
+    {
+      "CityId": 42927,
+      "CityName": "Danville"
+    },
+    {
+      "CityId": 48056,
+      "CityName": "Plattsburgh"
+    },
+    {
+      "CityId": 48064,
+      "CityName": "Poughkeepsie"
+    },
+    {
+      "CityId": 42935,
+      "CityName": "Downey"
+    },
+    {
+      "CityId": 47946,
+      "CityName": "Harrison"
+    },
+    {
+      "CityId": 42943,
+      "CityName": "El Cajon"
+    },
+    {
+      "CityId": 48071,
+      "CityName": "Rochester"
+    },
+    {
+      "CityId": 42949,
+      "CityName": "El Segundo"
+    },
+    {
+      "CityId": 42953,
+      "CityName": "Encinitas"
+    },
+    {
+      "CityId": 42955,
+      "CityName": "Escondido"
+    },
+    {
+      "CityId": 48939,
+      "CityName": "Saint Johnsville"
+    },
+    {
+      "CityId": 48079,
+      "CityName": "Saratoga Springs"
+    },
+    {
+      "CityId": 48941,
+      "CityName": "Wyoming"
+    },
+    {
+      "CityId": 46179,
+      "CityName": "Wilkes-Barre"
+    },
+    {
+      "CityId": 47935,
+      "CityName": "Glenville"
+    },
+    {
+      "CityId": 48944,
+      "CityName": "Felicity"
+    },
+    {
+      "CityId": 48082,
+      "CityName": "Schenectady"
+    },
+    {
+      "CityId": 46191,
+      "CityName": "York"
+    },
+    {
+      "CityId": 46026,
+      "CityName": "Harrisburg"
+    },
+    {
+      "CityId": 42968,
+      "CityName": "Folsom"
+    },
+    {
+      "CityId": 42979,
+      "CityName": "Fresno"
+    },
+    {
+      "CityId": 42980,
+      "CityName": "Fullerton"
+    },
+    {
+      "CityId": 42991,
+      "CityName": "Goleta"
+    },
+    {
+      "CityId": 48948,
+      "CityName": "Guadalupe"
+    },
+    {
+      "CityId": 48085,
+      "CityName": "Seneca Falls"
+    },
+    {
+      "CityId": 48088,
+      "CityName": "Sleepy Hollow"
+    },
+    {
+      "CityId": 48949,
+      "CityName": "Sodus Point"
+    },
+    {
+      "CityId": 43001,
+      "CityName": "Half Moon Bay"
+    },
+    {
+      "CityId": 48952,
+      "CityName": "Staten Island"
+    },
+    {
+      "CityId": 43007,
+      "CityName": "Hemet"
+    },
+    {
+      "CityId": 43009,
+      "CityName": "Hermosa Beach"
+    },
+    {
+      "CityId": 43022,
+      "CityName": "Irvine"
+    },
+    {
+      "CityId": 48957,
+      "CityName": "La Cañada Flintridge"
+    },
+    {
+      "CityId": 43688,
+      "CityName": "Gainesville"
+    },
+    {
+      "CityId": 49100,
+      "CityName": "Stony Brook"
+    },
+    {
+      "CityId": 48959,
+      "CityName": "Reading"
+    },
+    {
+      "CityId": 48960,
+      "CityName": "Islamorada"
+    },
+    {
+      "CityId": 48100,
+      "CityName": "Syracuse"
+    },
+    {
+      "CityId": 49308,
+      "CityName": "Hamburg"
+    },
+    {
+      "CityId": 48963,
+      "CityName": "Scottdale"
+    },
+    {
+      "CityId": 43720,
+      "CityName": "Jacksonville"
+    },
+    {
+      "CityId": 43043,
+      "CityName": "Laguna Beach"
+    },
+    {
+      "CityId": 43063,
+      "CityName": "Lodi"
+    },
+    {
+      "CityId": 48965,
+      "CityName": "Water Mill"
+    },
+    {
+      "CityId": 48117,
+      "CityName": "Watertown"
+    },
+    {
+      "CityId": 48130,
+      "CityName": "Yonkers"
+    },
+    {
+      "CityId": 48093,
+      "CityName": "Southold"
+    },
+    {
+      "CityId": 48107,
+      "CityName": "Utica"
+    },
+    {
+      "CityId": 45801,
+      "CityName": "West Chester"
+    },
+    {
+      "CityId": 48967,
+      "CityName": "Ticonderoga"
+    },
+    {
+      "CityId": 43067,
+      "CityName": "Long Beach"
+    },
+    {
+      "CityId": 49314,
+      "CityName": "University Park"
+    },
+    {
+      "CityId": 48970,
+      "CityName": "Titusville"
+    },
+    {
+      "CityId": 48976,
+      "CityName": "Stroudsburg"
+    },
+    {
+      "CityId": 48981,
+      "CityName": "Ronks"
+    },
+    {
+      "CityId": 48983,
+      "CityName": "State College"
+    },
+    {
+      "CityId": 49312,
+      "CityName": "South Williamsport"
+    },
+    {
+      "CityId": 43724,
+      "CityName": "Jupiter"
+    },
+    {
+      "CityId": 46143,
+      "CityName": "Somerset"
+    },
+    {
+      "CityId": 46137,
+      "CityName": "Scranton"
+    },
+    {
+      "CityId": 43732,
+      "CityName": "Kissimmee"
+    },
+    {
+      "CityId": 43740,
+      "CityName": "Lake Wales"
+    },
+    {
+      "CityId": 43742,
+      "CityName": "Lakeland"
+    },
+    {
+      "CityId": 49321,
+      "CityName": "Melbourne"
+    },
+    {
+      "CityId": 43770,
+      "CityName": "Miami Beach"
+    },
+    {
+      "CityId": 47857,
+      "CityName": "Amherst"
+    },
+    {
+      "CityId": 47861,
+      "CityName": "Auburn"
+    },
+    {
+      "CityId": 47872,
+      "CityName": "Binghamton"
+    },
+    {
+      "CityId": 43107,
+      "CityName": "Monterey"
+    },
+    {
+      "CityId": 43116,
+      "CityName": "Mountain View"
+    },
+    {
+      "CityId": 49001,
+      "CityName": "The Bronx"
+    },
+    {
+      "CityId": 43119,
+      "CityName": "Napa"
+    },
+    {
+      "CityId": 46264,
+      "CityName": "Abilene"
+    },
+    {
+      "CityId": 49322,
+      "CityName": "Micanopy"
+    },
+    {
+      "CityId": 49008,
+      "CityName": "Alto"
+    },
+    {
+      "CityId": 43138,
+      "CityName": "Oakland"
+    },
+    {
+      "CityId": 43776,
+      "CityName": "Milton"
+    },
+    {
+      "CityId": 49068,
+      "CityName": "Amarillo"
+    },
+    {
+      "CityId": 49323,
+      "CityName": "Mount Dora"
+    },
+    {
+      "CityId": 47879,
+      "CityName": "Buffalo"
+    },
+    {
+      "CityId": 46280,
+      "CityName": "Austin"
+    },
+    {
+      "CityId": 43781,
+      "CityName": "Naples"
+    },
+    {
+      "CityId": 43140,
+      "CityName": "Oceanside"
+    },
+    {
+      "CityId": 43793,
+      "CityName": "North Miami"
+    },
+    {
+      "CityId": 43800,
+      "CityName": "Ocala"
+    },
+    {
+      "CityId": 43809,
+      "CityName": "Orlando"
+    },
+    {
+      "CityId": 49319,
+      "CityName": "Ocotillo"
+    },
+    {
+      "CityId": 43142,
+      "CityName": "Ojai"
+    },
+    {
+      "CityId": 49248,
+      "CityName": "Centerport"
+    },
+    {
+      "CityId": 49320,
+      "CityName": "Ontario"
+    },
+    {
+      "CityId": 49233,
+      "CityName": "Clayton"
+    },
+    {
+      "CityId": 43151,
+      "CityName": "Oxnard"
+    },
+    {
+      "CityId": 43152,
+      "CityName": "Pacific Grove"
+    },
+    {
+      "CityId": 49028,
+      "CityName": "Cold Spring Harbor"
+    },
+    {
+      "CityId": 49029,
+      "CityName": "Cooperstown"
+    },
+    {
+      "CityId": 49269,
+      "CityName": "Corona"
+    },
+    {
+      "CityId": 47915,
+      "CityName": "Elmira"
+    },
+    {
+      "CityId": 48053,
+      "CityName": "Philipstown"
+    },
+    {
+      "CityId": 47934,
+      "CityName": "Glens Falls"
+    },
+    {
+      "CityId": 49032,
+      "CityName": "High Falls"
+    },
+    {
+      "CityId": 49033,
+      "CityName": "Howes Cave"
+    },
+    {
+      "CityId": 47956,
+      "CityName": "Hudson"
+    },
+    {
+      "CityId": 49034,
+      "CityName": "Laporte"
+    },
+    {
+      "CityId": 49035,
+      "CityName": "Amsterdam"
+    },
+    {
+      "CityId": 49036,
+      "CityName": "Katonah"
+    },
+    {
+      "CityId": 49037,
+      "CityName": "Bethel"
+    },
+    {
+      "CityId": 49331,
+      "CityName": "Long Island City"
+    },
+    {
+      "CityId": 49038,
+      "CityName": "Morris Plains"
+    },
+    {
+      "CityId": 43158,
+      "CityName": "Palm Springs"
+    },
+    {
+      "CityId": 43168,
+      "CityName": "Pasadena"
+    },
+    {
+      "CityId": 49039,
+      "CityName": "Bandera"
+    },
+    {
+      "CityId": 49041,
+      "CityName": "Paso Robles"
+    },
+    {
+      "CityId": 43186,
+      "CityName": "Pomona"
+    },
+    {
+      "CityId": 47687,
+      "CityName": "Atlantic City"
+    },
+    {
+      "CityId": 43812,
+      "CityName": "Osprey"
+    },
+    {
+      "CityId": 46384,
+      "CityName": "Houston"
+    },
+    {
+      "CityId": 49046,
+      "CityName": "Portola"
+    },
+    {
+      "CityId": 46287,
+      "CityName": "Beaumont"
+    },
+    {
+      "CityId": 43816,
+      "CityName": "Palm Beach"
+    },
+    {
+      "CityId": 47644,
+      "CityName": "Camden"
+    },
+    {
+      "CityId": 43823,
+      "CityName": "Palmetto"
+    },
+    {
+      "CityId": 43829,
+      "CityName": "Pensacola"
+    },
+    {
+      "CityId": 47652,
+      "CityName": "East Orange"
+    },
+    {
+      "CityId": 49052,
+      "CityName": "Far Hills"
+    },
+    {
+      "CityId": 49053,
+      "CityName": "Freehold"
+    },
+    {
+      "CityId": 43194,
+      "CityName": "Rancho Cucamonga"
+    },
+    {
+      "CityId": 47783,
+      "CityName": "Holmdel"
+    },
+    {
+      "CityId": 43196,
+      "CityName": "Rancho Mirage"
+    },
+    {
+      "CityId": 43203,
+      "CityName": "Redlands"
+    },
+    {
+      "CityId": 47642,
+      "CityName": "Trenton"
+    },
+    {
+      "CityId": 47634,
+      "CityName": "Jersey City"
+    },
+    {
+      "CityId": 49054,
+      "CityName": "Big Bend National Park"
+    },
+    {
+      "CityId": 49578,
+      "CityName": "Bonham"
+    },
+    {
+      "CityId": 49335,
+      "CityName": "Lincroft"
+    },
+    {
+      "CityId": 46300,
+      "CityName": "Brownsville"
+    },
+    {
+      "CityId": 43206,
+      "CityName": "Redwood City"
+    },
+    {
+      "CityId": 47792,
+      "CityName": "Madison"
+    },
+    {
+      "CityId": 46301,
+      "CityName": "Brownwood"
+    },
+    {
+      "CityId": 47711,
+      "CityName": "Millville"
+    },
+    {
+      "CityId": 46302,
+      "CityName": "Bryan"
+    },
+    {
+      "CityId": 49058,
+      "CityName": "Burton"
+    },
+    {
+      "CityId": 43211,
+      "CityName": "Ridgecrest"
+    },
+    {
+      "CityId": 43216,
+      "CityName": "Riverside"
+    },
+    {
+      "CityId": 49418,
+      "CityName": "Albany"
+    },
+    {
+      "CityId": 43837,
+      "CityName": "Pompano Beach"
+    },
+    {
+      "CityId": 49328,
+      "CityName": "Ponce Inlet"
+    },
+    {
+      "CityId": 47692,
+      "CityName": "Montclair"
+    },
+    {
+      "CityId": 43845,
+      "CityName": "Quincy"
+    },
+    {
+      "CityId": 43904,
+      "CityName": "West Palm Beach"
+    },
+    {
+      "CityId": 47772,
+      "CityName": "Morristown"
+    },
+    {
+      "CityId": 46438,
+      "CityName": "Midland"
+    },
+    {
+      "CityId": 49067,
+      "CityName": "March Air Reserve Base"
+    },
+    {
+      "CityId": 49069,
+      "CityName": "Mingus"
+    },
+    {
+      "CityId": 43228,
+      "CityName": "Sacramento"
+    },
+    {
+      "CityId": 49070,
+      "CityName": "Mount Vernon"
+    },
+    {
+      "CityId": 49419,
+      "CityName": "Damon"
+    },
+    {
+      "CityId": 47633,
+      "CityName": "Newark"
+    },
+    {
+      "CityId": 46448,
+      "CityName": "New Braunfels"
+    },
+    {
+      "CityId": 47710,
+      "CityName": "Princeton"
+    },
+    {
+      "CityId": 49383,
+      "CityName": "Roebling"
+    },
+    {
+      "CityId": 49073,
+      "CityName": "Tuckerton"
+    },
+    {
+      "CityId": 47657,
+      "CityName": "Union"
+    },
+    {
+      "CityId": 47661,
+      "CityName": "Wayne"
+    },
+    {
+      "CityId": 49074,
+      "CityName": "Westampton"
+    },
+    {
+      "CityId": 49294,
+      "CityName": "St. Petersburg"
+    },
+    {
+      "CityId": 46461,
+      "CityName": "Pecos"
+    },
+    {
+      "CityId": 43235,
+      "CityName": "San Clemente"
+    },
+    {
+      "CityId": 43861,
+      "CityName": "Sanibel"
+    },
+    {
+      "CityId": 46466,
+      "CityName": "Plano"
+    },
+    {
+      "CityId": 43862,
+      "CityName": "Sarasota"
+    },
+    {
+      "CityId": 49079,
+      "CityName": "Richmond"
+    },
+    {
+      "CityId": 43882,
+      "CityName": "Tallahassee"
+    },
+    {
+      "CityId": 49081,
+      "CityName": "Rockport"
+    },
+    {
+      "CityId": 49082,
+      "CityName": "Round Top"
+    },
+    {
+      "CityId": 46487,
+      "CityName": "San Angelo"
+    },
+    {
+      "CityId": 44903,
+      "CityName": "Acton"
+    },
+    {
+      "CityId": 49084,
+      "CityName": "Adams"
+    },
+    {
+      "CityId": 49086,
+      "CityName": "Amherst"
+    },
+    {
+      "CityId": 43886,
+      "CityName": "Tarpon Springs"
+    },
+    {
+      "CityId": 49329,
+      "CityName": "Tavares"
+    },
+    {
+      "CityId": 43896,
+      "CityName": "Vero Beach"
+    },
+    {
+      "CityId": 49090,
+      "CityName": "San Felipe"
+    },
+    {
+      "CityId": 49519,
+      "CityName": "Sheffield"
+    },
+    {
+      "CityId": 44907,
+      "CityName": "Arlington"
+    },
+    {
+      "CityId": 46509,
+      "CityName": "Sugar Land"
+    },
+    {
+      "CityId": 44916,
+      "CityName": "Beverly"
+    },
+    {
+      "CityId": 49093,
+      "CityName": "Temple"
+    },
+    {
+      "CityId": 44953,
+      "CityName": "Haverhill"
+    },
+    {
+      "CityId": 49094,
+      "CityName": "Texas City"
+    },
+    {
+      "CityId": 46520,
+      "CityName": "Tyler"
+    },
+    {
+      "CityId": 44919,
+      "CityName": "Boylston"
+    },
+    {
+      "CityId": 46527,
+      "CityName": "Waco"
+    },
+    {
+      "CityId": 49096,
+      "CityName": "Brewster"
+    },
+    {
+      "CityId": 44921,
+      "CityName": "Brockton"
+    },
+    {
+      "CityId": 43917,
+      "CityName": "Winter Park"
+    },
+    {
+      "CityId": 49103,
+      "CityName": "West Columbia"
+    },
+    {
+      "CityId": 44926,
+      "CityName": "Canton"
+    },
+    {
+      "CityId": 44931,
+      "CityName": "Clinton"
+    },
+    {
+      "CityId": 44932,
+      "CityName": "Concord"
+    },
+    {
+      "CityId": 49325,
+      "CityName": "Cotuit"
+    },
+    {
+      "CityId": 44934,
+      "CityName": "Dedham"
+    },
+    {
+      "CityId": 46365,
+      "CityName": "Galveston"
+    },
+    {
+      "CityId": 49105,
+      "CityName": "Deerfield"
+    },
+    {
+      "CityId": 49106,
+      "CityName": "Giddings"
+    },
+    {
+      "CityId": 45048,
+      "CityName": "Vineyard Haven"
+    },
+    {
+      "CityId": 49108,
+      "CityName": "Essex"
+    },
+    {
+      "CityId": 44941,
+      "CityName": "Fall River"
+    },
+    {
+      "CityId": 49109,
+      "CityName": "Falmouth"
+    },
+    {
+      "CityId": 44942,
+      "CityName": "Fitchburg"
+    },
+    {
+      "CityId": 44947,
+      "CityName": "Gloucester"
+    },
+    {
+      "CityId": 49286,
+      "CityName": "Granville"
+    },
+    {
+      "CityId": 44957,
+      "CityName": "Holyoke"
+    },
+    {
+      "CityId": 44962,
+      "CityName": "Hull"
+    },
+    {
+      "CityId": 46373,
+      "CityName": "Greenville"
+    },
+    {
+      "CityId": 44963,
+      "CityName": "Hyannis"
+    },
+    {
+      "CityId": 46383,
+      "CityName": "Hillsboro"
+    },
+    {
+      "CityId": 43387,
+      "CityName": "Aspen"
+    },
+    {
+      "CityId": 43393,
+      "CityName": "Boulder"
+    },
+    {
+      "CityId": 49113,
+      "CityName": "Lincoln"
+    },
+    {
+      "CityId": 49114,
+      "CityName": "Cañon City"
+    },
+    {
+      "CityId": 43403,
+      "CityName": "Colorado Springs"
+    },
+    {
+      "CityId": 43242,
+      "CityName": "San Jose"
+    },
+    {
+      "CityId": 49725,
+      "CityName": "Creede"
+    },
+    {
+      "CityId": 44972,
+      "CityName": "Lowell"
+    },
+    {
+      "CityId": 49429,
+      "CityName": "Crested Butte"
+    },
+    {
+      "CityId": 43408,
+      "CityName": "Denver"
+    },
+    {
+      "CityId": 42746,
+      "CityName": "Tucson"
+    },
+    {
+      "CityId": 46386,
+      "CityName": "Huntsville"
+    },
+    {
+      "CityId": 43243,
+      "CityName": "San Juan Capistrano"
+    },
+    {
+      "CityId": 43256,
+      "CityName": "Santa Ana"
+    },
+    {
+      "CityId": 46389,
+      "CityName": "Irving"
+    },
+    {
+      "CityId": 46399,
+      "CityName": "Kerrville"
+    },
+    {
+      "CityId": 49119,
+      "CityName": "La Grange"
+    },
+    {
+      "CityId": 46405,
+      "CityName": "La Porte"
+    },
+    {
+      "CityId": 46413,
+      "CityName": "League City"
+    },
+    {
+      "CityId": 46423,
+      "CityName": "Longview"
+    },
+    {
+      "CityId": 43257,
+      "CityName": "Santa Barbara"
+    },
+    {
+      "CityId": 49431,
+      "CityName": "Dolores"
+    },
+    {
+      "CityId": 44990,
+      "CityName": "Milton"
+    },
+    {
+      "CityId": 43412,
+      "CityName": "Englewood"
+    },
+    {
+      "CityId": 49122,
+      "CityName": "Monterey"
+    },
+    {
+      "CityId": 43417,
+      "CityName": "Fort Collins"
+    },
+    {
+      "CityId": 44996,
+      "CityName": "New Bedford"
+    },
+    {
+      "CityId": 46424,
+      "CityName": "Lubbock"
+    },
+    {
+      "CityId": 44993,
+      "CityName": "Nantucket"
+    },
+    {
+      "CityId": 49125,
+      "CityName": "Luling"
+    },
+    {
+      "CityId": 46437,
+      "CityName": "Mesquite"
+    },
+    {
+      "CityId": 44994,
+      "CityName": "Natick"
+    },
+    {
+      "CityId": 49126,
+      "CityName": "Newbury"
+    },
+    {
+      "CityId": 43260,
+      "CityName": "Santa Cruz"
+    },
+    {
+      "CityId": 46432,
+      "CityName": "Marshall"
+    },
+    {
+      "CityId": 43264,
+      "CityName": "Santa Paula"
+    },
+    {
+      "CityId": 49127,
+      "CityName": "Fort garland"
+    },
+    {
+      "CityId": 46433,
+      "CityName": "McAllen"
+    },
+    {
+      "CityId": 49432,
+      "CityName": "Fruita"
+    },
+    {
+      "CityId": 46434,
+      "CityName": "McKinney"
+    },
+    {
+      "CityId": 49630,
+      "CityName": "Georgetown"
+    },
+    {
+      "CityId": 43265,
+      "CityName": "Santa Rosa"
+    },
+    {
+      "CityId": 43420,
+      "CityName": "Golden"
+    },
+    {
+      "CityId": 44998,
+      "CityName": "Newton"
+    },
+    {
+      "CityId": 43266,
+      "CityName": "Santa Ynez"
+    },
+    {
+      "CityId": 43421,
+      "CityName": "Grand Junction"
+    },
+    {
+      "CityId": 43316,
+      "CityName": "Thousand Oaks"
+    },
+    {
+      "CityId": 49133,
+      "CityName": "Canadian"
+    },
+    {
+      "CityId": 49134,
+      "CityName": "Grand Lake"
+    },
+    {
+      "CityId": 49327,
+      "CityName": "North Chatham"
+    },
+    {
+      "CityId": 49650,
+      "CityName": "Ignacio"
+    },
+    {
+      "CityId": 49137,
+      "CityName": "Grafton"
+    },
+    {
+      "CityId": 43269,
+      "CityName": "Sausalito"
+    },
+    {
+      "CityId": 45003,
+      "CityName": "Northampton"
+    },
+    {
+      "CityId": 45009,
+      "CityName": "Pittsfield"
+    },
+    {
+      "CityId": 46307,
+      "CityName": "Canyon"
+    },
+    {
+      "CityId": 49138,
+      "CityName": "Leadville"
+    },
+    {
+      "CityId": 43279,
+      "CityName": "Simi Valley"
+    },
+    {
+      "CityId": 49139,
+      "CityName": "Castroville"
+    },
+    {
+      "CityId": 43431,
+      "CityName": "Longmont"
+    },
+    {
+      "CityId": 43433,
+      "CityName": "Loveland"
+    },
+    {
+      "CityId": 49142,
+      "CityName": "Chappell Hill"
+    },
+    {
+      "CityId": 43435,
+      "CityName": "Montrose"
+    },
+    {
+      "CityId": 49144,
+      "CityName": "Clifton"
+    },
+    {
+      "CityId": 49434,
+      "CityName": "Platteville"
+    },
+    {
+      "CityId": 43444,
+      "CityName": "Pueblo"
+    },
+    {
+      "CityId": 45012,
+      "CityName": "Provincetown"
+    },
+    {
+      "CityId": 43282,
+      "CityName": "Solvang"
+    },
+    {
+      "CityId": 43455,
+      "CityName": "Steamboat Springs"
+    },
+    {
+      "CityId": 43458,
+      "CityName": "Telluride"
+    },
+    {
+      "CityId": 49149,
+      "CityName": "Trinidad"
+    },
+    {
+      "CityId": 43283,
+      "CityName": "Sonoma"
+    },
+    {
+      "CityId": 45013,
+      "CityName": "Quincy"
+    },
+    {
+      "CityId": 49150,
+      "CityName": "Wray"
+    },
+    {
+      "CityId": 45016,
+      "CityName": "Rehoboth"
+    },
+    {
+      "CityId": 43299,
+      "CityName": "Stockton"
+    },
+    {
+      "CityId": 45021,
+      "CityName": "Salem"
+    },
+    {
+      "CityId": 43302,
+      "CityName": "Suisun City"
+    },
+    {
+      "CityId": 46320,
+      "CityName": "College Station"
+    },
+    {
+      "CityId": 43310,
+      "CityName": "Tahoe City"
+    },
+    {
+      "CityId": 43332,
+      "CityName": "Ukiah"
+    },
+    {
+      "CityId": 46329,
+      "CityName": "Corpus Christi"
+    },
+    {
+      "CityId": 43335,
+      "CityName": "Vacaville"
+    },
+    {
+      "CityId": 46353,
+      "CityName": "Farmers Branch"
+    },
+    {
+      "CityId": 49151,
+      "CityName": "Sandwich"
+    },
+    {
+      "CityId": 46352,
+      "CityName": "Fairfield"
+    },
+    {
+      "CityId": 49152,
+      "CityName": "Stockbridge"
+    },
+    {
+      "CityId": 43346,
+      "CityName": "Ventura"
+    },
+    {
+      "CityId": 43363,
+      "CityName": "West Hollywood"
+    },
+    {
+      "CityId": 43376,
+      "CityName": "Woodland"
+    },
+    {
+      "CityId": 49153,
+      "CityName": "Woodside"
+    },
+    {
+      "CityId": 45040,
+      "CityName": "Sturbridge"
+    },
+    {
+      "CityId": 43381,
+      "CityName": "Yucaipa"
+    },
+    {
+      "CityId": 49154,
+      "CityName": "North Swansea"
+    },
+    {
+      "CityId": 49155,
+      "CityName": "Crosbyton"
+    },
+    {
+      "CityId": 45043,
+      "CityName": "Taunton"
+    },
+    {
+      "CityId": 45050,
+      "CityName": "Waltham"
+    },
+    {
+      "CityId": 43929,
+      "CityName": "Atlanta"
+    },
+    {
+      "CityId": 46334,
+      "CityName": "Dallas"
+    },
+    {
+      "CityId": 45053,
+      "CityName": "Watertown"
+    },
+    {
+      "CityId": 49156,
+      "CityName": "Wenham"
+    },
+    {
+      "CityId": 45065,
+      "CityName": "Weston"
+    },
+    {
+      "CityId": 49157,
+      "CityName": "Williamstown"
+    },
+    {
+      "CityId": 44905,
+      "CityName": "Amesbury"
+    },
+    {
+      "CityId": 49135,
+      "CityName": "Chatham"
+    },
+    {
+      "CityId": 49334,
+      "CityName": "Roxbury"
+    },
+    {
+      "CityId": 49435,
+      "CityName": "Aitkin"
+    },
+    {
+      "CityId": 49159,
+      "CityName": "Albert Lea"
+    },
+    {
+      "CityId": 49494,
+      "CityName": "Alexandria"
+    },
+    {
+      "CityId": 45255,
+      "CityName": "Anoka"
+    },
+    {
+      "CityId": 49162,
+      "CityName": "Askov"
+    },
+    {
+      "CityId": 45270,
+      "CityName": "Chaska"
+    },
+    {
+      "CityId": 49164,
+      "CityName": "Chisholm"
+    },
+    {
+      "CityId": 46908,
+      "CityName": "Appleton"
+    },
+    {
+      "CityId": 49437,
+      "CityName": "Comfrey"
+    },
+    {
+      "CityId": 49166,
+      "CityName": "Del Rio"
+    },
+    {
+      "CityId": 46339,
+      "CityName": "Denison"
+    },
+    {
+      "CityId": 49167,
+      "CityName": "Currie"
+    },
+    {
+      "CityId": 46346,
+      "CityName": "Edinburg"
+    },
+    {
+      "CityId": 45279,
+      "CityName": "Duluth"
+    },
+    {
+      "CityId": 49169,
+      "CityName": "Baileys Harbor"
+    },
+    {
+      "CityId": 46348,
+      "CityName": "El Paso"
+    },
+    {
+      "CityId": 49170,
+      "CityName": "Elk River"
+    },
+    {
+      "CityId": 46359,
+      "CityName": "Fort Worth"
+    },
+    {
+      "CityId": 46911,
+      "CityName": "Baraboo"
+    },
+    {
+      "CityId": 49171,
+      "CityName": "Cable"
+    },
+    {
+      "CityId": 49172,
+      "CityName": "Cameron"
+    },
+    {
+      "CityId": 49173,
+      "CityName": "Cassville"
+    },
+    {
+      "CityId": 49698,
+      "CityName": "Fairfax"
+    },
+    {
+      "CityId": 49175,
+      "CityName": "Grand Rapids"
+    },
+    {
+      "CityId": 49176,
+      "CityName": "Fredericksburg"
+    },
+    {
+      "CityId": 46362,
+      "CityName": "Frisco"
+    },
+    {
+      "CityId": 49177,
+      "CityName": "Fort McKavett"
+    },
+    {
+      "CityId": 49178,
+      "CityName": "International Falls"
+    },
+    {
+      "CityId": 49179,
+      "CityName": "Le Sueur"
+    },
+    {
+      "CityId": 49180,
+      "CityName": "Little Falls"
+    },
+    {
+      "CityId": 46919,
+      "CityName": "Cedarburg"
+    },
+    {
+      "CityId": 49181,
+      "CityName": "Madison"
+    },
+    {
+      "CityId": 45312,
+      "CityName": "Mendota Heights"
+    },
+    {
+      "CityId": 49183,
+      "CityName": "Eagle"
+    },
+    {
+      "CityId": 45313,
+      "CityName": "Minneapolis"
+    },
+    {
+      "CityId": 46925,
+      "CityName": "Eau Claire"
+    },
+    {
+      "CityId": 49185,
+      "CityName": "Augusta"
+    },
+    {
+      "CityId": 49186,
+      "CityName": "Ellison Bay"
+    },
+    {
+      "CityId": 46938,
+      "CityName": "Green Bay"
+    },
+    {
+      "CityId": 42688,
+      "CityName": "Apache Junction"
+    },
+    {
+      "CityId": 49188,
+      "CityName": "Bisbee"
+    },
+    {
+      "CityId": 49189,
+      "CityName": "Cave Creek"
+    },
+    {
+      "CityId": 49190,
+      "CityName": "Dragoon"
+    },
+    {
+      "CityId": 49191,
+      "CityName": "Greenbush"
+    },
+    {
+      "CityId": 42702,
+      "CityName": "Flagstaff"
+    },
+    {
+      "CityId": 46949,
+      "CityName": "Kenosha"
+    },
+    {
+      "CityId": 46952,
+      "CityName": "La Crosse"
+    },
+    {
+      "CityId": 49193,
+      "CityName": "Moose Lake"
+    },
+    {
+      "CityId": 42703,
+      "CityName": "Florence"
+    },
+    {
+      "CityId": 43946,
+      "CityName": "Carrollton"
+    },
+    {
+      "CityId": 42708,
+      "CityName": "Gilbert"
+    },
+    {
+      "CityId": 42716,
+      "CityName": "Litchfield Park"
+    },
+    {
+      "CityId": 42718,
+      "CityName": "Mesa"
+    },
+    {
+      "CityId": 49194,
+      "CityName": "White"
+    },
+    {
+      "CityId": 49438,
+      "CityName": "Morton"
+    },
+    {
+      "CityId": 49196,
+      "CityName": "New Ulm"
+    },
+    {
+      "CityId": 49197,
+      "CityName": "Northfield"
+    },
+    {
+      "CityId": 45325,
+      "CityName": "Onamia"
+    },
+    {
+      "CityId": 49199,
+      "CityName": "La Pointe"
+    },
+    {
+      "CityId": 43952,
+      "CityName": "Columbus"
+    },
+    {
+      "CityId": 49439,
+      "CityName": "Pine City"
+    },
+    {
+      "CityId": 42725,
+      "CityName": "Payson"
+    },
+    {
+      "CityId": 49201,
+      "CityName": "Pipestone"
+    },
+    {
+      "CityId": 49202,
+      "CityName": "Lac du Flambeau"
+    },
+    {
+      "CityId": 39348,
+      "CityName": "Geneva"
+    },
+    {
+      "CityId": 49518,
+      "CityName": "Preston"
+    },
+    {
+      "CityId": 42727,
+      "CityName": "Phoenix"
+    },
+    {
+      "CityId": 45335,
+      "CityName": "Rochester"
+    },
+    {
+      "CityId": 49440,
+      "CityName": "St. Cloud"
+    },
+    {
+      "CityId": 45342,
+      "CityName": "Saint Paul"
+    },
+    {
+      "CityId": 46954,
+      "CityName": "Madison"
+    },
+    {
+      "CityId": 46955,
+      "CityName": "Manitowoc"
+    },
+    {
+      "CityId": 46959,
+      "CityName": "Menasha"
+    },
+    {
+      "CityId": 49209,
+      "CityName": "Milton"
+    },
+    {
+      "CityId": 46965,
+      "CityName": "Milwaukee"
+    },
+    {
+      "CityId": 42730,
+      "CityName": "Prescott"
+    },
+    {
+      "CityId": 42737,
+      "CityName": "Scottsdale"
+    },
+    {
+      "CityId": 42738,
+      "CityName": "Sedona"
+    },
+    {
+      "CityId": 49573,
+      "CityName": "Superior"
+    },
+    {
+      "CityId": 42744,
+      "CityName": "Tempe"
+    },
+    {
+      "CityId": 42709,
+      "CityName": "Glendale"
+    },
+    {
+      "CityId": 49213,
+      "CityName": "Tubac"
+    },
+    {
+      "CityId": 49442,
+      "CityName": "Apple Valley"
+    },
+    {
+      "CityId": 49215,
+      "CityName": "Shakopee"
+    },
+    {
+      "CityId": 43999,
+      "CityName": "Kennesaw"
+    },
+    {
+      "CityId": 49216,
+      "CityName": "Taylors Falls"
+    },
+    {
+      "CityId": 49217,
+      "CityName": "LaFayette"
+    },
+    {
+      "CityId": 49443,
+      "CityName": "Two Harbors"
+    },
+    {
+      "CityId": 49219,
+      "CityName": "Wabasha"
+    },
+    {
+      "CityId": 49220,
+      "CityName": "Willmar"
+    },
+    {
+      "CityId": 49221,
+      "CityName": "Winona"
+    },
+    {
+      "CityId": 46966,
+      "CityName": "Mineral Point"
+    },
+    {
+      "CityId": 49222,
+      "CityName": "New Holstein"
+    },
+    {
+      "CityId": 49225,
+      "CityName": "Wickenburg"
+    },
+    {
+      "CityId": 49226,
+      "CityName": "Maricopa"
+    },
+    {
+      "CityId": 49227,
+      "CityName": "Williams"
+    },
+    {
+      "CityId": 42748,
+      "CityName": "Yuma"
+    },
+    {
+      "CityId": 46978,
+      "CityName": "Oshkosh"
+    },
+    {
+      "CityId": 46980,
+      "CityName": "Platteville"
+    },
+    {
+      "CityId": 46984,
+      "CityName": "Portage"
+    },
+    {
+      "CityId": 49235,
+      "CityName": "Prairie du Chien"
+    },
+    {
+      "CityId": 43748,
+      "CityName": "Lauderhill"
+    },
+    {
+      "CityId": 49237,
+      "CityName": "Asheville"
+    },
+    {
+      "CityId": 49298,
+      "CityName": "Bethlehem"
+    },
+    {
+      "CityId": 49240,
+      "CityName": "Belmont"
+    },
+    {
+      "CityId": 49241,
+      "CityName": "Catawba"
+    },
+    {
+      "CityId": 49242,
+      "CityName": "Charlotte"
+    },
+    {
+      "CityId": 43495,
+      "CityName": "Greenwich"
+    },
+    {
+      "CityId": 49299,
+      "CityName": "Coventry"
+    },
+    {
+      "CityId": 49245,
+      "CityName": "Danbury"
+    },
+    {
+      "CityId": 43488,
+      "CityName": "East Haven"
+    },
+    {
+      "CityId": 49300,
+      "CityName": "East Windsor"
+    },
+    {
+      "CityId": 49249,
+      "CityName": "Pojoaque"
+    },
+    {
+      "CityId": 49250,
+      "CityName": "Cullowhee"
+    },
+    {
+      "CityId": 49251,
+      "CityName": "Durham"
+    },
+    {
+      "CityId": 49252,
+      "CityName": "Ellerbe"
+    },
+    {
+      "CityId": 49253,
+      "CityName": "Gastonia"
+    },
+    {
+      "CityId": 49254,
+      "CityName": "Greensboro"
+    },
+    {
+      "CityId": 49255,
+      "CityName": "Hickory"
+    },
+    {
+      "CityId": 49256,
+      "CityName": "Huntersville"
+    },
+    {
+      "CityId": 49257,
+      "CityName": "Morehead City"
+    },
+    {
+      "CityId": 49258,
+      "CityName": "Mount Airy"
+    },
+    {
+      "CityId": 49259,
+      "CityName": "Corolla"
+    },
+    {
+      "CityId": 49260,
+      "CityName": "New Bern"
+    },
+    {
+      "CityId": 49261,
+      "CityName": "Ocean Isle Beach"
+    },
+    {
+      "CityId": 49262,
+      "CityName": "Raleigh"
+    },
+    {
+      "CityId": 49263,
+      "CityName": "Rockingham"
+    },
+    {
+      "CityId": 49264,
+      "CityName": "Rocky Mount"
+    },
+    {
+      "CityId": 49268,
+      "CityName": "Winston-Salem"
+    },
+    {
+      "CityId": 49270,
+      "CityName": "Shelby"
+    },
+    {
+      "CityId": 49271,
+      "CityName": "Spencer"
+    },
+    {
+      "CityId": 49272,
+      "CityName": "Wilmington"
+    },
+    {
+      "CityId": 49273,
+      "CityName": "Port of Spain"
+    },
+    {
+      "CityId": 49274,
+      "CityName": "North Sound"
+    },
+    {
+      "CityId": 49275,
+      "CityName": "Kingston"
+    },
+    {
+      "CityId": 49276,
+      "CityName": "Essex"
+    },
+    {
+      "CityId": 43491,
+      "CityName": "Fairfield"
+    },
+    {
+      "CityId": 43492,
+      "CityName": "Farmington"
+    },
+    {
+      "CityId": 43499,
+      "CityName": "Hamden"
+    },
+    {
+      "CityId": 51057,
+      "CityName": "Six Nations"
+    },
+    {
+      "CityId": 43500,
+      "CityName": "Hartford"
+    },
+    {
+      "CityId": 49277,
+      "CityName": "Ledyard"
+    },
+    {
+      "CityId": 49278,
+      "CityName": "Stonington"
+    },
+    {
+      "CityId": 43515,
+      "CityName": "New Haven"
+    },
+    {
+      "CityId": 43522,
+      "CityName": "Norwalk"
+    },
+    {
+      "CityId": 43523,
+      "CityName": "Norwich"
+    },
+    {
+      "CityId": 49279,
+      "CityName": "Old Lyme"
+    },
+    {
+      "CityId": 43529,
+      "CityName": "Portland"
+    },
+    {
+      "CityId": 49280,
+      "CityName": "Ridgefield"
+    },
+    {
+      "CityId": 43539,
+      "CityName": "Southington"
+    },
+    {
+      "CityId": 49281,
+      "CityName": "Sparta"
+    },
+    {
+      "CityId": 49282,
+      "CityName": "Spooner"
+    },
+    {
+      "CityId": 49283,
+      "CityName": "Sturgeon Bay"
+    },
+    {
+      "CityId": 47007,
+      "CityName": "Waukesha"
+    },
+    {
+      "CityId": 46991,
+      "CityName": "Sheboygan"
+    },
+    {
+      "CityId": 47013,
+      "CityName": "West Bend"
+    },
+    {
+      "CityId": 49403,
+      "CityName": "Neillsville"
+    },
+    {
+      "CityId": 49284,
+      "CityName": "Wisconsin Dells"
+    },
+    {
+      "CityId": 46922,
+      "CityName": "De Pere"
+    },
+    {
+      "CityId": 43545,
+      "CityName": "Suffield"
+    },
+    {
+      "CityId": 43559,
+      "CityName": "Wethersfield"
+    },
+    {
+      "CityId": 49287,
+      "CityName": "LaGrange"
+    },
+    {
+      "CityId": 44010,
+      "CityName": "Macon"
+    },
+    {
+      "CityId": 43561,
+      "CityName": "Wilton"
+    },
+    {
+      "CityId": 43563,
+      "CityName": "Windsor Locks"
+    },
+    {
+      "CityId": 43566,
+      "CityName": "Woodstock"
+    },
+    {
+      "CityId": 49390,
+      "CityName": "Akron"
+    },
+    {
+      "CityId": 49391,
+      "CityName": "Bath"
+    },
+    {
+      "CityId": 45608,
+      "CityName": "Beachwood"
+    },
+    {
+      "CityId": 49393,
+      "CityName": "Bolivar"
+    },
+    {
+      "CityId": 49395,
+      "CityName": "Bowling Green"
+    },
+    {
+      "CityId": 48662,
+      "CityName": "Benalmádena"
+    },
+    {
+      "CityId": 36718,
+      "CityName": "Moscow"
+    },
+    {
+      "CityId": 48684,
+      "CityName": "Sankt-Peterburg"
+    },
+    {
+      "CityId": 48661,
+      "CityName": "Belfast"
+    },
+    {
+      "CityId": 48678,
+      "CityName": "Las Palmas de Gran Canaria"
+    },
+    {
+      "CityId": 47897,
+      "CityName": "Corning"
+    },
+    {
+      "CityId": 44012,
+      "CityName": "Marietta"
+    },
+    {
+      "CityId": 44015,
+      "CityName": "Milledgeville"
+    },
+    {
+      "CityId": 44033,
+      "CityName": "Rome"
+    },
+    {
+      "CityId": 44035,
+      "CityName": "Roswell"
+    },
+    {
+      "CityId": 49332,
+      "CityName": "St. Simons"
+    },
+    {
+      "CityId": 49333,
+      "CityName": "Sautee Nacoochee"
+    },
+    {
+      "CityId": 48679,
+      "CityName": "Lisboa"
+    },
+    {
+      "CityId": 44045,
+      "CityName": "Statesboro"
+    },
+    {
+      "CityId": 44049,
+      "CityName": "Thomasville"
+    },
+    {
+      "CityId": 49396,
+      "CityName": "Canton"
+    },
+    {
+      "CityId": 49397,
+      "CityName": "Carrollton"
+    },
+    {
+      "CityId": 49398,
+      "CityName": "Chillicothe"
+    },
+    {
+      "CityId": 41393,
+      "CityName": "Sharjah"
+    },
+    {
+      "CityId": 49358,
+      "CityName": "Librilla"
+    },
+    {
+      "CityId": 49378,
+      "CityName": "Vecindario"
+    },
+    {
+      "CityId": 45427,
+      "CityName": "Cape Girardeau"
+    },
+    {
+      "CityId": 45430,
+      "CityName": "Chesterfield"
+    },
+    {
+      "CityId": 49409,
+      "CityName": "Gray Summit"
+    },
+    {
+      "CityId": 45461,
+      "CityName": "Joplin"
+    },
+    {
+      "CityId": 49449,
+      "CityName": "Madrid"
+    },
+    {
+      "CityId": 49450,
+      "CityName": "Madrid"
+    },
+    {
+      "CityId": 23183,
+      "CityName": "Milan"
+    },
+    {
+      "CityId": 22744,
+      "CityName": "Parma"
+    },
+    {
+      "CityId": 22678,
+      "CityName": "Bologna"
+    },
+    {
+      "CityId": 23125,
+      "CityName": "Segrate"
+    },
+    {
+      "CityId": 49451,
+      "CityName": "Ferno"
+    },
+    {
+      "CityId": 49452,
+      "CityName": "Longford"
+    },
+    {
+      "CityId": 42604,
+      "CityName": "Birmingham"
+    },
+    {
+      "CityId": 49453,
+      "CityName": "El Prat de Llobregat"
+    },
+    {
+      "CityId": 49454,
+      "CityName": "Lloret de Mar"
+    },
+    {
+      "CityId": 49456,
+      "CityName": "Zaventem"
+    },
+    {
+      "CityId": 49457,
+      "CityName": "Antwerp"
+    },
+    {
+      "CityId": 49458,
+      "CityName": "Düsseldorf"
+    },
+    {
+      "CityId": 30054,
+      "CityName": "Maastricht"
+    },
+    {
+      "CityId": 49459,
+      "CityName": "Cologne"
+    },
+    {
+      "CityId": 49460,
+      "CityName": "Roissy-en-France"
+    },
+    {
+      "CityId": 49461,
+      "CityName": "Orly"
+    },
+    {
+      "CityId": 45462,
+      "CityName": "Kansas City"
+    },
+    {
+      "CityId": 43680,
+      "CityName": "Fort Lauderdale"
+    },
+    {
+      "CityId": 49471,
+      "CityName": "Kearney"
+    },
+    {
+      "CityId": 45471,
+      "CityName": "Liberty"
+    },
+    {
+      "CityId": 49472,
+      "CityName": "Malden"
+    },
+    {
+      "CityId": 49473,
+      "CityName": "Mansfield"
+    },
+    {
+      "CityId": 49475,
+      "CityName": "Point Lookout"
+    },
+    {
+      "CityId": 45495,
+      "CityName": "Saint Joseph"
+    },
+    {
+      "CityId": 45503,
+      "CityName": "St. Louis"
+    },
+    {
+      "CityId": 45465,
+      "CityName": "Kirkwood"
+    },
+    {
+      "CityId": 38756,
+      "CityName": "Toledo"
+    },
+    {
+      "CityId": 23073,
+      "CityName": "Milano"
+    },
+    {
+      "CityId": 49478,
+      "CityName": "Ludwigsvorstadt-Isarvorstadt"
+    },
+    {
+      "CityId": 49481,
+      "CityName": "Las Rozas de Madrid"
+    },
+    {
+      "CityId": 23790,
+      "CityName": "Florence"
+    },
+    {
+      "CityId": 41608,
+      "CityName": "Bicester"
+    },
+    {
+      "CityId": 49482,
+      "CityName": "Wertheim"
+    },
+    {
+      "CityId": 49483,
+      "CityName": "Serris"
+    },
+    {
+      "CityId": 49337,
+      "CityName": "Albufeira"
+    },
+    {
+      "CityId": 49346,
+      "CityName": "Cartagena"
+    },
+    {
+      "CityId": 49364,
+      "CityName": "Natchez"
+    },
+    {
+      "CityId": 49365,
+      "CityName": "New Orleans"
+    },
+    {
+      "CityId": 49371,
+      "CityName": "San Antonio"
+    },
+    {
+      "CityId": 48663,
+      "CityName": "Cádiz"
+    },
+    {
+      "CityId": 50875,
+      "CityName": "Paris"
+    },
+    {
+      "CityId": 48227,
+      "CityName": "Columbia"
+    },
+    {
+      "CityId": 49542,
+      "CityName": "Georgetown"
+    },
+    {
+      "CityId": 48232,
+      "CityName": "Greenville"
+    },
+    {
+      "CityId": 48235,
+      "CityName": "Hilton Head Island"
+    },
+    {
+      "CityId": 49543,
+      "CityName": "McConnells"
+    },
+    {
+      "CityId": 48229,
+      "CityName": "North Charleston"
+    },
+    {
+      "CityId": 49544,
+      "CityName": "Murrells Inlet"
+    },
+    {
+      "CityId": 48231,
+      "CityName": "Rock Hill"
+    },
+    {
+      "CityId": 48234,
+      "CityName": "Sumter"
+    },
+    {
+      "CityId": 48257,
+      "CityName": "Beaufort"
+    },
+    {
+      "CityId": 49545,
+      "CityName": "Bishopville"
+    },
+    {
+      "CityId": 48228,
+      "CityName": "Charleston"
+    },
+    {
+      "CityId": 45875,
+      "CityName": "Astoria"
+    },
+    {
+      "CityId": 45878,
+      "CityName": "Bend"
+    },
+    {
+      "CityId": 45885,
+      "CityName": "Coos Bay"
+    },
+    {
+      "CityId": 45890,
+      "CityName": "Eugene"
+    },
+    {
+      "CityId": 49549,
+      "CityName": "Garibaldi"
+    },
+    {
+      "CityId": 45900,
+      "CityName": "Hillsboro"
+    },
+    {
+      "CityId": 45901,
+      "CityName": "Hood River"
+    },
+    {
+      "CityId": 45906,
+      "CityName": "Klamath Falls"
+    },
+    {
+      "CityId": 49550,
+      "CityName": "McMinnville"
+    },
+    {
+      "CityId": 49551,
+      "CityName": "Moro"
+    },
+    {
+      "CityId": 45914,
+      "CityName": "Newberg"
+    },
+    {
+      "CityId": 45921,
+      "CityName": "Oregon City"
+    },
+    {
+      "CityId": 49356,
+      "CityName": "Kazan"
+    },
+    {
+      "CityId": 45922,
+      "CityName": "Pendleton"
+    },
+    {
+      "CityId": 45923,
+      "CityName": "Portland"
+    },
+    {
+      "CityId": 39186,
+      "CityName": "Stockholm"
+    },
+    {
+      "CityId": 45928,
+      "CityName": "Salem"
+    },
+    {
+      "CityId": 49562,
+      "CityName": "The Dalles"
+    },
+    {
+      "CityId": 49563,
+      "CityName": "Tillamook"
+    },
+    {
+      "CityId": 45940,
+      "CityName": "Wilsonville"
+    },
+    {
+      "CityId": 47579,
+      "CityName": "Concord"
+    },
+    {
+      "CityId": 49564,
+      "CityName": "Cornish"
+    },
+    {
+      "CityId": 47581,
+      "CityName": "Dover"
+    },
+    {
+      "CityId": 49565,
+      "CityName": "Enfield"
+    },
+    {
+      "CityId": 47595,
+      "CityName": "Exeter"
+    },
+    {
+      "CityId": 47587,
+      "CityName": "Keene"
+    },
+    {
+      "CityId": 47577,
+      "CityName": "Manchester"
+    },
+    {
+      "CityId": 49567,
+      "CityName": "Moultonborough"
+    },
+    {
+      "CityId": 47589,
+      "CityName": "Portsmouth"
+    },
+    {
+      "CityId": 47628,
+      "CityName": "Wolfeboro"
+    },
+    {
+      "CityId": 49569,
+      "CityName": "Bayard"
+    },
+    {
+      "CityId": 49570,
+      "CityName": "Chadron"
+    },
+    {
+      "CityId": 49571,
+      "CityName": "Crawford"
+    },
+    {
+      "CityId": 45554,
+      "CityName": "Gering"
+    },
+    {
+      "CityId": 42772,
+      "CityName": "Little Rock"
+    },
+    {
+      "CityId": 42638,
+      "CityName": "Mobile"
+    },
+    {
+      "CityId": 42619,
+      "CityName": "Gadsden"
+    },
+    {
+      "CityId": 42617,
+      "CityName": "Florence"
+    },
+    {
+      "CityId": 42632,
+      "CityName": "Huntsville"
+    },
+    {
+      "CityId": 45556,
+      "CityName": "Hastings"
+    },
+    {
+      "CityId": 49574,
+      "CityName": "Fairplay"
+    },
+    {
+      "CityId": 49575,
+      "CityName": "San Simeon"
+    },
+    {
+      "CityId": 49576,
+      "CityName": "Pigeon Forge"
+    },
+    {
+      "CityId": 46242,
+      "CityName": "Memphis"
+    },
+    {
+      "CityId": 45502,
+      "CityName": "Springfield"
+    },
+    {
+      "CityId": 43647,
+      "CityName": "Daytona Beach"
+    },
+    {
+      "CityId": 48932,
+      "CityName": "DeLand"
+    },
+    {
+      "CityId": 43662,
+      "CityName": "Dunedin"
+    },
+    {
+      "CityId": 43681,
+      "CityName": "Fort Myers"
+    },
+    {
+      "CityId": 43683,
+      "CityName": "Fort Pierce"
+    },
+    {
+      "CityId": 43684,
+      "CityName": "Fort Walton Beach"
+    },
+    {
+      "CityId": 49580,
+      "CityName": "Ste. Genevieve"
+    },
+    {
+      "CityId": 45457,
+      "CityName": "Independence"
+    },
+    {
+      "CityId": 49581,
+      "CityName": "Savannah"
+    },
+    {
+      "CityId": 46262,
+      "CityName": "Tullahoma"
+    },
+    {
+      "CityId": 46249,
+      "CityName": "Oak Ridge"
+    },
+    {
+      "CityId": 49582,
+      "CityName": "Piney Flats"
+    },
+    {
+      "CityId": 5434,
+      "CityName": "Cooch Behar"
+    },
+    {
+      "CityId": 5400,
+      "CityName": "Bishnupur"
+    },
+    {
+      "CityId": 563,
+      "CityName": "Patna"
+    },
+    {
+      "CityId": 472,
+      "CityName": "Bhagalpur"
+    },
+    {
+      "CityId": 2145,
+      "CityName": "Bhopal"
+    },
+    {
+      "CityId": 49585,
+      "CityName": "Ramnagar"
+    },
+    {
+      "CityId": 90,
+      "CityName": "Guntur"
+    },
+    {
+      "CityId": 285,
+      "CityName": "Vijayawada"
+    },
+    {
+      "CityId": 684,
+      "CityName": "Raipur"
+    },
+    {
+      "CityId": 48362,
+      "CityName": "Champaner"
+    },
+    {
+      "CityId": 912,
+      "CityName": "Junagadh"
+    },
+    {
+      "CityId": 1068,
+      "CityName": "Vadodara"
+    },
+    {
+      "CityId": 49594,
+      "CityName": "Ballari"
+    },
+    {
+      "CityId": 48331,
+      "CityName": "Srirangapatna"
+    },
+    {
+      "CityId": 1589,
+      "CityName": "Chitradurga"
+    },
+    {
+      "CityId": 50891,
+      "CityName": "Paris"
+    },
+    {
+      "CityId": 4744,
+      "CityName": "Fatehpur Sikri"
+    },
+    {
+      "CityId": 49608,
+      "CityName": "Bhavnath"
+    },
+    {
+      "CityId": 780,
+      "CityName": "Adalaj"
+    },
+    {
+      "CityId": 2313,
+      "CityName": "Mandsaur"
+    },
+    {
+      "CityId": 49609,
+      "CityName": "Amarkantak"
+    },
+    {
+      "CityId": 2225,
+      "CityName": "Hoshangabad"
+    },
+    {
+      "CityId": 2178,
+      "CityName": "Datia"
+    },
+    {
+      "CityId": 49610,
+      "CityName": "Deogarh"
+    },
+    {
+      "CityId": 3912,
+      "CityName": "Madurai"
+    },
+    {
+      "CityId": 3657,
+      "CityName": "Chengalpattu"
+    },
+    {
+      "CityId": 719,
+      "CityName": "Candolim"
+    },
+    {
+      "CityId": 49611,
+      "CityName": "Abhaneri"
+    },
+    {
+      "CityId": 2711,
+      "CityName": "Murud"
+    },
+    {
+      "CityId": 2539,
+      "CityName": "Chikhaldara"
+    },
+    {
+      "CityId": 2689,
+      "CityName": "Mansar"
+    },
+    {
+      "CityId": 1997,
+      "CityName": "Palakkad"
+    },
+    {
+      "CityId": 1921,
+      "CityName": "Kannur"
+    },
+    {
+      "CityId": 49612,
+      "CityName": "Vattakkottai"
+    },
+    {
+      "CityId": 49613,
+      "CityName": "Ratnagiri"
+    },
+    {
+      "CityId": 49614,
+      "CityName": "Piprahawa"
+    },
+    {
+      "CityId": 44494,
+      "CityName": "Cedar Rapids"
+    },
+    {
+      "CityId": 46221,
+      "CityName": "Franklin"
+    },
+    {
+      "CityId": 42670,
+      "CityName": "Anchorage"
+    },
+    {
+      "CityId": 47820,
+      "CityName": "Albuquerque"
+    },
+    {
+      "CityId": 44641,
+      "CityName": "Alexandria"
+    },
+    {
+      "CityId": 45850,
+      "CityName": "Oklahoma City"
+    },
+    {
+      "CityId": 46207,
+      "CityName": "Clarksville"
+    },
+    {
+      "CityId": 46618,
+      "CityName": "Manchester"
+    },
+    {
+      "CityId": 42597,
+      "CityName": "Anniston"
+    },
+    {
+      "CityId": 44498,
+      "CityName": "Coralville"
+    },
+    {
+      "CityId": 45382,
+      "CityName": "Indianola"
+    },
+    {
+      "CityId": 44119,
+      "CityName": "Pocatello"
+    },
+    {
+      "CityId": 46601,
+      "CityName": "Bennington"
+    },
+    {
+      "CityId": 49634,
+      "CityName": "Deadwood"
+    },
+    {
+      "CityId": 44681,
+      "CityName": "Monroe"
+    },
+    {
+      "CityId": 49635,
+      "CityName": "Woodstock"
+    },
+    {
+      "CityId": 45368,
+      "CityName": "Clarksdale"
+    },
+    {
+      "CityId": 44072,
+      "CityName": "Honolulu"
+    },
+    {
+      "CityId": 49636,
+      "CityName": "Lead"
+    },
+    {
+      "CityId": 44491,
+      "CityName": "Burlington"
+    },
+    {
+      "CityId": 47837,
+      "CityName": "Portales"
+    },
+    {
+      "CityId": 44528,
+      "CityName": "Waterloo"
+    },
+    {
+      "CityId": 44104,
+      "CityName": "Boise"
+    },
+    {
+      "CityId": 47667,
+      "CityName": "Plainfield"
+    },
+    {
+      "CityId": 48268,
+      "CityName": "Watertown"
+    },
+    {
+      "CityId": 44502,
+      "CityName": "Dubuque"
+    },
+    {
+      "CityId": 47021,
+      "CityName": "Cody"
+    },
+    {
+      "CityId": 45524,
+      "CityName": "Great Falls"
+    },
+    {
+      "CityId": 45568,
+      "CityName": "Omaha"
+    },
+    {
+      "CityId": 44645,
+      "CityName": "Baton Rouge"
+    },
+    {
+      "CityId": 47847,
+      "CityName": "Corrales"
+    },
+    {
+      "CityId": 44493,
+      "CityName": "Cedar Falls"
+    },
+    {
+      "CityId": 47823,
+      "CityName": "Santa Fe"
+    },
+    {
+      "CityId": 45564,
+      "CityName": "Norfolk"
+    },
+    {
+      "CityId": 46604,
+      "CityName": "Burlington"
+    },
+    {
+      "CityId": 49637,
+      "CityName": "Medora"
+    },
+    {
+      "CityId": 49638,
+      "CityName": "Park Hill"
+    },
+    {
+      "CityId": 45527,
+      "CityName": "Helena"
+    },
+    {
+      "CityId": 47020,
+      "CityName": "Cheyenne"
+    },
+    {
+      "CityId": 49646,
+      "CityName": "Plymouth"
+    },
+    {
+      "CityId": 45860,
+      "CityName": "Sulphur"
+    },
+    {
+      "CityId": 42667,
+      "CityName": "Tuscaloosa"
+    },
+    {
+      "CityId": 44676,
+      "CityName": "Mandeville"
+    },
+    {
+      "CityId": 42639,
+      "CityName": "Montgomery"
+    },
+    {
+      "CityId": 45530,
+      "CityName": "Kalispell"
+    },
+    {
+      "CityId": 47848,
+      "CityName": "Bernalillo"
+    },
+    {
+      "CityId": 49647,
+      "CityName": "Garryowen"
+    },
+    {
+      "CityId": 48269,
+      "CityName": "Mitchell"
+    },
+    {
+      "CityId": 46628,
+      "CityName": "Saint Johnsbury"
+    },
+    {
+      "CityId": 44489,
+      "CityName": "Bettendorf"
+    },
+    {
+      "CityId": 44500,
+      "CityName": "Davenport"
+    },
+    {
+      "CityId": 48187,
+      "CityName": "Williston"
+    },
+    {
+      "CityId": 49649,
+      "CityName": "Radium Springs"
+    },
+    {
+      "CityId": 42765,
+      "CityName": "Fort Smith"
+    },
+    {
+      "CityId": 3,
+      "CityName": "Port Blair"
+    },
+    {
+      "CityId": 49653,
+      "CityName": "Port Blair"
+    },
+    {
+      "CityId": 49658,
+      "CityName": "Fort Totten"
+    },
+    {
+      "CityId": 45521,
+      "CityName": "Bozeman"
+    },
+    {
+      "CityId": 49660,
+      "CityName": "Lehi"
+    },
+    {
+      "CityId": 49661,
+      "CityName": "Truth or Consequences"
+    },
+    {
+      "CityId": 45863,
+      "CityName": "Tulsa"
+    },
+    {
+      "CityId": 49662,
+      "CityName": "Philipsburg"
+    },
+    {
+      "CityId": 49663,
+      "CityName": "Malta"
+    },
+    {
+      "CityId": 48264,
+      "CityName": "Sioux Falls"
+    },
+    {
+      "CityId": 45836,
+      "CityName": "Grove"
+    },
+    {
+      "CityId": 49664,
+      "CityName": "Harpers Ferry"
+    },
+    {
+      "CityId": 49665,
+      "CityName": "Taos"
+    },
+    {
+      "CityId": 45559,
+      "CityName": "Kearney"
+    },
+    {
+      "CityId": 42779,
+      "CityName": "Piggott"
+    },
+    {
+      "CityId": 46620,
+      "CityName": "Middlebury"
+    },
+    {
+      "CityId": 44126,
+      "CityName": "Twin Falls"
+    },
+    {
+      "CityId": 44499,
+      "CityName": "Council Bluffs"
+    },
+    {
+      "CityId": 49666,
+      "CityName": "Shepherdstown"
+    },
+    {
+      "CityId": 45538,
+      "CityName": "Missoula"
+    },
+    {
+      "CityId": 49667,
+      "CityName": "West Branch"
+    },
+    {
+      "CityId": 48282,
+      "CityName": "Huntington"
+    },
+    {
+      "CityId": 49668,
+      "CityName": "Castleton"
+    },
+    {
+      "CityId": 49669,
+      "CityName": "Plaquemine"
+    },
+    {
+      "CityId": 45562,
+      "CityName": "Lincoln"
+    },
+    {
+      "CityId": 47026,
+      "CityName": "Jackson"
+    },
+    {
+      "CityId": 47018,
+      "CityName": "Buffalo"
+    },
+    {
+      "CityId": 42676,
+      "CityName": "Juneau"
+    },
+    {
+      "CityId": 45541,
+      "CityName": "Polson"
+    },
+    {
+      "CityId": 45390,
+      "CityName": "Meridian"
+    },
+    {
+      "CityId": 45383,
+      "CityName": "Jackson"
+    },
+    {
+      "CityId": 45182,
+      "CityName": "Monroe"
+    },
+    {
+      "CityId": 49685,
+      "CityName": "Elk Horn"
+    },
+    {
+      "CityId": 44112,
+      "CityName": "Idaho Falls"
+    },
+    {
+      "CityId": 44109,
+      "CityName": "Coeur d'Alene"
+    },
+    {
+      "CityId": 42685,
+      "CityName": "Unalaska"
+    },
+    {
+      "CityId": 45840,
+      "CityName": "Lawton"
+    },
+    {
+      "CityId": 45038,
+      "CityName": "Springfield"
+    },
+    {
+      "CityId": 45376,
+      "CityName": "Greenwood"
+    },
+    {
+      "CityId": 48285,
+      "CityName": "Wheeling"
+    },
+    {
+      "CityId": 49699,
+      "CityName": "Jekyll Island"
+    },
+    {
+      "CityId": 45976,
+      "CityName": "Chambersburg"
+    },
+    {
+      "CityId": 49700,
+      "CityName": "Savannah"
+    },
+    {
+      "CityId": 47933,
+      "CityName": "Glen Cove"
+    },
+    {
+      "CityId": 46233,
+      "CityName": "Knoxville"
+    },
+    {
+      "CityId": 46228,
+      "CityName": "Hendersonville"
+    },
+    {
+      "CityId": 46208,
+      "CityName": "Cleveland"
+    },
+    {
+      "CityId": 46206,
+      "CityName": "Chattanooga"
+    },
+    {
+      "CityId": 49710,
+      "CityName": "Amagansett"
+    },
+    {
+      "CityId": 44927,
+      "CityName": "Charlestown"
+    },
+    {
+      "CityId": 47028,
+      "CityName": "Laramie"
+    },
+    {
+      "CityId": 49719,
+      "CityName": "Vacherie"
+    },
+    {
+      "CityId": 49720,
+      "CityName": "Salmon"
+    },
+    {
+      "CityId": 49721,
+      "CityName": "Lincoln"
+    },
+    {
+      "CityId": 44527,
+      "CityName": "Urbandale"
+    },
+    {
+      "CityId": 44683,
+      "CityName": "Natchitoches"
+    },
+    {
+      "CityId": 49723,
+      "CityName": "Royal"
+    },
+    {
+      "CityId": 44070,
+      "CityName": "Hilo"
+    },
+    {
+      "CityId": 45378,
+      "CityName": "Gulfport"
+    },
+    {
+      "CityId": 3379,
+      "CityName": "Jaisalmer"
+    },
+    {
+      "CityId": 3332,
+      "CityName": "Bikaner"
+    },
+    {
+      "CityId": 3497,
+      "CityName": "Sambhar"
+    },
+    {
+      "CityId": 44673,
+      "CityName": "Lafayette"
+    },
+    {
+      "CityId": 49724,
+      "CityName": "Lowell"
+    },
+    {
+      "CityId": 42679,
+      "CityName": "Kodiak"
+    },
+    {
+      "CityId": 49726,
+      "CityName": "Boulder"
+    },
+    {
+      "CityId": 45858,
+      "CityName": "Shawnee"
+    },
+    {
+      "CityId": 45411,
+      "CityName": "Vicksburg"
+    },
+    {
+      "CityId": 49727,
+      "CityName": "Jemez Springs"
+    },
+    {
+      "CityId": 49728,
+      "CityName": "York"
+    },
+    {
+      "CityId": 49729,
+      "CityName": "Tucumcari"
+    },
+    {
+      "CityId": 49730,
+      "CityName": "El Prado"
+    },
+    {
+      "CityId": 49731,
+      "CityName": "Orwell"
+    },
+    {
+      "CityId": 49732,
+      "CityName": "Dubois"
+    },
+    {
+      "CityId": 46584,
+      "CityName": "Salt Lake City"
+    },
+    {
+      "CityId": 44521,
+      "CityName": "Oskaloosa"
+    },
+    {
+      "CityId": 47821,
+      "CityName": "Las Cruces"
+    },
+    {
+      "CityId": 47019,
+      "CityName": "Casper"
+    },
+    {
+      "CityId": 47829,
+      "CityName": "Alamogordo"
+    },
+    {
+      "CityId": 46574,
+      "CityName": "Ogden"
+    },
+    {
+      "CityId": 45362,
+      "CityName": "Biloxi"
+    },
+    {
+      "CityId": 49741,
+      "CityName": "Choteau"
+    },
+    {
+      "CityId": 45853,
+      "CityName": "Pawnee"
+    },
+    {
+      "CityId": 48283,
+      "CityName": "Morgantown"
+    },
+    {
+      "CityId": 44523,
+      "CityName": "Pella"
+    },
+    {
+      "CityId": 49742,
+      "CityName": "Pembina"
+    },
+    {
+      "CityId": 42674,
+      "CityName": "Fairbanks"
+    },
+    {
+      "CityId": 42665,
+      "CityName": "Troy"
+    },
+    {
+      "CityId": 49743,
+      "CityName": "Decorah"
+    },
+    {
+      "CityId": 45820,
+      "CityName": "Bartlesville"
+    },
+    {
+      "CityId": 42675,
+      "CityName": "Homer"
+    },
+    {
+      "CityId": 45525,
+      "CityName": "Hamilton"
+    },
+    {
+      "CityId": 49762,
+      "CityName": "Ferrisburgh"
+    },
+    {
+      "CityId": 45398,
+      "CityName": "Oxford"
+    },
+    {
+      "CityId": 44501,
+      "CityName": "Des Moines"
+    },
+    {
+      "CityId": 47850,
+      "CityName": "Bloomfield"
+    },
+    {
+      "CityId": 45849,
+      "CityName": "Norman"
+    },
+    {
+      "CityId": 42754,
+      "CityName": "Bentonville"
+    },
+    {
+      "CityId": 49763,
+      "CityName": "Salem"
+    },
+    {
+      "CityId": 49764,
+      "CityName": "Seward"
+    },
+    {
+      "CityId": 42682,
+      "CityName": "Sitka"
+    },
+    {
+      "CityId": 49820,
+      "CityName": "Haines"
+    },
+    {
+      "CityId": 47842,
+      "CityName": "Silver City"
+    },
+    {
+      "CityId": 49821,
+      "CityName": "Lava Hot Springs"
+    },
+    {
+      "CityId": 49822,
+      "CityName": "Marlboro"
+    },
+    {
+      "CityId": 48271,
+      "CityName": "Pierre"
+    },
+    {
+      "CityId": 49823,
+      "CityName": "St. George"
+    },
+    {
+      "CityId": 49824,
+      "CityName": "Talkeetna"
+    },
+    {
+      "CityId": 49825,
+      "CityName": "Big Horn"
+    },
+    {
+      "CityId": 45369,
+      "CityName": "Cleveland"
+    },
+    {
+      "CityId": 49826,
+      "CityName": "Hot Springs"
+    },
+    {
+      "CityId": 50187,
+      "CityName": "Richmond"
+    },
+    {
+      "CityId": 50859,
+      "CityName": "Whipsnade"
+    },
+    {
+      "CityId": 50188,
+      "CityName": "Belfast"
+    },
+    {
+      "CityId": 42382,
+      "CityName": "Edinburgh"
+    },
+    {
+      "CityId": 50189,
+      "CityName": "Coupvray"
+    },
+    {
+      "CityId": 50190,
+      "CityName": "Hillsborough"
+    },
+    {
+      "CityId": 50194,
+      "CityName": "Vila-seca"
+    },
+    {
+      "CityId": 50195,
+      "CityName": "Bushmills"
+    },
+    {
+      "CityId": 50196,
+      "CityName": "Copenhagen"
+    },
+    {
+      "CityId": 22854,
+      "CityName": "Roma"
+    },
+    {
+      "CityId": 50197,
+      "CityName": "Universal City"
+    },
+    {
+      "CityId": 22475,
+      "CityName": "Pompei"
+    },
+    {
+      "CityId": 43625,
+      "CityName": "Clearwater"
+    },
+    {
+      "CityId": 50199,
+      "CityName": "Bran"
+    },
+    {
+      "CityId": 42859,
+      "CityName": "Burbank"
+    },
+    {
+      "CityId": 43916,
+      "CityName": "Winter Haven"
+    },
+    {
+      "CityId": 50201,
+      "CityName": "Chasseneuil-du-Poitou"
+    },
+    {
+      "CityId": 50202,
+      "CityName": "Marseille"
+    },
+    {
+      "CityId": 23596,
+      "CityName": "Agrigento"
+    },
+    {
+      "CityId": 50203,
+      "CityName": "Le Mont-Saint-Michel"
+    },
+    {
+      "CityId": 50204,
+      "CityName": "Saint Aignan"
+    },
+    {
+      "CityId": 50205,
+      "CityName": "Granada"
+    },
+    {
+      "CityId": 50207,
+      "CityName": "Toledo"
+    },
+    {
+      "CityId": 43378,
+      "CityName": "Yorba Linda"
+    },
+    {
+      "CityId": 50208,
+      "CityName": "Abu Dhabi"
+    },
+    {
+      "CityId": 50209,
+      "CityName": "Carcassonne"
+    },
+    {
+      "CityId": 42021,
+      "CityName": "York"
+    },
+    {
+      "CityId": 50210,
+      "CityName": "Saint-Mandé"
+    },
+    {
+      "CityId": 50211,
+      "CityName": "Vaulx-en-Velin"
+    },
+    {
+      "CityId": 50212,
+      "CityName": "Aigues-Mortes"
+    },
+    {
+      "CityId": 20106,
+      "CityName": "Dresden"
+    },
+    {
+      "CityId": 30332,
+      "CityName": "Utrecht"
+    },
+    {
+      "CityId": 50213,
+      "CityName": "Playa del Carmen"
+    },
+    {
+      "CityId": 7157,
+      "CityName": "Wien"
+    },
+    {
+      "CityId": 24054,
+      "CityName": "Venice"
+    },
+    {
+      "CityId": 50214,
+      "CityName": "Púbol"
+    },
+    {
+      "CityId": 50215,
+      "CityName": "Antibes"
+    },
+    {
+      "CityId": 30129,
+      "CityName": "Kaatsheuvel"
+    },
+    {
+      "CityId": 43768,
+      "CityName": "Merritt Island"
+    },
+    {
+      "CityId": 50216,
+      "CityName": "Toulouse"
+    },
+    {
+      "CityId": 50217,
+      "CityName": "Fuengirola"
+    },
+    {
+      "CityId": 50218,
+      "CityName": "Den Haag"
+    },
+    {
+      "CityId": 22460,
+      "CityName": "Napoli"
+    },
+    {
+      "CityId": 30425,
+      "CityName": "Rotterdam"
+    },
+    {
+      "CityId": 50219,
+      "CityName": "Málaga"
+    },
+    {
+      "CityId": 50220,
+      "CityName": "Pisa"
+    },
+    {
+      "CityId": 23788,
+      "CityName": "Firenze"
+    },
+    {
+      "CityId": 50222,
+      "CityName": "Otterlo"
+    },
+    {
+      "CityId": 19014,
+      "CityName": "Berlin"
+    },
+    {
+      "CityId": 50223,
+      "CityName": "Beaulieu-sur-Mer"
+    },
+    {
+      "CityId": 50224,
+      "CityName": "Chacalal"
+    },
+    {
+      "CityId": 50225,
+      "CityName": "Croix"
+    },
+    {
+      "CityId": 50226,
+      "CityName": "Reykjavík"
+    },
+    {
+      "CityId": 50228,
+      "CityName": "Cluny"
+    },
+    {
+      "CityId": 30141,
+      "CityName": "Nuenen"
+    },
+    {
+      "CityId": 50229,
+      "CityName": "Athens"
+    },
+    {
+      "CityId": 50230,
+      "CityName": "Queluz"
+    },
+    {
+      "CityId": 50231,
+      "CityName": "İstanbul"
+    },
+    {
+      "CityId": 28479,
+      "CityName": "Maya"
+    },
+    {
+      "CityId": 50233,
+      "CityName": "Plailly"
+    },
+    {
+      "CityId": 32045,
+      "CityName": "Cusco"
+    },
+    {
+      "CityId": 43794,
+      "CityName": "North Miami Beach"
+    },
+    {
+      "CityId": 50234,
+      "CityName": "Metz"
+    },
+    {
+      "CityId": 30256,
+      "CityName": "Zaandam"
+    },
+    {
+      "CityId": 50237,
+      "CityName": "San Juan Teotihuacan de Arista"
+    },
+    {
+      "CityId": 22897,
+      "CityName": "Genova"
+    },
+    {
+      "CityId": 50238,
+      "CityName": "Södermalm"
+    },
+    {
+      "CityId": 50240,
+      "CityName": "Monestir de Montserrat"
+    },
+    {
+      "CityId": 50242,
+      "CityName": "Östermalm"
+    },
+    {
+      "CityId": 50243,
+      "CityName": "Wicklow"
+    },
+    {
+      "CityId": 50244,
+      "CityName": "Searchlight"
+    },
+    {
+      "CityId": 50245,
+      "CityName": "Blessington"
+    },
+    {
+      "CityId": 50246,
+      "CityName": "Güímar"
+    },
+    {
+      "CityId": 49772,
+      "CityName": "Costa Adeje"
+    },
+    {
+      "CityId": 50247,
+      "CityName": "Angers"
+    },
+    {
+      "CityId": 50248,
+      "CityName": "Centrala Södertälje"
+    },
+    {
+      "CityId": 50249,
+      "CityName": "Norrmalm"
+    },
+    {
+      "CityId": 19089,
+      "CityName": "Hamburg"
+    },
+    {
+      "CityId": 50253,
+      "CityName": "North Vancouver"
+    },
+    {
+      "CityId": 50254,
+      "CityName": "The Rocks"
+    },
+    {
+      "CityId": 41664,
+      "CityName": "Chessington"
+    },
+    {
+      "CityId": 50255,
+      "CityName": "Volendam"
+    },
+    {
+      "CityId": 19682,
+      "CityName": "Essen"
+    },
+    {
+      "CityId": 19661,
+      "CityName": "Dortmund"
+    },
+    {
+      "CityId": 50250,
+      "CityName": "Linköping"
+    },
+    {
+      "CityId": 22427,
+      "CityName": "Ercolano"
+    },
+    {
+      "CityId": 27076,
+      "CityName": "Subang Jaya"
+    },
+    {
+      "CityId": 50258,
+      "CityName": "Valencia"
+    },
+    {
+      "CityId": 50259,
+      "CityName": "Figueres"
+    },
+    {
+      "CityId": 23408,
+      "CityName": "Venaria Reale"
+    },
+    {
+      "CityId": 50260,
+      "CityName": "Sant Fruitós de Bages"
+    },
+    {
+      "CityId": 50262,
+      "CityName": "Berne"
+    },
+    {
+      "CityId": 50265,
+      "CityName": "Slagharen"
+    },
+    {
+      "CityId": 23402,
+      "CityName": "Torino"
+    },
+    {
+      "CityId": 23823,
+      "CityName": "Pisa"
+    },
+    {
+      "CityId": 50236,
+      "CityName": "Ronchi"
+    },
+    {
+      "CityId": 50269,
+      "CityName": "Cheillé"
+    },
+    {
+      "CityId": 50270,
+      "CityName": "Sicklerville"
+    },
+    {
+      "CityId": 50272,
+      "CityName": "Malahide"
+    },
+    {
+      "CityId": 50273,
+      "CityName": "Cancún"
+    },
+    {
+      "CityId": 50864,
+      "CityName": "Solzina"
+    },
+    {
+      "CityId": 50198,
+      "CityName": "Versailles"
+    },
+    {
+      "CityId": 23850,
+      "CityName": "Siena"
+    },
+    {
+      "CityId": 50277,
+      "CityName": "Puteaux"
+    },
+    {
+      "CityId": 19587,
+      "CityName": "Wolfsburg"
+    },
+    {
+      "CityId": 50279,
+      "CityName": "San Gimignano"
+    },
+    {
+      "CityId": 23661,
+      "CityName": "Monreale"
+    },
+    {
+      "CityId": 50280,
+      "CityName": "Skipton"
+    },
+    {
+      "CityId": 50281,
+      "CityName": "Chadstone"
+    },
+    {
+      "CityId": 7129,
+      "CityName": "Wattens"
+    },
+    {
+      "CityId": 50283,
+      "CityName": "Sintra"
+    },
+    {
+      "CityId": 50285,
+      "CityName": "La Colònia Güell"
+    },
+    {
+      "CityId": 50286,
+      "CityName": "Húsavík"
+    },
+    {
+      "CityId": 50287,
+      "CityName": "Egilsstaðir"
+    },
+    {
+      "CityId": 38378,
+      "CityName": "Santander"
+    },
+    {
+      "CityId": 50288,
+      "CityName": "Malham"
+    },
+    {
+      "CityId": 41814,
+      "CityName": "Liverpool"
+    },
+    {
+      "CityId": 30380,
+      "CityName": "Delft"
+    },
+    {
+      "CityId": 50289,
+      "CityName": "Le Thoronet"
+    },
+    {
+      "CityId": 50290,
+      "CityName": "Albufeira"
+    },
+    {
+      "CityId": 50291,
+      "CityName": "Fátima"
+    },
+    {
+      "CityId": 50292,
+      "CityName": "Las Palmas de Gran Canaria"
+    },
+    {
+      "CityId": 50293,
+      "CityName": "Ferguson"
+    },
+    {
+      "CityId": 50294,
+      "CityName": "Shilin District"
+    },
+    {
+      "CityId": 50295,
+      "CityName": "Tambon Thai Ban Mai"
+    },
+    {
+      "CityId": 50296,
+      "CityName": "Khwaeng Khan Na Yao"
+    },
+    {
+      "CityId": 50297,
+      "CityName": "Saint-Denis"
+    },
+    {
+      "CityId": 50298,
+      "CityName": "Khwaeng Wang Burapha Phirom"
+    },
+    {
+      "CityId": 50299,
+      "CityName": "Chiyoda City"
+    },
+    {
+      "CityId": 41872,
+      "CityName": "Oxford"
+    },
+    {
+      "CityId": 50300,
+      "CityName": "Portsmouth"
+    },
+    {
+      "CityId": 41946,
+      "CityName": "Stratford-upon-Avon"
+    },
+    {
+      "CityId": 50301,
+      "CityName": "Kuala Lumpur"
+    },
+    {
+      "CityId": 22256,
+      "CityName": "Matera"
+    },
+    {
+      "CityId": 23707,
+      "CityName": "Siracusa"
+    },
+    {
+      "CityId": 50302,
+      "CityName": "Brașov"
+    },
+    {
+      "CityId": 50303,
+      "CityName": "Săpânța"
+    },
+    {
+      "CityId": 50304,
+      "CityName": "Tambon Pratuchai"
+    },
+    {
+      "CityId": 50305,
+      "CityName": "Khwaeng Phra Borom Maha Ratchawang"
+    },
+    {
+      "CityId": 50306,
+      "CityName": "Glenpool"
+    },
+    {
+      "CityId": 50308,
+      "CityName": "Nemocón"
+    },
+    {
+      "CityId": 32468,
+      "CityName": "Warszawa"
+    },
+    {
+      "CityId": 44002,
+      "CityName": "Lawrenceville"
+    },
+    {
+      "CityId": 44351,
+      "CityName": "Schaumburg"
+    },
+    {
+      "CityId": 48240,
+      "CityName": "Myrtle Beach"
+    },
+    {
+      "CityId": 44821,
+      "CityName": "Hanover"
+    },
+    {
+      "CityId": 30174,
+      "CityName": "Zundert"
+    },
+    {
+      "CityId": 50310,
+      "CityName": "North Rim"
+    },
+    {
+      "CityId": 29920,
+      "CityName": "Arnhem"
+    },
+    {
+      "CityId": 50311,
+      "CityName": "De Panne"
+    },
+    {
+      "CityId": 50312,
+      "CityName": "Page"
+    },
+    {
+      "CityId": 1196,
+      "CityName": "Tauru"
+    },
+    {
+      "CityId": 50314,
+      "CityName": "Windsor"
+    },
+    {
+      "CityId": 50315,
+      "CityName": "Brugge"
+    },
+    {
+      "CityId": 30079,
+      "CityName": "Valkenburg"
+    },
+    {
+      "CityId": 50316,
+      "CityName": "St. Pete Beach"
+    },
+    {
+      "CityId": 50317,
+      "CityName": "Langenlois"
+    },
+    {
+      "CityId": 50319,
+      "CityName": "Melrose"
+    },
+    {
+      "CityId": 42403,
+      "CityName": "Inverness"
+    },
+    {
+      "CityId": 50320,
+      "CityName": "Downpatrick"
+    },
+    {
+      "CityId": 50321,
+      "CityName": "Rathangan"
+    },
+    {
+      "CityId": 22754,
+      "CityName": "Riccione"
+    },
+    {
+      "CityId": 50322,
+      "CityName": "Donabate"
+    },
+    {
+      "CityId": 23672,
+      "CityName": "Palermo"
+    },
+    {
+      "CityId": 47759,
+      "CityName": "Lyndhurst"
+    },
+    {
+      "CityId": 50323,
+      "CityName": "Torrelles de Llobregat"
+    },
+    {
+      "CityId": 50324,
+      "CityName": "Kraków"
+    },
+    {
+      "CityId": 50325,
+      "CityName": "Avignon"
+    },
+    {
+      "CityId": 50326,
+      "CityName": "Grand Canyon Village"
+    },
+    {
+      "CityId": 50327,
+      "CityName": "Wembley"
+    },
+    {
+      "CityId": 23879,
+      "CityName": "Assisi"
+    },
+    {
+      "CityId": 22734,
+      "CityName": "Modena"
+    },
+    {
+      "CityId": 41617,
+      "CityName": "Blackpool"
+    },
+    {
+      "CityId": 41831,
+      "CityName": "Manchester"
+    },
+    {
+      "CityId": 41994,
+      "CityName": "Weymouth"
+    },
+    {
+      "CityId": 50328,
+      "CityName": "The Trafford Centre"
+    },
+    {
+      "CityId": 43555,
+      "CityName": "West Hartford"
+    },
+    {
+      "CityId": 20744,
+      "CityName": "Guatemala City"
+    },
+    {
+      "CityId": 50329,
+      "CityName": "Chichicastenango"
+    },
+    {
+      "CityId": 50330,
+      "CityName": "North Bondi"
+    },
+    {
+      "CityId": 50331,
+      "CityName": "Antigua Guatemala"
+    },
+    {
+      "CityId": 50332,
+      "CityName": "Rambouillet"
+    },
+    {
+      "CityId": 41635,
+      "CityName": "Brighton"
+    },
+    {
+      "CityId": 50333,
+      "CityName": "Mechelen"
+    },
+    {
+      "CityId": 50335,
+      "CityName": "Main Beach"
+    },
+    {
+      "CityId": 50336,
+      "CityName": "Sentrum"
+    },
+    {
+      "CityId": 50337,
+      "CityName": "Gent"
+    },
+    {
+      "CityId": 50338,
+      "CityName": "București"
+    },
+    {
+      "CityId": 42394,
+      "CityName": "Glasgow"
+    },
+    {
+      "CityId": 50341,
+      "CityName": "Victoria"
+    },
+    {
+      "CityId": 50342,
+      "CityName": "Tallinn"
+    },
+    {
+      "CityId": 50343,
+      "CityName": "Ashford"
+    },
+    {
+      "CityId": 46859,
+      "CityName": "Port Angeles"
+    },
+    {
+      "CityId": 50344,
+      "CityName": "Golden Point"
+    },
+    {
+      "CityId": 6807,
+      "CityName": "Southbank"
+    },
+    {
+      "CityId": 50345,
+      "CityName": "Katoomba"
+    },
+    {
+      "CityId": 50346,
+      "CityName": "Tevfikiye"
+    },
+    {
+      "CityId": 50347,
+      "CityName": "Tel Aviv"
+    },
+    {
+      "CityId": 43979,
+      "CityName": "Fayetteville"
+    },
+    {
+      "CityId": 23156,
+      "CityName": "Varese"
+    },
+    {
+      "CityId": 50348,
+      "CityName": "Kasımpaşa/Beyoğlu"
+    },
+    {
+      "CityId": 50349,
+      "CityName": "San Fruttuoso"
+    },
+    {
+      "CityId": 50350,
+      "CityName": "Tikal"
+    },
+    {
+      "CityId": 50351,
+      "CityName": "Summerlands"
+    },
+    {
+      "CityId": 50352,
+      "CityName": "Uxmal"
+    },
+    {
+      "CityId": 29377,
+      "CityName": "Veracruz"
+    },
+    {
+      "CityId": 50353,
+      "CityName": "Heroica Veracruz"
+    },
+    {
+      "CityId": 50354,
+      "CityName": "Caen"
+    },
+    {
+      "CityId": 50355,
+      "CityName": "TEMPL BAR MAR"
+    },
+    {
+      "CityId": 23466,
+      "CityName": "Lecce"
+    },
+    {
+      "CityId": 22866,
+      "CityName": "Tivoli"
+    },
+    {
+      "CityId": 50356,
+      "CityName": "Pyrmont"
+    },
+    {
+      "CityId": 13776,
+      "CityName": "Liberia"
+    },
+    {
+      "CityId": 50358,
+      "CityName": "Benalmádena"
+    },
+    {
+      "CityId": 50359,
+      "CityName": "Rodengo-saiano"
+    },
+    {
+      "CityId": 50360,
+      "CityName": "Knights Hill"
+    },
+    {
+      "CityId": 50362,
+      "CityName": "Tamborine Mountain"
+    },
+    {
+      "CityId": 7074,
+      "CityName": "Graz"
+    },
+    {
+      "CityId": 50363,
+      "CityName": "Krong Siem Reap"
+    },
+    {
+      "CityId": 50364,
+      "CityName": "Antwerpen"
+    },
+    {
+      "CityId": 50366,
+      "CityName": "Naxxar"
+    },
+    {
+      "CityId": 50367,
+      "CityName": "Zedelgem"
+    },
+    {
+      "CityId": 45576,
+      "CityName": "Henderson"
+    },
+    {
+      "CityId": 50368,
+      "CityName": "Khwaeng Yan Nawa"
+    },
+    {
+      "CityId": 50369,
+      "CityName": "Joneikiškės"
+    },
+    {
+      "CityId": 28120,
+      "CityName": "Puerto Vallarta"
+    },
+    {
+      "CityId": 7050,
+      "CityName": "Salzburg"
+    },
+    {
+      "CityId": 44085,
+      "CityName": "Lihue"
+    },
+    {
+      "CityId": 50374,
+      "CityName": "Britannia Beach"
+    },
+    {
+      "CityId": 50375,
+      "CityName": "Riga"
+    },
+    {
+      "CityId": 50376,
+      "CityName": "Herentals"
+    },
+    {
+      "CityId": 30168,
+      "CityName": "Vught"
+    },
+    {
+      "CityId": 47683,
+      "CityName": "Kearny"
+    },
+    {
+      "CityId": 50377,
+      "CityName": "Rosedale Abbey"
+    },
+    {
+      "CityId": 50893,
+      "CityName": "Portstewart"
+    },
+    {
+      "CityId": 50379,
+      "CityName": "Vilnius"
+    },
+    {
+      "CityId": 50380,
+      "CityName": "Saturnia"
+    },
+    {
+      "CityId": 50381,
+      "CityName": "San Miguel de Cozumel"
+    },
+    {
+      "CityId": 50382,
+      "CityName": "Galway"
+    },
+    {
+      "CityId": 30367,
+      "CityName": "Alphen aan den Rijn"
+    },
+    {
+      "CityId": 50383,
+      "CityName": "Meise"
+    },
+    {
+      "CityId": 50384,
+      "CityName": "Akumal"
+    },
+    {
+      "CityId": 50385,
+      "CityName": "Sežana"
+    },
+    {
+      "CityId": 50386,
+      "CityName": "Macao"
+    },
+    {
+      "CityId": 50388,
+      "CityName": "Brentwood Bay"
+    },
+    {
+      "CityId": 50389,
+      "CityName": "Helsinki"
+    },
+    {
+      "CityId": 50391,
+      "CityName": "Sliema"
+    },
+    {
+      "CityId": 50392,
+      "CityName": "San Lorenzo di Parabiago"
+    },
+    {
+      "CityId": 50393,
+      "CityName": "Marlia"
+    },
+    {
+      "CityId": 24009,
+      "CityName": "Roncade"
+    },
+    {
+      "CityId": 46372,
+      "CityName": "Grapevine"
+    },
+    {
+      "CityId": 50395,
+      "CityName": "Valletta"
+    },
+    {
+      "CityId": 50396,
+      "CityName": "Varenna"
+    },
+    {
+      "CityId": 50397,
+      "CityName": "Cercado de Lima"
+    },
+    {
+      "CityId": 44096,
+      "CityName": "Wahiawa"
+    },
+    {
+      "CityId": 50398,
+      "CityName": "Kocadere"
+    },
+    {
+      "CityId": 43626,
+      "CityName": "Clermont"
+    },
+    {
+      "CityId": 50193,
+      "CityName": "North Wall"
+    },
+    {
+      "CityId": 45262,
+      "CityName": "Bloomington"
+    },
+    {
+      "CityId": 50399,
+      "CityName": "Capri"
+    },
+    {
+      "CityId": 45029,
+      "CityName": "Somerville"
+    },
+    {
+      "CityId": 50400,
+      "CityName": "Constanța"
+    },
+    {
+      "CityId": 50401,
+      "CityName": "Concord"
+    },
+    {
+      "CityId": 23425,
+      "CityName": "Bari"
+    },
+    {
+      "CityId": 50403,
+      "CityName": "Le Grau-du-Roi"
+    },
+    {
+      "CityId": 50404,
+      "CityName": "La Orotava"
+    },
+    {
+      "CityId": 50405,
+      "CityName": "Tulum"
+    },
+    {
+      "CityId": 50406,
+      "CityName": "Mérida"
+    },
+    {
+      "CityId": 50408,
+      "CityName": "Lyon"
+    },
+    {
+      "CityId": 23919,
+      "CityName": "Bussolengo"
+    },
+    {
+      "CityId": 50409,
+      "CityName": "Cádiz"
+    },
+    {
+      "CityId": 50410,
+      "CityName": "Almonte"
+    },
+    {
+      "CityId": 50411,
+      "CityName": "La Boca"
+    },
+    {
+      "CityId": 50412,
+      "CityName": "Belgrano"
+    },
+    {
+      "CityId": 50413,
+      "CityName": "Donostia"
+    },
+    {
+      "CityId": 50414,
+      "CityName": "Agulo"
+    },
+    {
+      "CityId": 50415,
+      "CityName": "Casalzuigno"
+    },
+    {
+      "CityId": 50416,
+      "CityName": "Parndorf"
+    },
+    {
+      "CityId": 50417,
+      "CityName": "San Nicolás"
+    },
+    {
+      "CityId": 50418,
+      "CityName": "Belén de Escobar"
+    },
+    {
+      "CityId": 50419,
+      "CityName": "Saint-Émilion"
+    },
+    {
+      "CityId": 50420,
+      "CityName": "Sakai"
+    },
+    {
+      "CityId": 50422,
+      "CityName": "Bilbo"
+    },
+    {
+      "CityId": 50423,
+      "CityName": "Wanhua District"
+    },
+    {
+      "CityId": 50424,
+      "CityName": "Bordeaux"
+    },
+    {
+      "CityId": 50425,
+      "CityName": "Toirano"
+    },
+    {
+      "CityId": 50897,
+      "CityName": "Toirano"
+    },
+    {
+      "CityId": 50426,
+      "CityName": "Wanli District"
+    },
+    {
+      "CityId": 45114,
+      "CityName": "Detroit"
+    },
+    {
+      "CityId": 50427,
+      "CityName": "Sanxia District"
+    },
+    {
+      "CityId": 50428,
+      "CityName": "北投區"
+    },
+    {
+      "CityId": 50429,
+      "CityName": "Ruifang District"
+    },
+    {
+      "CityId": 50430,
+      "CityName": "Pingxi District"
+    },
+    {
+      "CityId": 50431,
+      "CityName": "Pinglin District"
+    },
+    {
+      "CityId": 50432,
+      "CityName": "Sofia"
+    },
+    {
+      "CityId": 50433,
+      "CityName": "Chuo City"
+    },
+    {
+      "CityId": 48764,
+      "CityName": "Chiyoda City"
+    },
+    {
+      "CityId": 10449,
+      "CityName": "Ottawa"
+    },
+    {
+      "CityId": 50434,
+      "CityName": "Chinon"
+    },
+    {
+      "CityId": 50435,
+      "CityName": "San Carlos de Bariloche"
+    },
+    {
+      "CityId": 43757,
+      "CityName": "Loxahatchee"
+    },
+    {
+      "CityId": 10095,
+      "CityName": "Banff"
+    },
+    {
+      "CityId": 50436,
+      "CityName": "Chenonceaux"
+    },
+    {
+      "CityId": 41648,
+      "CityName": "Cambridge"
+    },
+    {
+      "CityId": 50437,
+      "CityName": "Ungersheim"
+    },
+    {
+      "CityId": 27068,
+      "CityName": "Rawang"
+    },
+    {
+      "CityId": 9900,
+      "CityName": "Sliven"
+    },
+    {
+      "CityId": 26974,
+      "CityName": "Melaka"
+    },
+    {
+      "CityId": 50438,
+      "CityName": "Khwaeng Maha Phruttharam"
+    },
+    {
+      "CityId": 50439,
+      "CityName": "Gombak District"
+    },
+    {
+      "CityId": 50440,
+      "CityName": "Pulau Ketam"
+    },
+    {
+      "CityId": 50441,
+      "CityName": "Putrajaya"
+    },
+    {
+      "CityId": 27062,
+      "CityName": "Kuala Selangor"
+    },
+    {
+      "CityId": 50442,
+      "CityName": "Genting Highlands"
+    },
+    {
+      "CityId": 50444,
+      "CityName": "Tambon Mae Klong"
+    },
+    {
+      "CityId": 50445,
+      "CityName": "Varna"
+    },
+    {
+      "CityId": 9759,
+      "CityName": "Burgas"
+    },
+    {
+      "CityId": 50446,
+      "CityName": "Valsanzibio"
+    },
+    {
+      "CityId": 50447,
+      "CityName": "دبي"
+    },
+    {
+      "CityId": 50448,
+      "CityName": "Marmaris"
+    },
+    {
+      "CityId": 50449,
+      "CityName": "Oranjestad"
+    },
+    {
+      "CityId": 22416,
+      "CityName": "Caserta"
+    },
+    {
+      "CityId": 50450,
+      "CityName": "Acarlar"
+    },
+    {
+      "CityId": 50451,
+      "CityName": "Köflach"
+    },
+    {
+      "CityId": 50503,
+      "CityName": "Seoul"
+    },
+    {
+      "CityId": 50453,
+      "CityName": "Porto Cristo"
+    },
+    {
+      "CityId": 30085,
+      "CityName": "'s-Hertogenbosch"
+    },
+    {
+      "CityId": 50454,
+      "CityName": "Torvaianica"
+    },
+    {
+      "CityId": 39464,
+      "CityName": "Mendrisio"
+    },
+    {
+      "CityId": 45082,
+      "CityName": "Auburn Hills"
+    },
+    {
+      "CityId": 50455,
+      "CityName": "Centallo"
+    },
+    {
+      "CityId": 50456,
+      "CityName": "Fieschertal"
+    },
+    {
+      "CityId": 50457,
+      "CityName": "South Queensferry"
+    },
+    {
+      "CityId": 50461,
+      "CityName": "Coomera"
+    },
+    {
+      "CityId": 50462,
+      "CityName": "Manises"
+    },
+    {
+      "CityId": 50463,
+      "CityName": "València"
+    },
+    {
+      "CityId": 13347,
+      "CityName": "Quimbaya"
+    },
+    {
+      "CityId": 50465,
+      "CityName": "Ljubljana"
+    },
+    {
+      "CityId": 50466,
+      "CityName": "Torreglia"
+    },
+    {
+      "CityId": 50894,
+      "CityName": "Velké Popovice"
+    },
+    {
+      "CityId": 50468,
+      "CityName": "Nusapenida"
+    },
+    {
+      "CityId": 50895,
+      "CityName": "Teplice"
+    },
+    {
+      "CityId": 50470,
+      "CityName": "Kecamatan Sukawati"
+    },
+    {
+      "CityId": 50896,
+      "CityName": "Karlovy Vary"
+    },
+    {
+      "CityId": 50472,
+      "CityName": "Amnéville"
+    },
+    {
+      "CityId": 50473,
+      "CityName": "Caral"
+    },
+    {
+      "CityId": 50474,
+      "CityName": "Vicolungo"
+    },
+    {
+      "CityId": 50475,
+      "CityName": "Doué-en-Anjou"
+    },
+    {
+      "CityId": 22871,
+      "CityName": "Viterbo"
+    },
+    {
+      "CityId": 24055,
+      "CityName": "Verona"
+    },
+    {
+      "CityId": 50476,
+      "CityName": "Castellazzo"
+    },
+    {
+      "CityId": 30112,
+      "CityName": "Eindhoven"
+    },
+    {
+      "CityId": 44757,
+      "CityName": "Baltimore"
+    },
+    {
+      "CityId": 50478,
+      "CityName": "Palleusieux"
+    },
+    {
+      "CityId": 50480,
+      "CityName": "Pozza di Fassa"
+    },
+    {
+      "CityId": 22821,
+      "CityName": "Fiumicino"
+    },
+    {
+      "CityId": 50482,
+      "CityName": "Corsier-sur-Vevey"
+    },
+    {
+      "CityId": 50483,
+      "CityName": "Maybole"
+    },
+    {
+      "CityId": 50484,
+      "CityName": "Kyle"
+    },
+    {
+      "CityId": 48759,
+      "CityName": "Palma"
+    },
+    {
+      "CityId": 23755,
+      "CityName": "Barberino di Mugello"
+    },
+    {
+      "CityId": 50485,
+      "CityName": "Tambon Na Chom Thian"
+    },
+    {
+      "CityId": 50486,
+      "CityName": "Khwaeng Wat Phraya Krai"
+    },
+    {
+      "CityId": 50685,
+      "CityName": "Akureyri"
+    },
+    {
+      "CityId": 50488,
+      "CityName": "Montalcino"
+    },
+    {
+      "CityId": 50489,
+      "CityName": "Pienza"
+    },
+    {
+      "CityId": 41597,
+      "CityName": "Bath"
+    },
+    {
+      "CityId": 29863,
+      "CityName": "Emmen"
+    },
+    {
+      "CityId": 50490,
+      "CityName": "Bastogne"
+    },
+    {
+      "CityId": 6833,
+      "CityName": "Eisenstadt"
+    },
+    {
+      "CityId": 50491,
+      "CityName": "Forchtenstein"
+    },
+    {
+      "CityId": 23801,
+      "CityName": "Livorno"
+    },
+    {
+      "CityId": 50492,
+      "CityName": "Kecamatan Denpasar Selatan"
+    },
+    {
+      "CityId": 50493,
+      "CityName": "Cala Gonone"
+    },
+    {
+      "CityId": 23782,
+      "CityName": "Colle di Val d'Elsa"
+    },
+    {
+      "CityId": 50494,
+      "CityName": "Tambon Bo Put"
+    },
+    {
+      "CityId": 50495,
+      "CityName": "Khwaeng Bang Kapi"
+    },
+    {
+      "CityId": 50496,
+      "CityName": "Muang Pattaya"
+    },
+    {
+      "CityId": 50498,
+      "CityName": "Arona"
+    },
+    {
+      "CityId": 30199,
+      "CityName": "Haarlem"
+    },
+    {
+      "CityId": 30396,
+      "CityName": "Leiden"
+    },
+    {
+      "CityId": 30427,
+      "CityName": "Schiedam"
+    },
+    {
+      "CityId": 30113,
+      "CityName": "Etten-Leur"
+    },
+    {
+      "CityId": 50499,
+      "CityName": "Yeoeuido-dong"
+    },
+    {
+      "CityId": 50500,
+      "CityName": "Cheongdam-dong"
+    },
+    {
+      "CityId": 50501,
+      "CityName": "Donhwamun-ro"
+    },
+    {
+      "CityId": 50502,
+      "CityName": "Changcheon-dong"
+    },
+    {
+      "CityId": 51062,
+      "CityName": "Mexico City"
+    },
+    {
+      "CityId": 50504,
+      "CityName": "Khwaeng Talat Noi"
+    },
+    {
+      "CityId": 50505,
+      "CityName": "Tambon Bang Yitho"
+    },
+    {
+      "CityId": 50506,
+      "CityName": "Le Mans"
+    },
+    {
+      "CityId": 50507,
+      "CityName": "Maspalomas"
+    },
+    {
+      "CityId": 50508,
+      "CityName": "Santa Severa"
+    },
+    {
+      "CityId": 44080,
+      "CityName": "Kapolei"
+    },
+    {
+      "CityId": 41987,
+      "CityName": "Watford"
+    },
+    {
+      "CityId": 50510,
+      "CityName": "Anacapri"
+    },
+    {
+      "CityId": 50511,
+      "CityName": "Underwood"
+    },
+    {
+      "CityId": 50512,
+      "CityName": "Khwaeng Khlong Ton Sai"
+    },
+    {
+      "CityId": 50515,
+      "CityName": "Motta Camastra"
+    },
+    {
+      "CityId": 22695,
+      "CityName": "Cattolica"
+    },
+    {
+      "CityId": 50516,
+      "CityName": "Torness"
+    },
+    {
+      "CityId": 48721,
+      "CityName": "Oljato-Monument Valley"
+    },
+    {
+      "CityId": 41613,
+      "CityName": "Birmingham"
+    },
+    {
+      "CityId": 23056,
+      "CityName": "Lonato"
+    },
+    {
+      "CityId": 50517,
+      "CityName": "San Giovanni La Punta"
+    },
+    {
+      "CityId": 50518,
+      "CityName": "Terradura"
+    },
+    {
+      "CityId": 50519,
+      "CityName": "Settignano"
+    },
+    {
+      "CityId": 50520,
+      "CityName": "Belgrave"
+    },
+    {
+      "CityId": 50521,
+      "CityName": "Vantaa"
+    },
+    {
+      "CityId": 50898,
+      "CityName": "Selçuk"
+    },
+    {
+      "CityId": 50523,
+      "CityName": "Húsafell"
+    },
+    {
+      "CityId": 50839,
+      "CityName": "Tulsa"
+    },
+    {
+      "CityId": 28082,
+      "CityName": "Guadalajara"
+    },
+    {
+      "CityId": 50514,
+      "CityName": "Khwaeng Pathum Wan"
+    },
+    {
+      "CityId": 50524,
+      "CityName": "Teruel"
+    },
+    {
+      "CityId": 50899,
+      "CityName": "Jetřichovice"
+    },
+    {
+      "CityId": 47996,
+      "CityName": "Manchester"
+    },
+    {
+      "CityId": 50526,
+      "CityName": "Kecamatan Abiansemal"
+    },
+    {
+      "CityId": 24969,
+      "CityName": "Otsu"
+    },
+    {
+      "CityId": 28620,
+      "CityName": "Las Jarretaderas"
+    },
+    {
+      "CityId": 50527,
+      "CityName": "Flúðir"
+    },
+    {
+      "CityId": 24060,
+      "CityName": "Villafranca di Verona"
+    },
+    {
+      "CityId": 50528,
+      "CityName": "Zhongzheng District"
+    },
+    {
+      "CityId": 50529,
+      "CityName": "Tarragona"
+    },
+    {
+      "CityId": 29975,
+      "CityName": "Oosterbeek"
+    },
+    {
+      "CityId": 50530,
+      "CityName": "Sainte-Mère-Église"
+    },
+    {
+      "CityId": 50531,
+      "CityName": "Brampton"
+    },
+    {
+      "CityId": 41851,
+      "CityName": "Newcastle upon Tyne"
+    },
+    {
+      "CityId": 41702,
+      "CityName": "Durham"
+    },
+    {
+      "CityId": 21468,
+      "CityName": "Kuta"
+    },
+    {
+      "CityId": 50532,
+      "CityName": "Niagara Falls"
+    },
+    {
+      "CityId": 50533,
+      "CityName": "Wangetti"
+    },
+    {
+      "CityId": 50534,
+      "CityName": "Santa Teresa"
+    },
+    {
+      "CityId": 50535,
+      "CityName": "San Antonio de los Cobres"
+    },
+    {
+      "CityId": 50536,
+      "CityName": "Urca"
+    },
+    {
+      "CityId": 50537,
+      "CityName": "Maracanã"
+    },
+    {
+      "CityId": 50538,
+      "CityName": "San Clemente del Tuyu"
+    },
+    {
+      "CityId": 50539,
+      "CityName": "Khwaeng Samsen Nok"
+    },
+    {
+      "CityId": 50540,
+      "CityName": "Taito City"
+    },
+    {
+      "CityId": 50541,
+      "CityName": "Unseo-dong"
+    },
+    {
+      "CityId": 50542,
+      "CityName": "Sinaia"
+    },
+    {
+      "CityId": 50543,
+      "CityName": "Oxenford"
+    },
+    {
+      "CityId": 50544,
+      "CityName": "San Telmo"
+    },
+    {
+      "CityId": 50545,
+      "CityName": "El Cedral"
+    },
+    {
+      "CityId": 50546,
+      "CityName": "Monserrat"
+    },
+    {
+      "CityId": 50549,
+      "CityName": "Nicolosi"
+    },
+    {
+      "CityId": 50550,
+      "CityName": "Larchmont"
+    },
+    {
+      "CityId": 50551,
+      "CityName": "Waddesdon"
+    },
+    {
+      "CityId": 44038,
+      "CityName": "Sandy Springs"
+    },
+    {
+      "CityId": 18774,
+      "CityName": "Dachau"
+    },
+    {
+      "CityId": 50309,
+      "CityName": "Chuo City"
+    },
+    {
+      "CityId": 50554,
+      "CityName": "The Hague"
+    },
+    {
+      "CityId": 50555,
+      "CityName": "Avio"
+    },
+    {
+      "CityId": 50556,
+      "CityName": "Guia"
+    },
+    {
+      "CityId": 50557,
+      "CityName": "Amboise"
+    },
+    {
+      "CityId": 50558,
+      "CityName": "Albogasio-oria"
+    },
+    {
+      "CityId": 40332,
+      "CityName": "Antalya"
+    },
+    {
+      "CityId": 50563,
+      "CityName": "Sepang"
+    },
+    {
+      "CityId": 50564,
+      "CityName": "Paestum"
+    },
+    {
+      "CityId": 50565,
+      "CityName": "Montevideo"
+    },
+    {
+      "CityId": 50566,
+      "CityName": "Maincy"
+    },
+    {
+      "CityId": 50567,
+      "CityName": "Chaumont-sur-Loire"
+    },
+    {
+      "CityId": 50568,
+      "CityName": "Torre Boldone"
+    },
+    {
+      "CityId": 50569,
+      "CityName": "Trausdorf an der Wulka"
+    },
+    {
+      "CityId": 50571,
+      "CityName": "Serravalle Scrivia"
+    },
+    {
+      "CityId": 22755,
+      "CityName": "Rimini"
+    },
+    {
+      "CityId": 50572,
+      "CityName": "Segovia"
+    },
+    {
+      "CityId": 32876,
+      "CityName": "Funchal"
+    },
+    {
+      "CityId": 50573,
+      "CityName": "Namsangongwon-gil"
+    },
+    {
+      "CityId": 50574,
+      "CityName": "Ambleside"
+    },
+    {
+      "CityId": 41944,
+      "CityName": "Stoke-on-Trent"
+    },
+    {
+      "CityId": 50575,
+      "CityName": "Ardales"
+    },
+    {
+      "CityId": 41665,
+      "CityName": "Chester"
+    },
+    {
+      "CityId": 50576,
+      "CityName": "Plymouth Meeting"
+    },
+    {
+      "CityId": 50578,
+      "CityName": "Benidorm"
+    },
+    {
+      "CityId": 50580,
+      "CityName": "Vila Nova de Gaia"
+    },
+    {
+      "CityId": 50581,
+      "CityName": "Nantes"
+    },
+    {
+      "CityId": 50582,
+      "CityName": "Pierrefonds"
+    },
+    {
+      "CityId": 50583,
+      "CityName": "Boulogne-sur-Mer"
+    },
+    {
+      "CityId": 50584,
+      "CityName": "Loches"
+    },
+    {
+      "CityId": 50585,
+      "CityName": "Thoiry"
+    },
+    {
+      "CityId": 50586,
+      "CityName": "Gradara"
+    },
+    {
+      "CityId": 23239,
+      "CityName": "Urbino"
+    },
+    {
+      "CityId": 44099,
+      "CityName": "Wailuku"
+    },
+    {
+      "CityId": 50587,
+      "CityName": "Vösendorf"
+    },
+    {
+      "CityId": 50588,
+      "CityName": "Trakai"
+    },
+    {
+      "CityId": 50589,
+      "CityName": "Nice"
+    },
+    {
+      "CityId": 30424,
+      "CityName": "Rijswijk"
+    },
+    {
+      "CityId": 50591,
+      "CityName": "Vers-Pont-du-Gard"
+    },
+    {
+      "CityId": 50592,
+      "CityName": "Reykholt"
+    },
+    {
+      "CityId": 50593,
+      "CityName": "Puerto Morelos"
+    },
+    {
+      "CityId": 50595,
+      "CityName": "Berg en Dal"
+    },
+    {
+      "CityId": 43123,
+      "CityName": "Newport Beach"
+    },
+    {
+      "CityId": 43084,
+      "CityName": "Marina del Rey"
+    },
+    {
+      "CityId": 43817,
+      "CityName": "Palm Beach Gardens"
+    },
+    {
+      "CityId": 44073,
+      "CityName": "Kahului"
+    },
+    {
+      "CityId": 50597,
+      "CityName": "Champs-sur-Marne"
+    },
+    {
+      "CityId": 50553,
+      "CityName": "San Martín de la Vega"
+    },
+    {
+      "CityId": 24763,
+      "CityName": "Nara"
+    },
+    {
+      "CityId": 50599,
+      "CityName": "Waimanalo"
+    },
+    {
+      "CityId": 50600,
+      "CityName": "Las Cañadas del Teide"
+    },
+    {
+      "CityId": 50601,
+      "CityName": "Kecamatan Tegallalang"
+    },
+    {
+      "CityId": 50602,
+      "CityName": "Ocho Rios"
+    },
+    {
+      "CityId": 50603,
+      "CityName": "Astorga"
+    },
+    {
+      "CityId": 50604,
+      "CityName": "Castel Romano"
+    },
+    {
+      "CityId": 50605,
+      "CityName": "San Biagio"
+    },
+    {
+      "CityId": 50606,
+      "CityName": "Bacalar"
+    },
+    {
+      "CityId": 50607,
+      "CityName": "Kesklinna"
+    },
+    {
+      "CityId": 50608,
+      "CityName": "Kuala Lumpur"
+    },
+    {
+      "CityId": 50609,
+      "CityName": "Taito City"
+    },
+    {
+      "CityId": 50611,
+      "CityName": "Barracas"
+    },
+    {
+      "CityId": 50612,
+      "CityName": "Orio al Serio"
+    },
+    {
+      "CityId": 50613,
+      "CityName": "Chambord"
+    },
+    {
+      "CityId": 44429,
+      "CityName": "Indianapolis"
+    },
+    {
+      "CityId": 22727,
+      "CityName": "Maranello"
+    },
+    {
+      "CityId": 50615,
+      "CityName": "Wieliczka"
+    },
+    {
+      "CityId": 41879,
+      "CityName": "Poole"
+    },
+    {
+      "CityId": 50616,
+      "CityName": "Smithfield"
+    },
+    {
+      "CityId": 50617,
+      "CityName": "Avintes"
+    },
+    {
+      "CityId": 23895,
+      "CityName": "Spoleto"
+    },
+    {
+      "CityId": 50619,
+      "CityName": "Moapa Valley"
+    },
+    {
+      "CityId": 50620,
+      "CityName": "Ronda"
+    },
+    {
+      "CityId": 50621,
+      "CityName": "Puerto Iguazú"
+    },
+    {
+      "CityId": 50622,
+      "CityName": "Castelseprio"
+    },
+    {
+      "CityId": 50623,
+      "CityName": "Manta"
+    },
+    {
+      "CityId": 50626,
+      "CityName": "Sauðárkrókur"
+    },
+    {
+      "CityId": 50627,
+      "CityName": "San Lorenzo de El Escorial"
+    },
+    {
+      "CityId": 50628,
+      "CityName": "Cherbourg-en-Cotentin"
+    },
+    {
+      "CityId": 50629,
+      "CityName": "Lanjarón"
+    },
+    {
+      "CityId": 50631,
+      "CityName": "Chantilly"
+    },
+    {
+      "CityId": 50632,
+      "CityName": "Chetumal"
+    },
+    {
+      "CityId": 41880,
+      "CityName": "Portsmouth"
+    },
+    {
+      "CityId": 50633,
+      "CityName": "Shinjuku City"
+    },
+    {
+      "CityId": 50634,
+      "CityName": "Khwaeng Wang Mai"
+    },
+    {
+      "CityId": 50635,
+      "CityName": "Ferney-Voltaire"
+    },
+    {
+      "CityId": 50637,
+      "CityName": "Oświęcim"
+    },
+    {
+      "CityId": 50638,
+      "CityName": "La Rochelle"
+    },
+    {
+      "CityId": 19064,
+      "CityName": "Potsdam"
+    },
+    {
+      "CityId": 50641,
+      "CityName": "Wildwood"
+    },
+    {
+      "CityId": 50642,
+      "CityName": "Twickenham"
+    },
+    {
+      "CityId": 30401,
+      "CityName": "Lisse"
+    },
+    {
+      "CityId": 50650,
+      "CityName": "Sankt Margarethen im Burgenland"
+    },
+    {
+      "CityId": 50688,
+      "CityName": "Alnwick"
+    },
+    {
+      "CityId": 50690,
+      "CityName": "Khwaeng Silom"
+    },
+    {
+      "CityId": 50695,
+      "CityName": "Kronenberg"
+    },
+    {
+      "CityId": 29877,
+      "CityName": "Lelystad"
+    },
+    {
+      "CityId": 50702,
+      "CityName": "Dalen"
+    },
+    {
+      "CityId": 50227,
+      "CityName": "Castel Gandolfo"
+    },
+    {
+      "CityId": 50703,
+      "CityName": "Vincennes"
+    },
+    {
+      "CityId": 50704,
+      "CityName": "Baile Átha Cliath 1"
+    },
+    {
+      "CityId": 50705,
+      "CityName": "Klosterneuburg"
+    },
+    {
+      "CityId": 7109,
+      "CityName": "Innsbruck"
+    },
+    {
+      "CityId": 50706,
+      "CityName": "Waterford"
+    },
+    {
+      "CityId": 50707,
+      "CityName": "Amposta"
+    },
+    {
+      "CityId": 42520,
+      "CityName": "Cardiff"
+    },
+    {
+      "CityId": 50708,
+      "CityName": "Höfn"
+    },
+    {
+      "CityId": 50709,
+      "CityName": "Camp Verde"
+    },
+    {
+      "CityId": 50560,
+      "CityName": "Fontainebleau"
+    },
+    {
+      "CityId": 49502,
+      "CityName": "Glasgow"
+    },
+    {
+      "CityId": 50710,
+      "CityName": "Trim"
+    },
+    {
+      "CityId": 20127,
+      "CityName": "Leipzig"
+    },
+    {
+      "CityId": 50711,
+      "CityName": "Laie"
+    },
+    {
+      "CityId": 44064,
+      "CityName": "Aiea"
+    },
+    {
+      "CityId": 50712,
+      "CityName": "Jenolan"
+    },
+    {
+      "CityId": 50713,
+      "CityName": "Castiglione In Teverina"
+    },
+    {
+      "CityId": 50714,
+      "CityName": "Alcochete"
+    },
+    {
+      "CityId": 50715,
+      "CityName": "Vestmannaeyjar"
+    },
+    {
+      "CityId": 50402,
+      "CityName": "Bodrum"
+    },
+    {
+      "CityId": 50716,
+      "CityName": "Cemil"
+    },
+    {
+      "CityId": 50717,
+      "CityName": "Derinkuyu"
+    },
+    {
+      "CityId": 50718,
+      "CityName": "Silla"
+    },
+    {
+      "CityId": 50719,
+      "CityName": "Pamukkale"
+    },
+    {
+      "CityId": 43728,
+      "CityName": "Key Biscayne"
+    },
+    {
+      "CityId": 50720,
+      "CityName": "Göreme"
+    },
+    {
+      "CityId": 50721,
+      "CityName": "Leticia"
+    },
+    {
+      "CityId": 50722,
+      "CityName": "Santiponce"
+    },
+    {
+      "CityId": 50723,
+      "CityName": "Heeswijk Dinther"
+    },
+    {
+      "CityId": 50724,
+      "CityName": "Fumane"
+    },
+    {
+      "CityId": 50725,
+      "CityName": "Xinyi District"
+    },
+    {
+      "CityId": 50726,
+      "CityName": "Padula"
+    },
+    {
+      "CityId": 50727,
+      "CityName": "Masino"
+    },
+    {
+      "CityId": 50729,
+      "CityName": "Natural Bridge"
+    },
+    {
+      "CityId": 23891,
+      "CityName": "Orvieto"
+    },
+    {
+      "CityId": 6818,
+      "CityName": "Torquay"
+    },
+    {
+      "CityId": 50730,
+      "CityName": "Rose Bay"
+    },
+    {
+      "CityId": 50732,
+      "CityName": "Minato City"
+    },
+    {
+      "CityId": 50733,
+      "CityName": "Kecamatan Kediri"
+    },
+    {
+      "CityId": 50734,
+      "CityName": "Banff"
+    },
+    {
+      "CityId": 50735,
+      "CityName": "Donostia"
+    },
+    {
+      "CityId": 50738,
+      "CityName": "La Roca del Vallès"
+    },
+    {
+      "CityId": 50740,
+      "CityName": "Khwaeng Thanon Phaya Thai"
+    },
+    {
+      "CityId": 39324,
+      "CityName": "Unterseen"
+    },
+    {
+      "CityId": 50741,
+      "CityName": "Tambon Pak Nam"
+    },
+    {
+      "CityId": 50684,
+      "CityName": "Lido di Jesolo"
+    },
+    {
+      "CityId": 23555,
+      "CityName": "Assemini"
+    },
+    {
+      "CityId": 50742,
+      "CityName": "Cabanaconde"
+    },
+    {
+      "CityId": 50745,
+      "CityName": "Woldeukeom-ro"
+    },
+    {
+      "CityId": 50747,
+      "CityName": "Quehue District"
+    },
+    {
+      "CityId": 10292,
+      "CityName": "Burlington"
+    },
+    {
+      "CityId": 50748,
+      "CityName": "Kecamatan Kuta Selatan"
+    },
+    {
+      "CityId": 50749,
+      "CityName": "Oostende"
+    },
+    {
+      "CityId": 10526,
+      "CityName": "Vaughan"
+    },
+    {
+      "CityId": 50672,
+      "CityName": ""
+    },
+    {
+      "CityId": 50750,
+      "CityName": "Cusco"
+    },
+    {
+      "CityId": 50751,
+      "CityName": "Chamonix-Mont-Blanc"
+    },
+    {
+      "CityId": 50752,
+      "CityName": "Rovaniemi"
+    },
+    {
+      "CityId": 50753,
+      "CityName": "Split"
+    },
+    {
+      "CityId": 50697,
+      "CityName": "Menaggio"
+    },
+    {
+      "CityId": 50755,
+      "CityName": "Köln"
+    },
+    {
+      "CityId": 50756,
+      "CityName": "أبو ظبي"
+    },
+    {
+      "CityId": 30217,
+      "CityName": "Laren"
+    },
+    {
+      "CityId": 50757,
+      "CityName": "Ushuaia"
+    },
+    {
+      "CityId": 38734,
+      "CityName": "Cambrils"
+    },
+    {
+      "CityId": 50758,
+      "CityName": "Stazzema"
+    },
+    {
+      "CityId": 50759,
+      "CityName": "Muscat"
+    },
+    {
+      "CityId": 50770,
+      "CityName": "Aarhus"
+    },
+    {
+      "CityId": 50771,
+      "CityName": "Hasselt"
+    },
+    {
+      "CityId": 50774,
+      "CityName": "Suita"
+    },
+    {
+      "CityId": 48668,
+      "CityName": "Floriana"
+    },
+    {
+      "CityId": 42678,
+      "CityName": "Ketchikan"
+    },
+    {
+      "CityId": 50840,
+      "CityName": "Bynum"
+    },
+    {
+      "CityId": 50841,
+      "CityName": "Los Ranchos de Albuquerque"
+    },
+    {
+      "CityId": 50842,
+      "CityName": "Price"
+    },
+    {
+      "CityId": 42686,
+      "CityName": "Valdez"
+    },
+    {
+      "CityId": 46600,
+      "CityName": "Barre"
+    },
+    {
+      "CityId": 45395,
+      "CityName": "Ocean Springs"
+    },
+    {
+      "CityId": 47035,
+      "CityName": "Worland"
+    },
+    {
+      "CityId": 45520,
+      "CityName": "Billings"
+    },
+    {
+      "CityId": 47828,
+      "CityName": "Hobbs"
+    },
+    {
+      "CityId": 50848,
+      "CityName": "Edgard"
+    },
+    {
+      "CityId": 45522,
+      "CityName": "Butte"
+    },
+    {
+      "CityId": 50851,
+      "CityName": "BOWLING GREEN"
+    },
+    {
+      "CityId": 43571,
+      "CityName": "Dover"
+    },
+    {
+      "CityId": 43586,
+      "CityName": "Wilmington"
+    },
+    {
+      "CityId": 46247,
+      "CityName": "Murfreesboro"
+    },
+    {
+      "CityId": 46263,
+      "CityName": "Union City"
+    },
+    {
+      "CityId": 50858,
+      "CityName": "Townsend"
+    },
+    {
+      "CityId": 43580,
+      "CityName": "Newark"
+    },
+    {
+      "CityId": 44314,
+      "CityName": "Oak Park"
+    },
+    {
+      "CityId": 50867,
+      "CityName": "New City"
+    },
+    {
+      "CityId": 50870,
+      "CityName": "Laupahoehoe"
+    },
+    {
+      "CityId": 50871,
+      "CityName": "Puducherry"
+    },
+    {
+      "CityId": 50872,
+      "CityName": "Orleanpet"
+    },
+    {
+      "CityId": 50873,
+      "CityName": "Ariyankuppam"
+    },
+    {
+      "CityId": 50886,
+      "CityName": "Dras"
+    },
+    {
+      "CityId": 50874,
+      "CityName": "Hockessin"
+    },
+    {
+      "CityId": 2931,
+      "CityName": "Shillong"
+    },
+    {
+      "CityId": 50876,
+      "CityName": "Cherrapunjee"
+    },
+    {
+      "CityId": 50878,
+      "CityName": "Lungnak Valley"
+    },
+    {
+      "CityId": 50888,
+      "CityName": "Leh"
+    },
+    {
+      "CityId": 50889,
+      "CityName": "Shey"
+    },
+    {
+      "CityId": 50890,
+      "CityName": "Ladakh"
+    },
+    {
+      "CityId": 50892,
+      "CityName": "Hemis"
+    },
+    {
+      "CityId": 50885,
+      "CityName": "Leh"
+    },
+    {
+      "CityId": 50887,
+      "CityName": "Alchi"
+    },
+    {
+      "CityId": 2068,
+      "CityName": "Kavaratti"
+    },
+    {
+      "CityId": 50905,
+      "CityName": "Chandigarh"
+    },
+    {
+      "CityId": 50906,
+      "CityName": "Ravangla"
+    },
+    {
+      "CityId": 50907,
+      "CityName": "Dadra"
+    },
+    {
+      "CityId": 50908,
+      "CityName": "Rudijala"
+    },
+    {
+      "CityId": 705,
+      "CityName": "Diu"
+    },
+    {
+      "CityId": 2889,
+      "CityName": "Imphal"
+    },
+    {
+      "CityId": 50909,
+      "CityName": "Clinton"
+    },
+    {
+      "CityId": 2958,
+      "CityName": "Dimapur"
+    },
+    {
+      "CityId": 2935,
+      "CityName": "Aizawl"
+    },
+    {
+      "CityId": 305,
+      "CityName": "Itanagar"
+    },
+    {
+      "CityId": 43510,
+      "CityName": "Mystic"
+    },
+    {
+      "CityId": 50910,
+      "CityName": "Winterthur"
+    },
+    {
+      "CityId": 3134,
+      "CityName": "Amritsar"
+    },
+    {
+      "CityId": 50911,
+      "CityName": "Custer"
+    },
+    {
+      "CityId": 44324,
+      "CityName": "Park Forest"
+    },
+    {
+      "CityId": 2802,
+      "CityName": "Shirdi"
+    },
+    {
+      "CityId": 46033,
+      "CityName": "Hershey"
+    },
+    {
+      "CityId": 50912,
+      "CityName": "Bar Harbor"
+    },
+    {
+      "CityId": 266,
+      "CityName": "Tirupati"
+    },
+    {
+      "CityId": 4173,
+      "CityName": "Rameswaram"
+    },
+    {
+      "CityId": 1081,
+      "CityName": "Veraval"
+    },
+    {
+      "CityId": 3091,
+      "CityName": "Puri"
+    },
+    {
+      "CityId": 50913,
+      "CityName": "Badrinath"
+    },
+    {
+      "CityId": 5264,
+      "CityName": "Kedarnath"
+    },
+    {
+      "CityId": 50914,
+      "CityName": "Katra"
+    },
+    {
+      "CityId": 50922,
+      "CityName": "Dhordo"
+    },
+    {
+      "CityId": 50915,
+      "CityName": "Banas"
+    },
+    {
+      "CityId": 5249,
+      "CityName": "Gangotri"
+    },
+    {
+      "CityId": 882,
+      "CityName": "Dwarka"
+    },
+    {
+      "CityId": 2465,
+      "CityName": "Ujjain"
+    },
+    {
+      "CityId": 888,
+      "CityName": "Gandhinagar"
+    },
+    {
+      "CityId": 1393,
+      "CityName": "Deoghar"
+    },
+    {
+      "CityId": 50917,
+      "CityName": "Daarukavanam"
+    },
+    {
+      "CityId": 2839,
+      "CityName": "Trimbak"
+    },
+    {
+      "CityId": 1324,
+      "CityName": "Pahalgam"
+    },
+    {
+      "CityId": 50918,
+      "CityName": "Bhimashankar"
+    },
+    {
+      "CityId": 50919,
+      "CityName": "Verul"
+    },
+    {
+      "CityId": 46760,
+      "CityName": "Williamsburg"
+    },
+    {
+      "CityId": 44794,
+      "CityName": "Easton"
+    },
+    {
+      "CityId": 251,
+      "CityName": "Srisailam"
+    },
+    {
+      "CityId": 46017,
+      "CityName": "Gettysburg"
+    },
+    {
+      "CityId": 50920,
+      "CityName": "Ridgely"
+    },
+    {
+      "CityId": 47950,
+      "CityName": "Hempstead"
+    },
+    {
+      "CityId": 50921,
+      "CityName": "Richmond"
+    },
+    {
+      "CityId": 50925,
+      "CityName": "Pinjore"
+    },
+    {
+      "CityId": 50927,
+      "CityName": "Rangapahar"
+    },
+    {
+      "CityId": 1167,
+      "CityName": "Panchkula"
+    },
+    {
+      "CityId": 50928,
+      "CityName": "Peren"
+    },
+    {
+      "CityId": 2959,
+      "CityName": "Kohima"
+    },
+    {
+      "CityId": 50929,
+      "CityName": "Phulbial"
+    },
+    {
+      "CityId": 703,
+      "CityName": "Silvassa"
+    },
+    {
+      "CityId": 50930,
+      "CityName": "Khanvel"
+    },
+    {
+      "CityId": 50931,
+      "CityName": "Farkawn"
+    },
+    {
+      "CityId": 2938,
+      "CityName": "Champhai"
+    },
+    {
+      "CityId": 50932,
+      "CityName": "Bomdila"
+    },
+    {
+      "CityId": 50933,
+      "CityName": "Imphal East District"
+    },
+    {
+      "CityId": 311,
+      "CityName": "Roing"
+    },
+    {
+      "CityId": 50934,
+      "CityName": "Imphal"
+    },
+    {
+      "CityId": 50936,
+      "CityName": "Kavaratti Island"
+    },
+    {
+      "CityId": 50937,
+      "CityName": "Agatti Island"
+    },
+    {
+      "CityId": 4508,
+      "CityName": "Agartala"
+    },
+    {
+      "CityId": 50940,
+      "CityName": "Joychandrapur"
+    },
+    {
+      "CityId": 50941,
+      "CityName": "Uttar Charilam"
+    },
+    {
+      "CityId": 50942,
+      "CityName": "Udaipur"
+    },
+    {
+      "CityId": 50943,
+      "CityName": "Bhujodi"
+    },
+    {
+      "CityId": 783,
+      "CityName": "Ahmedabad"
+    },
+    {
+      "CityId": 50944,
+      "CityName": "Saputara"
+    },
+    {
+      "CityId": 50945,
+      "CityName": "Kalyanpur"
+    },
+    {
+      "CityId": 1011,
+      "CityName": "Rajkot"
+    },
+    {
+      "CityId": 905,
+      "CityName": "Jamnagar"
+    },
+    {
+      "CityId": 811,
+      "CityName": "Bardoli"
+    },
+    {
+      "CityId": 824,
+      "CityName": "Bhuj"
+    },
+    {
+      "CityId": 50946,
+      "CityName": "Dangs"
+    },
+    {
+      "CityId": 1007,
+      "CityName": "Porbandar"
+    },
+    {
+      "CityId": 50947,
+      "CityName": "Nalsarovar"
+    },
+    {
+      "CityId": 50948,
+      "CityName": "Asha Marudi"
+    },
+    {
+      "CityId": 50949,
+      "CityName": "Iqbalgadh"
+    },
+    {
+      "CityId": 50950,
+      "CityName": "Panchmahal"
+    },
+    {
+      "CityId": 50951,
+      "CityName": "Velavadar"
+    },
+    {
+      "CityId": 3362,
+      "CityName": "Dungarpur"
+    },
+    {
+      "CityId": 50963,
+      "CityName": "Kukas"
+    },
+    {
+      "CityId": 50964,
+      "CityName": "Amalsara"
+    },
+    {
+      "CityId": 50981,
+      "CityName": "Shergarh"
+    },
+    {
+      "CityId": 3517,
+      "CityName": "Sujangarh"
+    },
+    {
+      "CityId": 50965,
+      "CityName": "Dholpur"
+    },
+    {
+      "CityId": 50967,
+      "CityName": "Araku Valley"
+    },
+    {
+      "CityId": 50969,
+      "CityName": "Attakanitippa"
+    },
+    {
+      "CityId": 50970,
+      "CityName": "Kondapalli"
+    },
+    {
+      "CityId": 50971,
+      "CityName": "Kolimigundla"
+    },
+    {
+      "CityId": 49305,
+      "CityName": "Amaravathi"
+    },
+    {
+      "CityId": 103,
+      "CityName": "Kakinada"
+    },
+    {
+      "CityId": 50972,
+      "CityName": "Sarabhaguda"
+    },
+    {
+      "CityId": 50973,
+      "CityName": "Gooty"
+    },
+    {
+      "CityId": 50974,
+      "CityName": "Kanchanjuri"
+    },
+    {
+      "CityId": 50975,
+      "CityName": "Gobardhana"
+    },
+    {
+      "CityId": 50976,
+      "CityName": "Parner"
+    },
+    {
+      "CityId": 50977,
+      "CityName": "Pabitara"
+    },
+    {
+      "CityId": 50978,
+      "CityName": "Singari Bangali Gaon"
+    },
+    {
+      "CityId": 50979,
+      "CityName": "Sonitpur"
+    },
+    {
+      "CityId": 50982,
+      "CityName": "Bolai T.E."
+    },
+    {
+      "CityId": 50983,
+      "CityName": "Majuli"
+    },
+    {
+      "CityId": 50984,
+      "CityName": "Seijosa"
+    },
+    {
+      "CityId": 50985,
+      "CityName": "Shannan"
+    },
+    {
+      "CityId": 50986,
+      "CityName": "Miao"
+    },
+    {
+      "CityId": 313,
+      "CityName": "Tawang"
+    },
+    {
+      "CityId": 310,
+      "CityName": "Pasighat"
+    },
+    {
+      "CityId": 309,
+      "CityName": "Namsai"
+    },
+    {
+      "CityId": 308,
+      "CityName": "Naharlagun"
+    },
+    {
+      "CityId": 50966,
+      "CityName": "Barrage"
+    },
+    {
+      "CityId": 50988,
+      "CityName": "Chhapar"
+    },
+    {
+      "CityId": 50992,
+      "CityName": "Kurvande"
+    },
+    {
+      "CityId": 50993,
+      "CityName": "Chandikawadi"
+    },
+    {
+      "CityId": 2674,
+      "CityName": "Mahabaleshwar"
+    },
+    {
+      "CityId": 50994,
+      "CityName": "Malvan"
+    },
+    {
+      "CityId": 50991,
+      "CityName": "Lonavla"
+    },
+    {
+      "CityId": 50995,
+      "CityName": "Rajmachi"
+    },
+    {
+      "CityId": 2744,
+      "CityName": "Panhala"
+    },
+    {
+      "CityId": 50996,
+      "CityName": "Vasai-Virar"
+    },
+    {
+      "CityId": 2652,
+      "CityName": "Kolhapur"
+    },
+    {
+      "CityId": 50997,
+      "CityName": "Tungi"
+    },
+    {
+      "CityId": 2512,
+      "CityName": "Bhandara"
+    },
+    {
+      "CityId": 50998,
+      "CityName": "Nishani"
+    },
+    {
+      "CityId": 50999,
+      "CityName": "Karnala"
+    },
+    {
+      "CityId": 51000,
+      "CityName": "Kutwalwadi"
+    },
+    {
+      "CityId": 4379,
+      "CityName": "Vandalur"
+    },
+    {
+      "CityId": 51001,
+      "CityName": "Muthukadu"
+    },
+    {
+      "CityId": 4136,
+      "CityName": "Pollachi"
+    },
+    {
+      "CityId": 3683,
+      "CityName": "Coimbatore"
+    },
+    {
+      "CityId": 51002,
+      "CityName": "Madurantakam"
+    },
+    {
+      "CityId": 3796,
+      "CityName": "Kanyakumari"
+    },
+    {
+      "CityId": 4324,
+      "CityName": "Tirunelveli"
+    },
+    {
+      "CityId": 51003,
+      "CityName": "Thuckalay"
+    },
+    {
+      "CityId": 51004,
+      "CityName": "Vellamcode"
+    },
+    {
+      "CityId": 51005,
+      "CityName": "Thirparappu"
+    },
+    {
+      "CityId": 51007,
+      "CityName": "Lakkavalli"
+    },
+    {
+      "CityId": 1652,
+      "CityName": "Hunsur"
+    },
+    {
+      "CityId": 51008,
+      "CityName": "Rahutana Katti"
+    },
+    {
+      "CityId": 51009,
+      "CityName": "Seetharama Tanda"
+    },
+    {
+      "CityId": 51010,
+      "CityName": "Adichunchanagiri"
+    },
+    {
+      "CityId": 1591,
+      "CityName": "Dandeli"
+    },
+    {
+      "CityId": 51011,
+      "CityName": "Bandipur"
+    },
+    {
+      "CityId": 51012,
+      "CityName": "Nadpal"
+    },
+    {
+      "CityId": 1750,
+      "CityName": "Mysore"
+    },
+    {
+      "CityId": 1711,
+      "CityName": "Madikeri"
+    },
+    {
+      "CityId": 51013,
+      "CityName": "Kumarahalli"
+    },
+    {
+      "CityId": 51017,
+      "CityName": "St Kilda"
+    },
+    {
+      "CityId": 51018,
+      "CityName": "Ripponlea"
+    },
+    {
+      "CityId": 39285,
+      "CityName": "Basel"
+    },
+    {
+      "CityId": 39500,
+      "CityName": "Lausanne"
+    },
+    {
+      "CityId": 51028,
+      "CityName": "St. Moritz"
+    },
+    {
+      "CityId": 51029,
+      "CityName": "St. Gallen"
+    },
+    {
+      "CityId": 39288,
+      "CityName": "Bern"
+    },
+    {
+      "CityId": 51030,
+      "CityName": "Lugano"
+    },
+    {
+      "CityId": 51037,
+      "CityName": "Stuttgart"
+    },
+    {
+      "CityId": 49370,
+      "CityName": "Rotterdam"
+    },
+    {
+      "CityId": 51059,
+      "CityName": "Cabo San Lucas"
+    }
+  ]

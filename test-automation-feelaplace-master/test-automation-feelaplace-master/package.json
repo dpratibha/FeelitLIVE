@@ -1,0 +1,32 @@
+{
+ "devDependencies": {
+  "aws-sdk": "^2.635.0",
+  "cypress": "^4.1.0",
+  "cypress-failed-log": "^2.6.0",
+  "cypress-file-upload": "^4.0.6",
+  "fs": "0.0.1-security",
+  "gmail-tester": "^1.2.2",
+  "lodash": "^4.17.15",
+  "mochawesome": "^4.1.0",
+  "mochawesome-merge": "^4.0.0",
+  "simple-excel-to-json": "^2.2.1"
+ },
+ "dependencies": {
+  "cypress-commands": "^0.3.1",
+  "mocha": "^5.2.0"
+ },
+ "scripts": {
+  "test": "npm start & cypress run",
+  "e2e": "cypress run",
+  "cy:run": "cypress run",
+  "cy:run:record": "cypress run --record",
+  "cy:open": "cypress open",
+  "cleanup:report": "rm -fr mochawesome-report",
+  "cleanup:results": "rm -f cypress/results/*.json",
+  "cleanup:mochajson": "rm -f mochawesome.json",
+  "cleanup": "npm run cleanup:report && npm run cleanup:results && npm run cleanup:mochajson",
+  "merge_reports": "mochawesome-merge \"cypress/results/*.json\" > mochawesome.json",
+  "generate_mochawesome_report": "marge mochawesome.json",
+  "mochawesome_report": "npm run merge_reports && npm run generate_mochawesome_report"
+ }
+}

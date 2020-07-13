@@ -1,0 +1,24 @@
+{
+  "baseUrl" : "https://www.feelitlive.co.in/",
+  "env" : {
+      "username" : "test.automation.cypress@gmail.com",
+      "password"   : "Cypress123!",
+      "prat_username" : "pratibha.dhage@zoonga.com",
+      "prat_password" : "Myname1997@@",
+	  "adminUrl" : "https://admin.feelitlive.com/",
+      "adminUsername" : "pratibha@feelaplace.com",
+      "adminPassword" : "pratibha123",
+      "hostUrl" : "https://host.feelaplace.com/",
+      "hostfeelUrl": "https://host.feelitlive.com/",
+      "googleAuthKey" : "AIzaSyDZ4Ik7ENzLWY1tLh1ul8NxhWBdWGK6tQU"
+  },
+  "reporter": "mochawesome",
+  "reporterOptions": {
+  "reportDir": "cypress/results",
+  "overwrite": false,
+  "html": false,
+  "json": true
+ },
+   "screenshotsFolder": "mochawesome-report/assets",
+  "chromeWebSecurity": false
+}

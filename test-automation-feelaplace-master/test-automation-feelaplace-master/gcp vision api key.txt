@@ -1,0 +1,19 @@
+vision api key: AIzaSyA_G4UUKqY6i7gyT61O8n52zYrBvmbv9Mo
+
+maps api key: AIzaSyBVwNPbiU6g_LV7LBw-SqTi0BG-IYbIpGU
+
+vision api request:
+
+curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json  https://vision.googleapis.com/v1/images:annotate?key=AIzaSyA_G4UUKqY6i7gyT61O8n52zYrBvmbv9Mo
+
+set GOOGLE_APPLICATION_CREDENTIALS="C:\Cypress\Tutorial\cypress-tutorial-build-todo-starter\cypress\integration\Landmarks-23564ad1fc54.json"
+
+
+https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=AIzaSyBVwNPbiU6g_LV7LBw-SqTi0BG-IYbIpGU
+
+
+set GOOGLE_APPLICATION_CREDENTIALS="C:\Users\z988447\Documents\Cypress Projects\learnvision\VisionCredentials.json"
+
+set GOOGLE_APPLICATION_CREDENTIALS=/cypress/VisionCredentials.json
+
+

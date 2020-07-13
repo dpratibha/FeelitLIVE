@@ -1,0 +1,23 @@
+{
+  "data":  [ 
+    {"firstName" :"Ayan",
+    "lastName" :"test",
+    "residentOf" : "India",
+    "citizenOf" : "India",
+    "email":"pratibha.dhage@zoonga.com",
+    "phoneCode" : "India (91)",
+    "phoneNumber" : "9123010312",
+    "birthDate" : "1982-10-18"
+},
+{"firstName" :"Prathiba",
+    "lastName" :"test",
+    "residentOf" : "India",
+    "citizenOf" : "India",
+    "email":"pratibha1233.dhage123@zoonga.com",
+    "phoneCode" : "India (91)",
+    "phoneNumber" : "9123010345",
+    "birthDate" : "1989-11-18"
+}
+
+]
+}

@@ -1,0 +1,3854 @@
+[
+    {
+      "CityName": "Bentonville",
+      "CityId": 42754,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Smith",
+      "CityId": 42765,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Little Rock",
+      "CityId": 42772,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Piggott",
+      "CityId": 42779,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Alameda",
+      "CityId": 42802,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Anaheim",
+      "CityId": 42812,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Avalon",
+      "CityId": 42828,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bakersfield",
+      "CityId": 42832,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Benicia",
+      "CityId": 42845,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Berkeley",
+      "CityId": 42846,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Beverly Hills",
+      "CityId": 42847,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Brea",
+      "CityId": 42854,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Buena Park",
+      "CityId": 42858,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Burbank",
+      "CityId": 42859,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Carlsbad",
+      "CityId": 42875,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chico",
+      "CityId": 42891,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chino",
+      "CityId": 42892,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chula Vista",
+      "CityId": 42894,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Claremont",
+      "CityId": 42899,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Colton",
+      "CityId": 42905,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Danville",
+      "CityId": 42927,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Downey",
+      "CityId": 42935,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "El Cajon",
+      "CityId": 42943,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "El Segundo",
+      "CityId": 42949,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Encinitas",
+      "CityId": 42953,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Escondido",
+      "CityId": 42955,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Folsom",
+      "CityId": 42968,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fresno",
+      "CityId": 42979,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fullerton",
+      "CityId": 42980,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Goleta",
+      "CityId": 42991,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Half Moon Bay",
+      "CityId": 43001,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hemet",
+      "CityId": 43007,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hermosa Beach",
+      "CityId": 43009,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Irvine",
+      "CityId": 43022,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Laguna Beach",
+      "CityId": 43043,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lodi",
+      "CityId": 43063,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Long Beach",
+      "CityId": 43067,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Los Angeles",
+      "CityId": 43070,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Marina del Rey",
+      "CityId": 43084,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mill Valley",
+      "CityId": 43094,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Monterey",
+      "CityId": 43107,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mountain View",
+      "CityId": 43116,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Napa",
+      "CityId": 43119,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newport Beach",
+      "CityId": 43123,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oakland",
+      "CityId": 43138,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oceanside",
+      "CityId": 43140,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ojai",
+      "CityId": 43142,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oxnard",
+      "CityId": 43151,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pacific Grove",
+      "CityId": 43152,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Palm Springs",
+      "CityId": 43158,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pasadena",
+      "CityId": 43168,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pomona",
+      "CityId": 43186,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Rancho Cucamonga",
+      "CityId": 43194,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Rancho Mirage",
+      "CityId": 43196,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Redlands",
+      "CityId": 43203,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Redwood City",
+      "CityId": 43206,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ridgecrest",
+      "CityId": 43211,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Riverside",
+      "CityId": 43216,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sacramento",
+      "CityId": 43228,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "San Clemente",
+      "CityId": 43235,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "San Diego",
+      "CityId": 43236,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "San Francisco",
+      "CityId": 43239,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "San Jose",
+      "CityId": 43242,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "San Juan Capistrano",
+      "CityId": 43243,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Ana",
+      "CityId": 43256,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Barbara",
+      "CityId": 43257,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Clara",
+      "CityId": 43258,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Cruz",
+      "CityId": 43260,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Monica",
+      "CityId": 43263,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Paula",
+      "CityId": 43264,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Rosa",
+      "CityId": 43265,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Ynez",
+      "CityId": 43266,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sausalito",
+      "CityId": 43269,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Simi Valley",
+      "CityId": 43279,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Solvang",
+      "CityId": 43282,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sonoma",
+      "CityId": 43283,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Stockton",
+      "CityId": 43299,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Suisun City",
+      "CityId": 43302,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tahoe City",
+      "CityId": 43310,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Thousand Oaks",
+      "CityId": 43316,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Torrance",
+      "CityId": 43319,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ukiah",
+      "CityId": 43332,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Vacaville",
+      "CityId": 43335,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ventura",
+      "CityId": 43346,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "West Hollywood",
+      "CityId": 43363,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Woodland",
+      "CityId": 43376,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Yorba Linda",
+      "CityId": 43378,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Yucaipa",
+      "CityId": 43381,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Felicity",
+      "CityId": 48944,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Guadalupe",
+      "CityId": 48948,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "La Cañada Flintridge",
+      "CityId": 48957,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Paso Robles",
+      "CityId": 49041,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Portola",
+      "CityId": 49046,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "March Air Reserve Base",
+      "CityId": 49067,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Felton",
+      "CityId": 48751,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Los Angeles County",
+      "CityId": 48498,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Woodside",
+      "CityId": 49153,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Victor Valley",
+      "CityId": 49315,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ocotillo",
+      "CityId": 49319,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ontario",
+      "CityId": 49320,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "San Simeon",
+      "CityId": 49575,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fairplay",
+      "CityId": 49574,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Georgetown",
+      "CityId": 49630,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Crested Butte",
+      "CityId": 49429,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dolores",
+      "CityId": 49431,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fruita",
+      "CityId": 49432,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Platteville",
+      "CityId": 49434,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ignacio",
+      "CityId": 49650,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Creede",
+      "CityId": 49725,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Grand Lake",
+      "CityId": 49134,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Trinidad",
+      "CityId": 49149,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wray",
+      "CityId": 49150,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cañon City",
+      "CityId": 49114,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort garland",
+      "CityId": 49127,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Leadville",
+      "CityId": 49138,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Aspen",
+      "CityId": 43387,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Boulder",
+      "CityId": 43393,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Colorado Springs",
+      "CityId": 43403,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Denver",
+      "CityId": 43408,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Englewood",
+      "CityId": 43412,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Collins",
+      "CityId": 43417,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Golden",
+      "CityId": 43420,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Grand Junction",
+      "CityId": 43421,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Longmont",
+      "CityId": 43431,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Loveland",
+      "CityId": 43433,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Montrose",
+      "CityId": 43435,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pueblo",
+      "CityId": 43444,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Steamboat Springs",
+      "CityId": 43455,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Telluride",
+      "CityId": 43458,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "East Haven",
+      "CityId": 43488,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Farmington",
+      "CityId": 43492,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Greenwich",
+      "CityId": 43495,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hamden",
+      "CityId": 43499,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hartford",
+      "CityId": 43500,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mystic",
+      "CityId": 43510,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Britain",
+      "CityId": 43512,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Haven",
+      "CityId": 43515,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New London",
+      "CityId": 43516,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Norwalk",
+      "CityId": 43522,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Norwich",
+      "CityId": 43523,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Portland",
+      "CityId": 43529,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Southington",
+      "CityId": 43539,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Stamford",
+      "CityId": 43541,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Suffield",
+      "CityId": 43545,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "West Hartford",
+      "CityId": 43555,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wethersfield",
+      "CityId": 43559,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wilton",
+      "CityId": 43561,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Windsor Locks",
+      "CityId": 43563,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Woodstock",
+      "CityId": 43566,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bethlehem",
+      "CityId": 49298,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Coventry",
+      "CityId": 49299,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "East Windsor",
+      "CityId": 49300,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Essex",
+      "CityId": 49276,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ledyard",
+      "CityId": 49277,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Stonington",
+      "CityId": 49278,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Old Lyme",
+      "CityId": 49279,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ridgefield",
+      "CityId": 49280,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hockessin",
+      "CityId": 50874,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Winterthur",
+      "CityId": 50910,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dover",
+      "CityId": 43571,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newark",
+      "CityId": 43580,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wilmington",
+      "CityId": 43586,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Washington",
+      "CityId": 48730,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "St. Augustine",
+      "CityId": 48735,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kenansville",
+      "CityId": 48725,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Islamorada",
+      "CityId": 48960,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "DeLand",
+      "CityId": 48932,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Boca Raton",
+      "CityId": 43606,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bradenton",
+      "CityId": 43610,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cape Coral",
+      "CityId": 43618,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Clearwater",
+      "CityId": 43625,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Clermont",
+      "CityId": 43626,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Coral Gables",
+      "CityId": 43633,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Coral Springs",
+      "CityId": 43634,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dania Beach",
+      "CityId": 43645,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Davie",
+      "CityId": 43646,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Daytona Beach",
+      "CityId": 43647,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Delray Beach",
+      "CityId": 43655,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dunedin",
+      "CityId": 43662,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fernandina Beach",
+      "CityId": 43673,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Lauderdale",
+      "CityId": 43680,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Myers",
+      "CityId": 43681,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Pierce",
+      "CityId": 43683,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Walton Beach",
+      "CityId": 43684,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Gainesville",
+      "CityId": 43688,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Jacksonville",
+      "CityId": 43720,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Jupiter",
+      "CityId": 43724,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Key Biscayne",
+      "CityId": 43728,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Key West",
+      "CityId": 43730,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kissimmee",
+      "CityId": 43732,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lake Wales",
+      "CityId": 43740,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lakeland",
+      "CityId": 43742,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lauderhill",
+      "CityId": 43748,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Loxahatchee",
+      "CityId": 43757,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Merritt Island",
+      "CityId": 43768,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Miami",
+      "CityId": 43769,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Miami Beach",
+      "CityId": 43770,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Milton",
+      "CityId": 43776,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Naples",
+      "CityId": 43781,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "North Miami",
+      "CityId": 43793,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "North Miami Beach",
+      "CityId": 43794,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ocala",
+      "CityId": 43800,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Orlando",
+      "CityId": 43809,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Osprey",
+      "CityId": 43812,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Palm Beach",
+      "CityId": 43816,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Palm Beach Gardens",
+      "CityId": 43817,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Palmetto",
+      "CityId": 43823,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pensacola",
+      "CityId": 43829,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pompano Beach",
+      "CityId": 43837,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Quincy",
+      "CityId": 43845,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sanibel",
+      "CityId": 43861,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sarasota",
+      "CityId": 43862,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tallahassee",
+      "CityId": 43882,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tampa",
+      "CityId": 43885,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tarpon Springs",
+      "CityId": 43886,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Vero Beach",
+      "CityId": 43896,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "West Palm Beach",
+      "CityId": 43904,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Winter Haven",
+      "CityId": 43916,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Winter Park",
+      "CityId": 43917,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wildwood",
+      "CityId": 50641,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "St. Petersburg",
+      "CityId": 49294,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Melbourne",
+      "CityId": 49321,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Micanopy",
+      "CityId": 49322,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mount Dora",
+      "CityId": 49323,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ponce Inlet",
+      "CityId": 49328,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tavares",
+      "CityId": 49329,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Clewiston",
+      "CityId": 49577,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "North Bay Village",
+      "CityId": 50313,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "St. Pete Beach",
+      "CityId": 50316,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Jekyll Island",
+      "CityId": 49699,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "St. Simons",
+      "CityId": 49332,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sautee Nacoochee",
+      "CityId": 49333,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Washington",
+      "CityId": 49389,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "LaGrange",
+      "CityId": 49287,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "LaFayette",
+      "CityId": 49217,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "White",
+      "CityId": 49194,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Augusta",
+      "CityId": 49185,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Atlanta",
+      "CityId": 43929,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Carrollton",
+      "CityId": 43946,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Columbus",
+      "CityId": 43952,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fayetteville",
+      "CityId": 43979,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kennesaw",
+      "CityId": 43999,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lawrenceville",
+      "CityId": 44002,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Macon",
+      "CityId": 44010,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Marietta",
+      "CityId": 44012,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Milledgeville",
+      "CityId": 44015,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Rome",
+      "CityId": 44033,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Roswell",
+      "CityId": 44035,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sandy Springs",
+      "CityId": 44038,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Savannah",
+      "CityId": 44039,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Statesboro",
+      "CityId": 44045,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Thomasville",
+      "CityId": 44049,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Aiea",
+      "CityId": 44064,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hilo",
+      "CityId": 44070,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Honolulu",
+      "CityId": 44072,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kahului",
+      "CityId": 44073,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kapolei",
+      "CityId": 44080,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lihue",
+      "CityId": 44085,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wahiawa",
+      "CityId": 44096,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wailuku",
+      "CityId": 44099,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Honolulu County",
+      "CityId": 48557,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Waimanalo",
+      "CityId": 50599,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Laupahoehoe",
+      "CityId": 50870,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Laie",
+      "CityId": 50711,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Salmon",
+      "CityId": 49720,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lava Hot Springs",
+      "CityId": 49821,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Boise",
+      "CityId": 44104,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Coeur d'Alene",
+      "CityId": 44109,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Idaho Falls",
+      "CityId": 44112,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pocatello",
+      "CityId": 44119,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Twin Falls",
+      "CityId": 44126,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chicago",
+      "CityId": 44173,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oak Park",
+      "CityId": 44314,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Park Forest",
+      "CityId": 44324,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Schaumburg",
+      "CityId": 44351,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Indianapolis",
+      "CityId": 44429,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Berne",
+      "CityId": 50262,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Decorah",
+      "CityId": 49743,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Elk Horn",
+      "CityId": 49685,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "West Branch",
+      "CityId": 49667,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bettendorf",
+      "CityId": 44489,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Burlington",
+      "CityId": 44491,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cedar Falls",
+      "CityId": 44493,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cedar Rapids",
+      "CityId": 44494,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Coralville",
+      "CityId": 44498,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Council Bluffs",
+      "CityId": 44499,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Davenport",
+      "CityId": 44500,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Des Moines",
+      "CityId": 44501,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dubuque",
+      "CityId": 44502,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oskaloosa",
+      "CityId": 44521,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pella",
+      "CityId": 44523,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Urbandale",
+      "CityId": 44527,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Waterloo",
+      "CityId": 44528,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Leawood",
+      "CityId": 44549,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Alexandria",
+      "CityId": 44641,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Baton Rouge",
+      "CityId": 44645,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lafayette",
+      "CityId": 44673,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mandeville",
+      "CityId": 44676,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Monroe",
+      "CityId": 44681,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Natchitoches",
+      "CityId": 44683,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Orleans",
+      "CityId": 44685,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Plaquemine",
+      "CityId": 49669,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Vacherie",
+      "CityId": 49719,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Edgard",
+      "CityId": 50848,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bar Harbor",
+      "CityId": 50912,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ridgely",
+      "CityId": 50920,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Baltimore",
+      "CityId": 44757,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Easton",
+      "CityId": 44794,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hanover",
+      "CityId": 44821,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Acton",
+      "CityId": 44903,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Amesbury",
+      "CityId": 44905,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Arlington",
+      "CityId": 44907,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Beverly",
+      "CityId": 44916,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Boston",
+      "CityId": 44918,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Boylston",
+      "CityId": 44919,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Brockton",
+      "CityId": 44921,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cambridge",
+      "CityId": 44925,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Canton",
+      "CityId": 44926,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Charlestown",
+      "CityId": 44927,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Clinton",
+      "CityId": 44931,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Concord",
+      "CityId": 44932,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dedham",
+      "CityId": 44934,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fall River",
+      "CityId": 44941,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fitchburg",
+      "CityId": 44942,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Gloucester",
+      "CityId": 44947,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Haverhill",
+      "CityId": 44953,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Holyoke",
+      "CityId": 44957,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hull",
+      "CityId": 44962,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hyannis",
+      "CityId": 44963,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lowell",
+      "CityId": 44972,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Milton",
+      "CityId": 44990,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Nantucket",
+      "CityId": 44993,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Natick",
+      "CityId": 44994,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Bedford",
+      "CityId": 44996,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newton",
+      "CityId": 44998,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Northampton",
+      "CityId": 45003,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pittsfield",
+      "CityId": 45009,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Provincetown",
+      "CityId": 45012,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Quincy",
+      "CityId": 45013,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Rehoboth",
+      "CityId": 45016,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Salem",
+      "CityId": 45021,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Somerville",
+      "CityId": 45029,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Springfield",
+      "CityId": 45038,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sturbridge",
+      "CityId": 45040,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Taunton",
+      "CityId": 45043,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Vineyard Haven",
+      "CityId": 45048,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Waltham",
+      "CityId": 45050,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Watertown",
+      "CityId": 45053,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Weston",
+      "CityId": 45065,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Middlesex",
+      "CityId": 48551,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newbury",
+      "CityId": 49126,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Monterey",
+      "CityId": 49122,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Deerfield",
+      "CityId": 49105,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Essex",
+      "CityId": 49108,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Falmouth",
+      "CityId": 49109,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lincoln",
+      "CityId": 49113,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Adams",
+      "CityId": 49084,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Amherst",
+      "CityId": 49086,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Brewster",
+      "CityId": 49096,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sandwich",
+      "CityId": 49151,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Stockbridge",
+      "CityId": 49152,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chatham",
+      "CityId": 49135,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Grafton",
+      "CityId": 49137,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "North Swansea",
+      "CityId": 49154,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wenham",
+      "CityId": 49156,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Williamstown",
+      "CityId": 49157,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cotuit",
+      "CityId": 49325,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "North Chatham",
+      "CityId": 49327,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Roxbury",
+      "CityId": 49334,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lowell",
+      "CityId": 49724,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Auburn Hills",
+      "CityId": 45082,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Detroit",
+      "CityId": 45114,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Monroe",
+      "CityId": 45182,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Anoka",
+      "CityId": 45255,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bloomington",
+      "CityId": 45262,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chaska",
+      "CityId": 45270,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Duluth",
+      "CityId": 45279,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mendota Heights",
+      "CityId": 45312,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Minneapolis",
+      "CityId": 45313,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Onamia",
+      "CityId": 45325,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Rochester",
+      "CityId": 45335,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Saint Paul",
+      "CityId": 45342,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fairfax",
+      "CityId": 49698,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Alexandria",
+      "CityId": 49494,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Preston",
+      "CityId": 49518,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Aitkin",
+      "CityId": 49435,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Comfrey",
+      "CityId": 49437,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Morton",
+      "CityId": 49438,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pine City",
+      "CityId": 49439,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "St. Cloud",
+      "CityId": 49440,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Apple Valley",
+      "CityId": 49442,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Two Harbors",
+      "CityId": 49443,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Moose Lake",
+      "CityId": 49193,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wabasha",
+      "CityId": 49219,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Willmar",
+      "CityId": 49220,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Winona",
+      "CityId": 49221,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Albert Lea",
+      "CityId": 49159,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Askov",
+      "CityId": 49162,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chisholm",
+      "CityId": 49164,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Elk River",
+      "CityId": 49170,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Ulm",
+      "CityId": 49196,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Northfield",
+      "CityId": 49197,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Currie",
+      "CityId": 49167,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Grand Rapids",
+      "CityId": 49175,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "International Falls",
+      "CityId": 49178,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Le Sueur",
+      "CityId": 49179,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Little Falls",
+      "CityId": 49180,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Madison",
+      "CityId": 49181,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Shakopee",
+      "CityId": 49215,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Taylors Falls",
+      "CityId": 49216,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pipestone",
+      "CityId": 49201,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Biloxi",
+      "CityId": 45362,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Clarksdale",
+      "CityId": 45368,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cleveland",
+      "CityId": 45369,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Greenwood",
+      "CityId": 45376,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Gulfport",
+      "CityId": 45378,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Indianola",
+      "CityId": 45382,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Jackson",
+      "CityId": 45383,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Meridian",
+      "CityId": 45390,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ocean Springs",
+      "CityId": 45395,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oxford",
+      "CityId": 45398,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Vicksburg",
+      "CityId": 45411,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cape Girardeau",
+      "CityId": 45427,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chesterfield",
+      "CityId": 45430,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Independence",
+      "CityId": 45457,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Joplin",
+      "CityId": 45461,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kansas City",
+      "CityId": 45462,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kirkwood",
+      "CityId": 45465,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Liberty",
+      "CityId": 45471,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Saint Joseph",
+      "CityId": 45495,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Springfield",
+      "CityId": 45502,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "St. Louis",
+      "CityId": 45503,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Gray Summit",
+      "CityId": 49409,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kearney",
+      "CityId": 49471,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Malden",
+      "CityId": 49472,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Mansfield",
+      "CityId": 49473,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Point Lookout",
+      "CityId": 49475,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ste. Genevieve",
+      "CityId": 49580,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Savannah",
+      "CityId": 49581,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Garryowen",
+      "CityId": 49647,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Philipsburg",
+      "CityId": 49662,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Malta",
+      "CityId": 49663,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Choteau",
+      "CityId": 49741,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bynum",
+      "CityId": 50840,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Billings",
+      "CityId": 45520,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bozeman",
+      "CityId": 45521,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Butte",
+      "CityId": 45522,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Great Falls",
+      "CityId": 45524,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hamilton",
+      "CityId": 45525,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Helena",
+      "CityId": 45527,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kalispell",
+      "CityId": 45530,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Missoula",
+      "CityId": 45538,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Polson",
+      "CityId": 45541,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Gering",
+      "CityId": 45554,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hastings",
+      "CityId": 45556,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kearney",
+      "CityId": 45559,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lincoln",
+      "CityId": 45562,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Norfolk",
+      "CityId": 45564,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Omaha",
+      "CityId": 45568,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Royal",
+      "CityId": 49723,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bayard",
+      "CityId": 49569,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Chadron",
+      "CityId": 49570,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Crawford",
+      "CityId": 49571,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Searchlight",
+      "CityId": 50244,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Moapa Valley",
+      "CityId": 50619,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Boulder City",
+      "CityId": 45572,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Henderson",
+      "CityId": 45576,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Las Vegas",
+      "CityId": 45577,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Manchester",
+      "CityId": 47577,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Concord",
+      "CityId": 47579,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Dover",
+      "CityId": 47581,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Keene",
+      "CityId": 47587,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Portsmouth",
+      "CityId": 47589,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Exeter",
+      "CityId": 47595,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wolfeboro",
+      "CityId": 47628,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cornish",
+      "CityId": 49564,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Enfield",
+      "CityId": 49565,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Moultonborough",
+      "CityId": 49567,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Roebling",
+      "CityId": 49383,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Salem",
+      "CityId": 49763,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lincroft",
+      "CityId": 49335,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sicklerville",
+      "CityId": 50270,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Spring Lake",
+      "CityId": 50676,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newark",
+      "CityId": 47633,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Jersey City",
+      "CityId": 47634,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Trenton",
+      "CityId": 47642,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Camden",
+      "CityId": 47644,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "East Orange",
+      "CityId": 47652,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Union",
+      "CityId": 47657,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wayne",
+      "CityId": 47661,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Plainfield",
+      "CityId": 47667,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Kearny",
+      "CityId": 47683,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Atlantic City",
+      "CityId": 47687,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Montclair",
+      "CityId": 47692,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Princeton",
+      "CityId": 47710,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Millville",
+      "CityId": 47711,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lyndhurst",
+      "CityId": 47759,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Morristown",
+      "CityId": 47772,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Holmdel",
+      "CityId": 47783,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Madison",
+      "CityId": 47792,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tuckerton",
+      "CityId": 49073,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Westampton",
+      "CityId": 49074,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Washington Crossing",
+      "CityId": 48943,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Morris Plains",
+      "CityId": 49038,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Far Hills",
+      "CityId": 49052,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Freehold",
+      "CityId": 49053,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Albuquerque",
+      "CityId": 47820,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Las Cruces",
+      "CityId": 47821,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Santa Fe",
+      "CityId": 47823,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hobbs",
+      "CityId": 47828,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Alamogordo",
+      "CityId": 47829,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Portales",
+      "CityId": 47837,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Silver City",
+      "CityId": 47842,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Corrales",
+      "CityId": 47847,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bernalillo",
+      "CityId": 47848,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bloomfield",
+      "CityId": 47850,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Los Ranchos de Albuquerque",
+      "CityId": 50841,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Jemez Springs",
+      "CityId": 49727,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tucumcari",
+      "CityId": 49729,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "El Prado",
+      "CityId": 49730,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lincoln",
+      "CityId": 49721,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Taos",
+      "CityId": 49665,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Truth or Consequences",
+      "CityId": 49661,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Radium Springs",
+      "CityId": 49649,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Amagansett",
+      "CityId": 49710,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Long Island City",
+      "CityId": 49331,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Corona",
+      "CityId": 49269,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Clayton",
+      "CityId": 49233,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Centerport",
+      "CityId": 49248,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "BOWLING GREEN",
+      "CityId": 50851,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New City",
+      "CityId": 50867,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Larchmont",
+      "CityId": 50550,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Albany",
+      "CityId": 47855,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Amherst",
+      "CityId": 47857,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Auburn",
+      "CityId": 47861,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Binghamton",
+      "CityId": 47872,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Buffalo",
+      "CityId": 47879,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Corning",
+      "CityId": 47897,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Elmira",
+      "CityId": 47915,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Glen Cove",
+      "CityId": 47933,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Glens Falls",
+      "CityId": 47934,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Glenville",
+      "CityId": 47935,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Harrison",
+      "CityId": 47946,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hempstead",
+      "CityId": 47950,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hudson",
+      "CityId": 47956,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lewiston",
+      "CityId": 47981,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Paltz",
+      "CityId": 48015,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New Windsor",
+      "CityId": 48018,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "New York City",
+      "CityId": 48019,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newburgh",
+      "CityId": 48021,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Niagara Falls",
+      "CityId": 48023,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Nyack",
+      "CityId": 48032,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oswego",
+      "CityId": 48043,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Owego",
+      "CityId": 48044,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oyster Bay",
+      "CityId": 48045,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Philipstown",
+      "CityId": 48053,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Plattsburgh",
+      "CityId": 48056,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Poughkeepsie",
+      "CityId": 48064,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Rochester",
+      "CityId": 48071,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Saratoga Springs",
+      "CityId": 48079,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Schenectady",
+      "CityId": 48082,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Seneca Falls",
+      "CityId": 48085,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sleepy Hollow",
+      "CityId": 48088,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Southold",
+      "CityId": 48093,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Syracuse",
+      "CityId": 48100,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Utica",
+      "CityId": 48107,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Yonkers",
+      "CityId": 48130,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Queens",
+      "CityId": 48996,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "The Bronx",
+      "CityId": 49001,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Brooklyn",
+      "CityId": 49005,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cold Spring Harbor",
+      "CityId": 49028,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cooperstown",
+      "CityId": 49029,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "High Falls",
+      "CityId": 49032,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Howes Cave",
+      "CityId": 49033,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Amsterdam",
+      "CityId": 49035,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Katonah",
+      "CityId": 49036,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bethel",
+      "CityId": 49037,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Water Mill",
+      "CityId": 48965,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ticonderoga",
+      "CityId": 48967,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Saint Johnsville",
+      "CityId": 48939,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sodus Point",
+      "CityId": 48949,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Stony Brook",
+      "CityId": 49100,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Staten Island",
+      "CityId": 48952,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Ogdensburg",
+      "CityId": 48711,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Abercrombie",
+      "CityId": 49102,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Cooperstown",
+      "CityId": 48951,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bismarck",
+      "CityId": 48183,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Williston",
+      "CityId": 48187,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Medora",
+      "CityId": 49637,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Fort Totten",
+      "CityId": 49658,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pembina",
+      "CityId": 49742,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Park Hill",
+      "CityId": 49638,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Glenpool",
+      "CityId": 50306,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bartlesville",
+      "CityId": 45820,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Grove",
+      "CityId": 45836,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Lawton",
+      "CityId": 45840,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Norman",
+      "CityId": 45849,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oklahoma City",
+      "CityId": 45850,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pawnee",
+      "CityId": 45853,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Shawnee",
+      "CityId": 45858,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Sulphur",
+      "CityId": 45860,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tulsa",
+      "CityId": 45863,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Astoria",
+      "CityId": 45875,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Bend",
+      "CityId": 45878,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Coos Bay",
+      "CityId": 45885,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Eugene",
+      "CityId": 45890,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hillsboro",
+      "CityId": 45900,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Hood River",
+      "CityId": 45901,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Klamath Falls",
+      "CityId": 45906,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Newberg",
+      "CityId": 45914,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Oregon City",
+      "CityId": 45921,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Pendleton",
+      "CityId": 45922,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Portland",
+      "CityId": 45923,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Salem",
+      "CityId": 45928,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Wilsonville",
+      "CityId": 45940,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Garibaldi",
+      "CityId": 49549,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "McMinnville",
+      "CityId": 49550,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Moro",
+      "CityId": 49551,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "The Dalles",
+      "CityId": 49562,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Tillamook",
+      "CityId": 49563,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Corbett",
+      "CityId": 50678,
+      "CountryName": "U.S.A.",
+      "CountryId": 231
+    },
+    {
+      "CityName": "Montevideo",
+      "CityId": 50565,
+      "CountryName": "Uruguay",
+      "CountryId": 233
+    },
+    {
+      "CityName": "Harare",
+      "CityId": 48823,
+      "CountryName": "Zimbabwe",
+      "CountryId": 246
+    },
+    {
+      "CityName": "Bulawayo",
+      "CityId": 48756,
+      "CountryName": "Zimbabwe",
+      "CountryId": 246
+    },
+    {
+      "CityName": "Western Zimbabwe",
+      "CityId": 48859,
+      "CountryName": "Zimbabwe",
+      "CountryId": 246
+    },
+    {
+      "CityName": "Beijing",
+      "CityId": 48753,
+      "CountryName": "China",
+      "CountryId": 261
+    },
+    {
+      "CityName": "Ngari",
+      "CityId": 50924,
+      "CountryName": "China",
+      "CountryId": 261
+    },
+    {
+      "CityName": "Beijing",
+      "CityId": 11190,
+      "CountryName": "China",
+      "CountryId": 261
+    },
+    {
+      "CityName": "Shanghai",
+      "CityId": 12304,
+      "CountryName": "China",
+      "CountryId": 261
+    },
+    {
+      "CityName": "Macao",
+      "CityId": 50386,
+      "CountryName": "Macao",
+      "CountryId": 522
+    },
+    {
+      "CityName": "Split",
+      "CityId": 50753,
+      "CountryName": "Croatia",
+      "CountryId": 560
+    },
+    {
+      "CityName": "Kutná Hora",
+      "CityId": 50860,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Velké Popovice",
+      "CityId": 50894,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Čestlice",
+      "CityId": 50900,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Karlštejn",
+      "CityId": 50903,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Praha - Troja",
+      "CityId": 50901,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Praha 1",
+      "CityId": 50861,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Prague",
+      "CityId": 50862,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Terezín",
+      "CityId": 50863,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Teplice",
+      "CityId": 50895,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Jetřichovice",
+      "CityId": 50899,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    },
+    {
+      "CityName": "Karlovy Vary",
+      "CityId": 50896,
+      "CountryName": "Czechia",
+      "CountryId": 642
+    }
+  ]
