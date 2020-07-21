@@ -6,7 +6,7 @@
   "cypress-file-upload": "^4.0.6",
   "fs": "0.0.1-security",
   "gmail-tester": "^1.2.2",
-  "lodash": "^4.17.15",
+  "lodash": "^4.17.19",
   "mochawesome": "^4.1.0",
   "mochawesome-merge": "^4.0.0",
   "simple-excel-to-json": "^2.2.1"
